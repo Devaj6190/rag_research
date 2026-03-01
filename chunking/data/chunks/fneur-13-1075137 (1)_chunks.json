@@ -1,0 +1,828 @@
+[
+  {
+    "chunk_id": "fneur-13-1075137 (1)_0",
+    "text": "REVIEWED BY Shufa Zheng, First Affiliated Hospital of Fujian Medical University, China Mario Ganau,\nOxford University Hospitals NHS Trust, United Kingdom\nThis article was submitted to Neurotrauma, a section of the journal Frontiers in Neurology\nQiu X, Wang D, Chen L, Huang G, Zhou X, Chen Q and Wang Z (2023) The compensatory mechanism and clinical significance of hydrocephalus after cranioplasty. Front. Neurol. 13:1075137.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_1",
+    "text": "© 2023 Qiu, Wang, Chen, Huang, Zhou, Chen and Wang. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_2",
+    "text": "distribution or reproduction is permitted which does not comply with these terms.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_3",
+    "text": "The compensatory mechanism and clinical significance of hydrocephalus after cranioplasty\nXiansheng Qiu 1 , Dong Wang 2 , Li Chen 3 , Guanlin Huang 2 , Xiaoping Zhou 2 , Qiang Chen 2 and Zhanxiang Wang 1 *\n1 The Graduate School of Fujian Medical University, Fuzhou, Fujian, China, 2 Department of Neurosurgery, Ganzhou People's Hospital, Ganzhou, Jiangxi, China, 3 Department of Neurosurgery, Fuzhou 900th Hospital of PLA, Fuzhou, Fujian, China",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_4",
+    "text": "Objective: Cranioplasty (CP) and ventriculoperitoneal shunt (VPS) are procedures required after decompression of the flap (DC) to protect the cranial frame and prevent hydrocephalus. This study evaluated the safety and efficacy of different surgical sequences of CP and VPS after DC and identified risk factors for necessary permanent VPS.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_5",
+    "text": "Methods: From January 2017 to December 2021, valid follow-up data were collected in 192 cases. The observation group preferred CP, and then evaluated whether to receive VPS according to the progress of hydrocephalus. the control group was prioritized for VPS and continued with CP after 1 week. The improvement of hydrocephalus symptoms, follow-up outcomes, and post-operative complications before and after surgery were compared between the two groups, and univariate analysis was used to determine",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_6",
+    "text": "between the two groups, and univariate analysis was used to determine the risk factors for necessary permanent risk factors for VPS.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_7",
+    "text": "Results: There were 86 cases (44.8%) in the observation group, who received CP first, while 106 cases (55.2%) in the control group received VPS and CP, respectively. There was no significant difference between the two groups according to Barthel index, FMAS, Mrs, GCS, and Evans index, and there was no statistical difference in complications between the two groups. However, in the observation group, hydrocephalus disappeared after CP operation in 29 cases (33.7%), and finally avoided VPS.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_8",
+    "text": "after CP operation in 29 cases (33.7%), and finally avoided VPS. Univariate analysis showed that the main etiology was related to the size of the skull defect, the distance of the talus margin relative to the flap to the midline, and lumbar puncture pressure was a predictor of the need for permanent VPS.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_9",
+    "text": "Conclusion: This study provides detailed information on the efficacy and complications of different sequences of preferential CP or VPS after DC surgery. We found that priority CP reduced the incidence of VPS surgery without affecting surgical outcomes and complications.\nhydrocephalus, ventriculoperitoneal shunt, decompressive, craniectomy, complications",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_10",
+    "text": "Decompressive craniectomy (DC) is a life-saving surgery that is often used to treat traumatic brain injury (TBI), massive cerebral infarction(MCI), intracerebral hemorrhage (ICH) and subarachnoid hemorrhage (SAH) caused by a sharp increase in intracranial pressure (ICP) and cannot be controlled by drugs. The goal of DC is to preserve more neurological function by maintaining cerebral blood perfusion, ensuring oxygenation, and improving intracranial compliance (1, 2).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_11",
+    "text": "However, DC will result in many complications, among which hydrocephalus is the most common complication, the most common of which is hydrocephalus, with an incidence of up to 17.7% and a high mortality and disability rate (3-6). The main causes of hydrocephalus include the loss of bone flap support, the impact of atmospheric pressure outside the intracranial abnormal pressure, as well as local brain tissue in the bone window location and position shift, all of which result in varying degrees",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_12",
+    "text": "window location and position shift, all of which result in varying degrees of cerebral perfusion disorders and cerebrospinal fluid circulation disorders, cerebrospinal fluid accumulation, and oppression subarachnoid and brain pool (7). Currently, cranioplasty (CP) and ventriculoperitoneal shunt are the two major treatments (VPS) (8) CP can effectively solve circulatory disorders and insufficient blood supply caused by skull defects and improve the appearance of patients, brain tissue safety and",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_13",
+    "text": "defects and improve the appearance of patients, brain tissue safety and neurological function (9). VPS is the drainage of excess cerebrospinal fluid from the ventricles of the patient into the abdominal cavity and absorption, thereby improving the symptoms of hydrocephalus (10).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_14",
+    "text": "Current studies have shown that Simultaneous or staged CP and VPS have different advantages and disadvantages. However, there is still disagreement regarding whether to give CP or VPS precedence in staged surgery (11-13). However, clinical practice has proven that hydrocephalus disappears in some patients after CP , and VPS can be avoided in the later stage (14). Therefore, we retrospectively analyzed patients with CP and VPS after DC for hydrocephalus to find the population with the greatest",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_15",
+    "text": "VPS after DC for hydrocephalus to find the population with the greatest benefit from free VPS after CP and clarify the compensation mechanism of hydrocephalus after CP.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_16",
+    "text": "From January 2017 to December 2021, we collected patients with hydrocephalus secondary to staged DC for CP and VPS. All patients were from the First Affiliated Hospital of Xiamen University, the People's Hospital of Ganzhou City, and the 900 Hospital of the PLA Joint Logistic Support Force. This study was approved by the institutional review Board of the hospital. Because of the retrospective nature of the study, the requirement for informed consent was waived.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_17",
+    "text": "Medical records were retrospectively reviewed for patient variables, including sex, age, primary causes (cerebral trauma, cerebral infarction, intracranial hemorrhage and subarachnoid hemorrhage, brain tumor, and others), skull defect parts and skull defect area, bone flap edge to the centerline distance, time of CP, underlying diseases (hypertension, diabetes), lumbar puncture pressure, intraoperative meningeal damage, and lumbar cisterna indwelling rate. Records of patients before and 6",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_18",
+    "text": "and lumbar cisterna indwelling rate. Records of patients before and 6 months after the operation, Barthel Index, FMAS, Mrs, GCS, Evans' Index and perioperative complications (such as implant infection, subdural fluid, epilepsy, drainage disorder, bleeding).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_19",
+    "text": "Inclusion criteria: ① History of DC; ② hydrocephalus diagnosed by CT or MRI (15-17); (Evan's index > 0.3, or associated with periventricular interstitial edema; Other causes of ventricular enlargement were excluded. ③ The presence of hydrocephalusrelated symptoms, such as headache, neurological dysfunction, etc., normal pressure hydrocephalus contains at least one of the following symptoms: gait disorders, cognitive disorders, urinary incontinence (18-20). ④ At least 4 weeks after DC.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_20",
+    "text": "The exclusion criteria were as follows: ① CP and VPS were performed simultaneously; ② GCS score ≤ 5 and the preoperative cerebrospinal fluid release test was ineffective; ③ VPS and CP were prohibited, such as intracranial infection and abdominal infection; ④ pregnant women and children.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_21",
+    "text": "A retrospective analysis was used in this study. All patients were divided into two groups according to the order of surgery, with the observation group being given priority for CP (including CP only and continued VPS without relief of hydrocephalus after CP) and the control group being given priority for VPS and continued CP after 1 week (Figure 1).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_22",
+    "text": "Three lumbar punctures were conducted 7 days before to surgery to assess cerebrospinal fluid pressure and rule out intracranial infection. The average of the three punctures was used as the intracranial pressure value in the normal physiological condition with the skull intact. The lumbar puncture is performed in a lateral position with the skull defect side facing upward. A cerebrospinal fluid release test was also required for each lumbar puncture to exclude patients with negative",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_23",
+    "text": "also required for each lumbar puncture to exclude patients with negative cerebrospinal fluid release test. Highpressure hydrocephalus is defined as three consecutive lumbar punctures with an average pressure of more than 200 mmH2O. For these patients, we carry out continuous lumbar pool draining 24 h before to surgery, and lumbar pool drainage if there is a brain bulge in the bone window area until the bone window is flat. The syndrome of the trephined (SoT) and paradoxical herniation (PH)",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_24",
+    "text": "flat. The syndrome of the trephined (SoT) and paradoxical herniation (PH) should be monitored during lumbar pool draining, and once it occurs, the drainage should be stopped and CP should be performed as soon as possible. Lumbar pool drainage is temporarily closed during surgery, It is recommended that the surgery be performed 3-6 months after DC surgery if the bone window dilates significantly after continuous lumbar cistern drainage and the skull model is difficult to place.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_25",
+    "text": "All patients underwent CT examination 24 h after surgery to observe the progression of hydrocephalus and the detection of bleeding in the surgical area. The observation group also needed to remove the lumbar pool drainage tube as early as possible according to the patients' clinical manifestations and imaging data assessment. The cumulative duration of the lumbar pool did not exceed 10 days. If hydrocephalus is suspected of not resolving, another cerebrospinal fluid release test is required to",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_26",
+    "text": "of not resolving, another cerebrospinal fluid release test is required to determine the need for continued VPS after removal of the lumbar pool.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_27",
+    "text": "Patients were followed up post-operatively at 1, 3, 6, 12, and 18 months in outpatients, inpatients (including outpatients), and by telephone; the follow-up included the degree of improvement of neurological function and new symptoms and signs. The imaging",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_28",
+    "text": "results were determined by imaging and neurology physicians who reviewed the films together. Patients in the observation group should be followed up more frequently within 6 months and returned to the hospital for evaluation as soon as hydrocephalus symptoms or neurological decline is suspected.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_29",
+    "text": "The improvement effect of surgery was assessed based on the hydrocephalus symptoms (including cognitive living ability assessment, speech ability, physical activity ability, improvement of urinary incontinence, etc.,) and medical imaging (including reduction of ventricular morphology and remission of interstitial brain edema, etc. During the followup period. The incidence of post-operative complications was recorded for all patients and quantified using the Barthel Index (points), FMAS",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_30",
+    "text": "for all patients and quantified using the Barthel Index (points), FMAS (points), Mrs (points), GCS (points) and Evan's index. A recurrence of hydrocephalus was defined as an Evan's index > 0.3, which had to fall again after neurological improvement.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_31",
+    "text": "The primary endpoint event was defined as perioperative death from any cause. Reoperation to remove the skull titanium mesh or shunt was needed; any intracranial bleeding or severe infection required a second operation. The secondary endpoint events were a decrease in GOS of more than 1 point or a decrease in GCS of more than 2 points in coma patients; new-onset epilepsy, poor healing of the surgical mouth, subcutaneous effusion, cerebrospinal fluid leakage, etc.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_32",
+    "text": "Continuous variables are expressed as the mean ± standard deviation (range), and categorical data are expressed as frequencies and percentages. To assess risk factors for propensity to VPS and after CP surgery, one-way analysis was used, and a bilateral p -value < 0.05 was considered statistically significant. Data were analyzed using the Statistical Package for Social Sciences (SPSS, Version 22.0; IBM, Armonk, NY, USA).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_33",
+    "text": "4.1. Comparison of baseline characteristics between the observation and control groups\nWe received 249 patients who met the criteria for inclusion and exclusion, including 93 in the observation group, of whom 7 were lost to follow-up; and 131 were in the control group, of which 9 were lost to follow-up, and 16 refused to continue CP after bypass. Finally, we collected complete clinical data and follow-up information for 192 patients (observation group: 86; control group: 106) (Table 1).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_34",
+    "text": "4.2. Comparison of surgical effects between the observation and control groups",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_35",
+    "text": "There was no significant difference in the Barthel Index (points), FMAS (points), Mrs score, GCS (points) and Evan, sor Evan's index between the two groups before surgery ( P > 0.05), 6 months later, the Barthel Index (points), FMAS (points), Mrs score and GCS (points) levels in both groups were significantly increased, while Evan's index was significantly decreased. The difference was significant before and after surgery ( P < 0.05), but there was no significant difference between the",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_36",
+    "text": "surgery ( P < 0.05), but there was no significant difference between the observation group and the control group at the same stage (Table 2).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_37",
+    "text": "4.3. Comparison of surgical complications between the observation and control groups\nAfter excluding patients who had epilepsy before surgery but still had epilepsy or aggravated epilepsy after surgery. There was no significant difference in the prognosis of disability or complication rate between the two groups ( P > 0.05). In the\nTABLE 1 Comparison of baseline characteristics in patients with observation and control groups.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_38",
+    "text": "TBI, traumatic brain injury; MCI, massive cerebral infarction; SAH, subarachnoid hemorrhage; ICH, intracerebral hemorrhage; sNPH, secondary normal pressure hydrocephalus.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_39",
+    "text": "observation group, one patient had an intracranial infection with an infection rate of 1.1% (1/86), which was cured after antiinfection treatment; two cases had subdural effusion, which was treated with intensive rehydration and hyperbaric oxygen for improvement, and two cases had epilepsy, which was considered to be caused by thermal stimulation of the surgical electric knife and was treated with antiepilepsy medication, and 6 months after quitting the medication, no recurrence was noted. In",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_40",
+    "text": "and 6 months after quitting the medication, no recurrence was noted. In the control group, two cases of intraoperative infection, three cases of subdural fluid and four cases of epilepsy disappeared after drug treatment; one case of new intracranial hemorrhage of ∼ 5 ml was seen on post-operative review, which was considered to be caused by intraoperative ventricular puncture during VPS, with no new neurological dysfunction after conservative treatment and rehabilitation (Table 3).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_41",
+    "text": "The complications in this study were slightly lower than those in other studies. Except for the fact that the existing complications were not included, the reason may be that 29 patients in the observation group only received CP but not VPS, which reduced the number of operations. Secondly, the complications of staged operations were less than those of simultaneous operations (11).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_42",
+    "text": "Barthel Index, the Barthelindex of ADL; FMAS, Fugl-Meyer assessment scale; mRs, Modified Rankin Scale; GCS, Glasgow coma scale. Evans' index: the ratio between the maximum width of the frontal horns and the maximal internaldiameter of the skull at the level of Monro's foramens. A radiological diagnosis of hydrocephalus is defined as an Evans' index value > 0.30.PRE-OP, pre-operation. POST-30d, post-operation 30 days.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_43",
+    "text": "TABLE 3 Comparison of complications between the observation and control groups.\n4.4. Comparison of the follow-up period between the observation and control groups",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_44",
+    "text": "In the observation group, 57 patients with unremitting hydrocephalus were given continued VPS during the follow-up period. Fifteen (26.3%) of the 57 patients in this group had TBI as the primary cause, 13 (22.8%) had SAH, 34 (59.6%) had bone flaps > 100 mm, 41 (71.9%) had non-isobaric hydrocephalus, and 39 (68.4%) were < 25 mm from the midline. In the control group, one patient had poor shunt drainage, 3 months later, the shunt adapter was found to be dislodged, and the shunt valve was replaced",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_45",
+    "text": "shunt adapter was found to be dislodged, and the shunt valve was replaced and continued to be fixed. One patient had recurrent fever 5 months after surgery, and intracranial infection was diagnosed by lumbar puncture, which was ineffective after conservative treatment and was diagnosed as calculous cholecystitis and retrograde infection to the skull and was cured after removal of the gallbladder and continued anti-infection treatment.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_46",
+    "text": "4.5. Analysis of risk factors for non-planed VPS after CP",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_47",
+    "text": "In the observation group, 29 of the 86 patients with hydrocephalus gradually resolved after CP and did not undergo VPS again during the follow-up period. The following variables were used to assess risk factors for the need for VPS after CP: gender, age, primary cause (TBI, MCI, ICH and SHA, brain tumor, and others), skull defect parts and skull defect area, bone flap edge to the centerline distance, time of CP , lumbar puncture pressure; and by univariate logistic regression analysis, primary",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_48",
+    "text": "puncture pressure; and by univariate logistic regression analysis, primary etiology, skull defect area, distance from the edge of the bone flap to the midline, and lumbar puncture pressure were the risk factors for assessing the need for VPS (Table 4).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_49",
+    "text": "5.1. The compensatory effect of hydrocephalus after CP has not attracted enough cognition or attention\nDC is a common emergency surgery to suppress malignant intracranial hypertension, which has irreplaceable advantages in reducing the mortality and disability rate. However, 17.7% of patients will still develop hydrocephalus (3, 5, 13, 21, 22). Although VPS can\nTABLE 4 Risk factor analysis for non-planed VPS after CP.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_50",
+    "text": "TABLE 4 Risk factor analysis for non-planed VPS after CP.\nNon-planed VPS, non-planed ventriculoperitoneal shunt; OR, odds ratio; CI, confidence interval; TBI, traumatic brain injury; SAH, subarachnoid hemorrhage; ICH, intracerebral hemorrhage; Non-NPH, non-normal pressure hydrocephalus. Normal pressure is defined as 70-200 mmH2O.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_51",
+    "text": "restore normal cerebral fluid circulation and relieve hydrocephalus symptoms, additional VPS not only increases the burden and pain of patients but also increases the risk of infection, bleeding, epilepsy, poor skin healing, implant exposure, and rejection (23, 24). Various protocols have been tried to reduce complication rates (25). For example, studies have suggested simultaneous VPS and CP to improved clinical outcomes, shorter hospital stays, and lower medical costs (26). However, some",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_52",
+    "text": "shorter hospital stays, and lower medical costs (26). However, some researchers believe that staged surgery can reduce the single operation time, thereby reducing the risk of surgical complications such as infection (11, 13).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_53",
+    "text": "There is still no consensus on whether VPS or CP should be prioritized in staged surgery for the population that will benefit the most, but in clinical practice, some patients with subsequent disappearance of hydrocephalus after CP are eventually spared from VPS (14, 27). In this study, 29 out of 86 patients in the observation group did not need VPS after priority CP, which also confirmed the above view again, which provides important reference significance for us to choose the surgical",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_54",
+    "text": "provides important reference significance for us to choose the surgical sequence. Through univariate logistic regression analysis of the data of 29 patients who did not need VPS and the remaining 57 patients who underwent VPS again, we found that the primary etiology, bone flap size, bone flap distance from the midline and intracranial pressure were risk factors for the evaluation of the need for VPS, which may be related to the different compensatory abilities of hydrocephalus after CP.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_55",
+    "text": "5.2. The influence of the skull on cerebrospinal fluid dynamics",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_56",
+    "text": "Because DC alters the sealing and integrity of the skull cavity, intracranial pressure, cerebral hemodynamics, and cerebrospinal fluid dynamics will be affected, and these changes can be evaluated by cerebral compliance ( /Delta1 V/ /Delta1 P). All factors that cause the increase in cerebral compliance will reduce the pulsation of cerebrospinal fluid, causing cerebrospinal fluid dynamics to be disrupted (2831). Grant made the first report on the complication SoT after DC (32). Although the",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_57",
+    "text": "made the first report on the complication SoT after DC (32). Although the pathophysiological mechanisms of this pathology have not been fully elucidated, the influences proposed by various theories may end up being related to cerebrospinal fluid dynamics (33). Since the volume in the cranial cavity is relatively fixed, the blood, cerebrospinal fluid, and brain tissue homeostasis are in a reciprocal relationship. SoT symptoms can disappear after CP , which fully suggests that SoT is a reversible",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_58",
+    "text": "can disappear after CP , which fully suggests that SoT is a reversible complication after DC. This type of hydrocephalus is not permanent, and its pathological changes may be a transient disturbance of cerebrospinal fluid dynamics after DC, and with the recovery of cerebrospinal fluid dynamics after CP (34), cerebral blood flow increases and brain tissue pressure is relieved, they can return to normal physiology again (35).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_59",
+    "text": "Secondly, the larger the bone flap removed, the greater the scalp malleability, the higher the brain compliance, and the greater the risk of cerebrospinal fluid dynamics disorder. Some studies have shown that even without external drainage of cerebrospinal fluid or massive dehydration with drugs, patients with large bone flap decompression still have flap depression and abnormal cerebral hernia. Therefore, a large bone flap may have a significant impact on cerebrospinal fluid dynamics (36, 37).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_60",
+    "text": "may have a significant impact on cerebrospinal fluid dynamics (36, 37). Some retrospective studies have found that removing bone flaps larger than 70 mm increases the risk of hydrocephalus (38, 39). The subdural effusion in the oversized bone flap group was significantly higher than that in the conventional bone flap group, which also suggested the influence of the size of the removed bone flap on the abnormal distribution of cerebrospinal fluid (40).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_61",
+    "text": "As a result, cerebrospinal fluid dynamics disorder after DC results in abnormal distribution of cerebrospinal fluid. If the influence of cerebrospinal fluid dynamics after DC is to be reduced, it is necessary to priority its return to a normal physiological state and restore the integrity of the skull as soon as possible. With the improvement and recovery of cerebrospinal fluid dynamics after DC, hydrocephalus itself is less affected in patients with small and medium DC, and the",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_62",
+    "text": "probability of cerebrospinal fluid dynamics returning to normal after DCis greater than that in patients with large DC.\n5.3. Increased absorption of cerebral effusion by arachnoid granules",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_63",
+    "text": "The central nervous system is physically protected by Cerebrospinal fluid (CSF), which also supplies the homeostatic environment required for healthy neuronal function (31). During the production and absorption of cerebrospinal fluid, it is not stationary but continues to beat and remains relatively stable. Cerebrospinal fluid is secreted by choroid plexus epithelial cells, flows along specific pathways and is finally absorbed by venous sinuses. Any cause that affects increased secretion of",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_64",
+    "text": "absorbed by venous sinuses. Any cause that affects increased secretion of cerebrospinal fluid, or (and) absorption disorders, or (and) circulation disorders can disrupt the homeostasis of cerebrospinal fluid circulation (41, 42). For example, SHA, intraventricular hemorrhage, or intracranial infection are more likely to develop into hydrocephalus due to the release of hemoglobin and transforming growth factorβ 1, which mechanically block the absorption of cerebrospinal fluid and are more",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_65",
+    "text": "mechanically block the absorption of cerebrospinal fluid and are more difficult to recover from than those with less mechanical obstruction (43, 44).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_66",
+    "text": "According to earlier research by Waziri, hydrocephalus still manifests after DC in cases of ischemic stroke even though subarachnoid hemorrhage does not occlude the arachnoid granules. Consequently, it was believed that the primary factor causing hydrocephalus following DC was a blockage of cerebrospinal fluid absorption and output (14). Because the nutricular granule is a pressure-dependent unidirectional valve structure, the absorption of cerebrospinal fluid needs to be achieved under a",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_67",
+    "text": "the absorption of cerebrospinal fluid needs to be achieved under a specific pressure (45). Therefore, once the arachnoid granules obstruct the outflow of CSF and the absorption of hydrocephalus, the risk of hydrocephalus absorption is greatly increased. It has also been demonstrated that the closer the bone flap is to midline of the skull, the greater the probability of hydrocephalus, which may be related to the greater distribution of arachnoid granules near the midline of the skull (3, 46).",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_68",
+    "text": "distribution of arachnoid granules near the midline of the skull (3, 46). As a result of the pressure recovery, arachnoid granules increase the absorption of cerebrospinal fluid, reducing the degree of hydrocephalus (47, 48). In brief, patients with bone flaps farther from the midline benefited more than those with bone flaps < 25 mm.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_69",
+    "text": "5.4. Effects of intracranial and extracranial pressure balance and improved cerebral blood flow",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_70",
+    "text": "The normal circulation of cerebrospinal fluid depends on stable intracranial pressure (ICP), which is maintained by arterial pulsation to provide cerebrospinal fluid flow power (49). Fodstad proposed that the pathogenesis of SoT may be the direct effect of atmospheric pressure on the cerebral cortex and intracranial venous return due to the cranial defect, resulting in a siphoning effect on cerebrospinal fluid dynamics, leading to a negative gradient between atmospheric pressure and",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_71",
+    "text": "dynamics, leading to a negative gradient between atmospheric pressure and intracranial pressure (50). In summary, after DC, scalp ductility increased, the intracranial pressure environment was broken, ICP decreased, and the speed of cerebrospinal fluid circulation slowed. The study of cerebrospinal fluid dynamics by magnetic resonance technology also confirmed that the phenomenon of cerebrospinal fluid flow velocity slowed down after DC (50). Therefore, cerebrospinal fluid accumulates",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_72",
+    "text": "slowed down after DC (50). Therefore, cerebrospinal fluid accumulates continuously in the ventricle, resulting in higher and higher pressure to increase pulsing pressure to promote cerebrospinal fluid flow. After DC, due to a 'squeeze pressure' on the ventricle space, it is no longer necessary to rely on passive ventricular expansion to provide pressure, and the cerebrospinal fluid flow rate can be increased by two times (51), which allows part of the excess cerebrospinal fluid to be expelled",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_73",
+    "text": "(51), which allows part of the excess cerebrospinal fluid to be expelled and absorbed. Stula also reported that cranial repair ameliorated cortical compression (52). Thus, restoration of physiological structure of CP can break the disorder of cerebrospinal fluid circulation after DC, reduce the probability of hydrocephalus and improve neurological function.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_74",
+    "text": "In addition to the effect of intracranial pressure on cerebrospinal fluid circulation, the study also found that cerebral blood flow velocity decreased after bone flap removal, and the larger the bone flap was, the slower the blood flow velocity (53, 54). The Richaud study also concluded that CP could increase cortical blood flow on the side of the skull defect by 15-30% (55, 56). Second, Yamaura found that 95% of patients with DC had accompanying EEG changes, and 60% of these patients had EEG",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_75",
+    "text": "with DC had accompanying EEG changes, and 60% of these patients had EEG improvements after CP, as well as clinical seizures (57). In addition, with the increase in rehabilitation programs, brain function training and recovery after CP, some patients can relieve the degree of hydrocephalus through compensation of the body.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_76",
+    "text": "The present study was a small sample size, with only 29 patients exempted from VPS in the preliminary results and lack of clinical data in children, and the final conclusion remains to be confirmed; therefore, patients without VPS for CP alone need to be followed up more intensively with timely review and evaluation for VPS at any time to prevent neurological damage from hydrocephalus. Since neurotrauma service can positively impact the management of the broad spectrum of TBI in different",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_77",
+    "text": "positively impact the management of the broad spectrum of TBI in different clinical settings (58); subsequently we will seek patients' consent to share the follow-up information to the neurotrauma unit specialists in the neurotrauma unit and the neurorehabilitation unit to standardize patient management and enable patients to receive more standardized care.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_78",
+    "text": "DC is prone to pathological changes such as disturbed cerebrospinal fluid dynamics, impaired hydrocephalus absorption, changes in intracranial and extracranial pressure, and decreased cerebral blood flow. Priority CP can assist hydrocephalus patients in returning to normal physiology as quickly as possible without impairing cerebral function, and there is a potential to be free of VPS. Additionally, the primary etiology, the location of the skull defect, the distance from the bone flap's border",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_79",
+    "text": "the location of the skull defect, the distance from the bone flap's border to the midline, and the pressure of the lumbar puncture are crucial in determining whether or not a permanent VPS is necessary.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_80",
+    "text": "The original contributions presented in the study are included in the article/supplementary material, further inquiries can be directed to the corresponding author.\nThe studies involving human participants were reviewed and approved by Ethics Committee of Ganzhou People's Hospital. The patients/participants provided their written informed consent to participate in this study.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_81",
+    "text": "DW: study design and collection, analysis, and interpretation of data. XQ: data collection, manuscript preparation, and review. GH and QC: analysis of images. LC and XZ: data collection. ZW: study concept and design, analysis of images, and critical revision of the manuscript for intellectual content. All authors contributed to the article and approved the submitted version.\nThis research was supported by the Fujian Provincial Clinical Research Center for Brain Diseases (2021FJSLCYX01),",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_82",
+    "text": "1. Güresir E, Raabe A, Setzer M, Vatter H, Gerlach R, Seifert V, et al. Decompressive hemicraniectomy in subarachnoid haemorrhage: the influence of infarction, haemorrhage and brain swelling. J Neurol Neurosurg Psychiatry. (2009) 80:799-801. doi: 10.1136/jnnp.2008.155630\n2. Güresir E, Schuss P, Seifert V, Vatter H. Decompressive craniectomy in children: single-center series and systematic review. Neurosurgery. (2012) 70:881-8. doi: 10.1227/NEU.0b013e318237a6a6",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_83",
+    "text": "3. De Bonis P, Sturiale CL, Anile C, Gaudino S, Mangiola A, Martucci M, et al. Decompressive craniectomy, interhemispheric hygroma and hydrocephalus: a timeline of events. Clin Neurol Neurosurg. (2013) 115:1308-12. doi: 10.1016/j.clineuro.2012.12.011\n4. Ki HJ, Lee HJ, Lee HJ Yi JS, Yang JH, Lee IW. The risk factors for hydrocephalus and subdural hygroma after decompressive craniectomy in head injured patients. J Korean Neurosurg Soc. (2015) 58:254-61. doi: 10.3340/jkns.2015.58.3.254",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_84",
+    "text": "5. Vedantam A, Yamal JM, Hwang H, Robertson CS, Gopinath SP. Factors associated with shunt-dependent hydrocephalus after decompressive craniectomy for traumatic brain injury. J Neurosurg. (2018) 128:1547-52. doi: 10.3171/2017.1.JNS162721\n6. Tsang AC, Hui VK, Lui WM, Leung GK. Complications of post-craniectomy cranioplasty: risk factor analysis and implications for treatment planning. J Clin Neurosci. (2015) 22:834-7. doi: 10.1016/j.jocn.2014.11.021",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_85",
+    "text": "7. Rufus P, Moorthy RK, Joseph M, Rajshekhar V. Post-traumatic hydrocephalus: incidence, pathophysiology and outcomes. Neurol India. (2021) 69:S420-8. doi: 10.4103/0028-3886.332264\n8. Castellani GB, Miccoli G, Cava FC, Salucci P , Colombo V , Maietti E, et al. From shunt to recovery: a multidisciplinary approach to hydrocephalus treatment in severe acquired brain injury rehabilitation. Brain Sci. (2021) 12:3. doi: 10.3390/brainsci12010003",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_86",
+    "text": "9. Feroze AH, Walmsley GG, Choudhri O, Lorenz HP, Grant GA, Edwards MS. Evolution of cranioplasty techniques in neurosurgery: historical review, pediatric considerations, and current trends. J Neurosurg. (2015) 123:1098-107. doi: 10.3171/2014.11.JNS14622\n10. Stagno V, Navarrete EA, Mirone G, Esposito F. Management of hydrocephalus around the world. World Neurosurg . (2013). 79:S23.e17-20. doi: 10.1016/j.wneu.2012.02.004",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_87",
+    "text": "Xiamen Clinical Research Center for Neurological Diseases (2021XMSLCYX01), and Natural Science Foundation of Jiangxi Province (20224BAB206041).\nThe authors would like to thank all participants of the study.\nThe authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.\nThe reviewer SZ declared a shared parent affiliation with the author XQ to the handling editor at the time of review.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_88",
+    "text": "All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_89",
+    "text": "11. Gill JH, Choi HH, Lee SH, Jang KM, Nam TK, Park YS, et al. Comparison of post-operative complications between simultaneous and staged surgery in cranioplasty and ventriculoperitoneal shunt placement after decompressive craniectomy. Korean J Neurotrauma. (2021) 17:100-7. doi: 10.13004/kjnt.2021.17.e20\nHeo J, Park SQ, Cho SJ, Chang JC, Park HK. Evaluation of simultaneous cranioplasty and ventriculoperitoneal shunt procedures. J Neurosurg. (2014) 121:313-8. doi: 10.3171/2014.2.JNS131480",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_90",
+    "text": "Schuss P, Borger V, Güresir Á, Vatter H, Güresir E. Cranioplasty and ventriculoperitoneal shunt placement after decompressive craniectomy: staged surgery is associated with fewer post-operative complications. World Neurosurg. (2015) 84:1051-4. doi: 10.1016/j.wneu.2015.05.066",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_91",
+    "text": "Waziri A, Fusco D, Mayer SA, McKhann GM, Connolly ES. Postoperative hydrocephalus in patients undergoing decompressive hemicraniectomy for ischemic or hemorrhagic stroke . Neurosurgery. (2007) 61:489-93. doi: 10.1227/01.NEU.0000290894.85072.37\n15. Chen CH, Cheng YC, Huang CY, Chen HC, Chen WH, Chai JW. Accuracy of MRI derived cerebral aqueduct flow parameters in the diagnosis of idiopathic normal pressure hydrocephalus. J Clin Neurosci. (2022) 105:9-15. doi: 10.1016/j.jocn.2022.08.018",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_92",
+    "text": "16. Missori P , Paolini S, Peschillo S, Mancarella C, Scafa AK, Rastelli E, et al. Temporal horn enlargements predict secondary hydrocephalus diagnosis earlier than evans' index. Tomography. (2022) 8:1429-36. doi: 10.3390/tomography8030115",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_93",
+    "text": "17. Borzage M, Saunders A, Hughes J, McComb JG, Blüml S, King KS. The first examination of diagnostic performance of automated measurement of the Callosal angle in 1,856 elderly patients and volunteers indicates that 12.4% of exams met the criteria for possible normal pressure hydrocephalus. AJNR Am J Neuroradiol. (2021) 42:1942-8. doi: 10.3174/ajnr.A7294",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_94",
+    "text": "18. Gavrilov GV, Gaydar BV, Svistov DV, Korovin AE, Samarcev IN, Churilov LP, et al. Idiopathic normal pressure hydrocephalus (Hakim-Adams Syndrome): clinical symptoms, diagnosis and treatment. Psychiatr Danub. (2019) 31:737-44.\n19. Atasoy B, Aralasmak A, Cetinkaya E, Toprak H, Toprak A, Tokdemir S, et al. Normal pressure hydrocephalus: clinical symptoms, cerebrospinal fluid flow metrics and white matter changes. J Comput Assist Tomogr. (2020) 44:59-64. doi: 10.1097/RCT.0000000000000959",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_95",
+    "text": "20. Hochstetler A, Raskin J, Blazer-Yost BL. Hydrocephalus: historical analysis and considerations for treatment. Eur J Med Res. (2022) 27:168. doi: 10.1186/s40001-022-00798-6\n21. Honeybul S, Ho KM. Incidence and risk factors for post-traumatic hydrocephalus following decompressive craniectomy for intractable intracranial hypertension and evacuation of mass lesions. J Neurotrauma. (2012) 29:1872-8. doi: 10.1089/neu.2012.2356",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_96",
+    "text": "22. Fattahian R, Bagheri SR, Sadeghi M. Development of post-traumatic hydrocephalus requiring ventriculoperitoneal shunt after decompressive craniectomy for traumatic brain injury: a systematic review and meta-analysis of retrospective studies. Med Arch. (2018) 72:214-9. doi: 10.5455/medarh.2018.72.214-219",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_97",
+    "text": "23. Kobayashi E, Kanno S, Kawakami N, Narita W, Saito M, Endo K, et al. Risk factors for unfavourable outcomes after shunt surgery in patients with idiopathic normalpressure hydrocephalus. Sci Rep. (2022) 12:13921. doi: 10.1038/s41598-022-18209-5",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_98",
+    "text": "24. Rocque BG, Agee BS, Thompson EM, Piedra M, Baird LC, Selden NR, et al. Complications following pediatric cranioplasty after decompressive craniectomy: a multicenter retrospective study. J Neurosurg Pediatr. (2018) 22:225-32. doi: 10.3171/2018.3.PEDS17234",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_99",
+    "text": "25. Rosinski CL, Behbahani M, Geever B, Chaker AN, Patel S, Chiu R, et al. Concurrent vs. staged procedures for ventriculoperitoneal shunt and cranioplasty: a 10year retrospective comparative analysis of surgical outcomes. World Neurosurg. (2020) 143:e648-55. doi: 10.1016/j.wneu.2020.08.062",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_100",
+    "text": "26. Sahuquillo J, Dennis JA. Decompressive craniectomy for the treatment of high intracranial pressure in closed traumatic brain injury. Cochrane Database Syst Rev. (2019) 12:CD003983. doi: 10.1002/14651858.CD003983.pub3\n27. Stiver SI. Complications of decompressive craniectomy for traumatic brain injury. Neurosurg Focus. (2009) 26:E7. doi: 10.3171/2009.4.FOCUS0965",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_101",
+    "text": "28. Greitz D. Cerebrospinal fluid circulation and associated intracranial dynamics. A radiologic investigation using MR imaging and radionuclide cisternography . Acta Radiol Suppl. (1993) 386:1-23.\n29. Wagshul ME Eide PK, Madsen JR. The pulsating brain: a review of experimental and clinical studies of intracranial pulsatility. Fluids Barriers CNS. (2011) 8:5. doi: 10.1186/2045-8118-8-5",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_102",
+    "text": "30. Idris Z, Mustapha M, Abdullah JM. Microgravity environment and compensatory: Decompensatory phases for intracranial hypertension form new perspectives to explain mechanism underlying communicating hydrocephalus and its related disorders. Asian J Neurosurg. (2014) 9:7-13. doi: 10.4103/1793-5482.131058",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_103",
+    "text": "31. Wang Y, van Gelderen P, de Zwart JA, Özbay PS, Mandelkow H, Picchioni D, et al. Cerebrovascular activity is a major factor in the cerebrospinal fluid flow dynamics. Neuroimage. (2022) 258:119362. doi: 10.1016/j.neuroimage.2022.119362\n32. Grant FC, Norcross NC, Repair of cranial defects by cranioplasty. Ann Surg. (1939) 110:488-512. doi: 10.1097/00000658-193910000-00002",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_104",
+    "text": "33. Bor-Seng-Shu E, Figueiredo EG, Amorim RLO, Teixeira MJ, Valbuza JS, de Oliveira MM, et al. Decompressive craniectomy: a meta-analysis of influences on intracranial pressure and cerebral perfusion pressure in the treatment of traumatic brain injury. J Neurosurg. (2012) 117:589-96. doi: 10.3171/2012.6.JNS101400",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_105",
+    "text": "34. Láng J, Ganau M, Prisco L, Bozsik K, Banczerowski P. Syndrome of trephinedunderestimated and poorly understood complication after decompressive craniectomy. Ideggyogy Sz. (2016) 69:227-32. doi: 10.18071/isz.69.0227\n35. Stiver SI, Wintermark M. Manley GT. Reversible monoparesis following decompressive hemicraniectomy for traumatic brain injury . J Neurosurg. (2008) 109:24554. doi: 10.3171/JNS/2008/109/8/0245",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_106",
+    "text": "36. Sarov M, Guichard J-P, Chibarro S, Guettard E, Godin O, Yelnik A, et al. Sinking skin flap syndrome and paradoxical herniation after hemicraniectomy for malignant hemispheric infarction. Stroke. (2010) 41:560-2. doi: 10.1161/STROKEAHA.109.568543\n37. Attia M, Harel R, Harnof S, Zibli Z, Spiegelmann R. Paradoxical transtentorial herniation in a patient with pseudotumor cerebri. Isr Med Assoc J. (2006) 8:355-6. Available online at: https://www.ima.org.il/FilesUploadPublic/IMAJ/0/48/24227.pdf",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_107",
+    "text": "38. Fotakopoulos G, Tsianaka E, Siasios G, Vagkopoulos K, Fountas K. Posttraumatic hydrocephalus after decompressive craniectomy in 126 patients with severe traumatic brain injury. J Neurol Surg Cent Eur Neurosurg. (2016) 77:88-92. doi: 10.1055/s-0035-1558411\n39. Kan P, Amini A, Hansen K, Jr GLW, Brockmeyer DL, Walker ML, et al. Outcomes after decompressive craniectomy for severe traumatic brain injury in children. J Neurosurg. (2006) 105:337-42. doi: 10.3171/ped.2006.105.5.337",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_108",
+    "text": "40. Qiu W, Guo C, Shen H, Chen K, Wen L, Huang H, et al. Effects of unilateral decompressive craniectomy on patients with unilateral acute post-traumatic brain swelling after severe traumatic brain injury. Crit Care. (2009) 13:R185. doi: 10.1186/cc8178\n41. Oreškovi´ c D, Radoš M, Klarica M. New concepts of cerebrospinal fluid physiology and development of hydrocephalus. Pediatr Neurosurg. (2017) 52:417-25. doi: 10.1159/000452169",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_109",
+    "text": "42. Xu H. New concept of the pathogenesis and therapeutic orientation of acquired communicating hydrocephalus. Neurol Sci. (2016) 37:1387-91. doi: 10.1007/s10072-016-2589-7\n43. Chen Q, Tang J, Tan L, Guo J, Tao Y, Li L, et al. Intracerebral hematoma contributes to hydrocephalus after intraventricular hemorrhage via aggravating iron accumulation. Stroke. (2015) 46:2902-8. doi: 10.1161/STROKEAHA.115.009713",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_110",
+    "text": "44. Li T, Zhang P, Yuan B, Zhao D, Chen Y, Zhang X. Thrombin-induced TGFβ 1 pathway: a cause of communicating hydrocephalus post-subarachnoid hemorrhage. Int J Mol Med. (2013) 31:660-6. doi: 10.3892/ijmm.2013.1253\n45. Welch K, Friedman V. The cerebrospinal fluid valves. Brain. (1960) 83:454-69. doi: 10.1093/brain/83.3.454",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_111",
+    "text": "46. De Bonis P, Pompucci A, Mangiola A, Rigante L, Anile C. Post-traumatic hydrocephalus after decompressive craniectomy: an underestimated risk factor. J Neurotrauma. (2010) 27:1965-70. doi: 10.1089/neu.2010.1425\n47. Wen L, Lou H-Y, Xu J, Wang H, Huang X, Gong J-B, et al. The impact of cranioplasty on cerebral blood perfusion in patients treated with decompressive craniectomy for severe traumatic brain injury. Brain Inj. (2015) 29:1654-60. doi: 10.3109/02699052.2015.1075248",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_112",
+    "text": "48. Eide PK, Sorteberg W. Association among intracranial compliance, intracranial pulse pressure amplitude and intracranial pressure in patients with intracranial bleeds. Neurol Res. (2007) 29:798-802. doi: 10.1179/016164107X224132",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_113",
+    "text": "49. Akins PT, Guppy KH. Are hygromas and hydrocephalus after decompressive craniectomy caused by impaired brain pulsatility, cerebrospinal fluid hydrodynamics, and glymphatic drainage? Literature overview and illustrative cases . World Neurosurg. (2019) 130:e941-52. doi: 10.1016/j.wneu.2019.07.041",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_114",
+    "text": "50. Fodstad H, Love JA, Ekstedt J, Fridén H, Liliequist B. Effect of cranioplasty on cerebrospinal fluid hydrodynamics in patients with the syndrome of the trephined. Acta Neurochir. (1984) 70:21-30. doi: 10.1007/BF01406039\n51. Dujovny M, Fernandez P, Alperin N, Betz W, Misra M, Mafee M. Post-cranioplasty cerebrospinal fluid hydrodynamic changes: magnetic resonance imaging quantitative analysis. Neurol Res. (1997) 19:311-6. doi: 10.1080/01616412.1997.11740818",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_115",
+    "text": "52. Stula D. Intracranial pressure measurement in large skull defects. Neurochirurgia. (1985) 28:164-9. doi: 10.1055/s-2008-1054190\n53. Picard NA, Zanardi CA. Brain motion in patients with skull defects: B-mode ultrasound observations on respiration-induced movements. Acta Neurochir. (2013) 155:2149-57. doi: 10.1007/s00701-013-1838-2\n54. Dujovny M, Agner C, Aviles A. Syndrome of the trephined: theory and facts. Crit Rev Neurosurg. (1999) 9:271-8. doi: 10.1007/s003290050143",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_116",
+    "text": "55. Richaud J, Boetto S, Guell A, Lazorthes Y. Effects of cranioplasty on neurological function and cerebral blood flow. Neurochirurgie. (1985) 31:183-8.\n56. Rynkowski CB, Robba C, Loreto M, Theisen ACW, Kolias AG, Finger G, et al. Effects of cranioplasty after decompressive craniectomy on neurological function and cerebral hemodynamics in traumatic vs. non-traumatic brain injury. Acta Neurochir Suppl. (2021) 131:79-82. doi: 10.1007/978-3-030-59436-7_17",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  },
+  {
+    "chunk_id": "fneur-13-1075137 (1)_117",
+    "text": "57. Yamaura A, Makino H. Neurological deficits in the presence of the sinking skin flap following decompressive craniectomy. Neurol Med Chir. (1977) 17:43-53. doi: 10.2176/nmc.17pt1.43\n58. Dasic D, Morgan L, Panezai A, et al. A scoping review on the challenges, improvement programs, and relevant output metrics for neurotrauma services in major trauma centers. Surg Neurol Int. (2022) 13:171. doi: 10.25259/SNI_203_2022",
+    "metadata": {
+      "source": "fneur-13-1075137 (1).pdf"
+    }
+  }
+]

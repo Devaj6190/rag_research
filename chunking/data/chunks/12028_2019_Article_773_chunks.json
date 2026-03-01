@@ -1,0 +1,716 @@
+[
+  {
+    "chunk_id": "12028_2019_Article_773_0",
+    "text": "Incidence, Risk Factors, and Outcomes of Ventilator-Associated Pneumonia in Traumatic Brain Injury: A Meta-analysis\nYating Li 1,2 , Chenxia Liu 1,2 , Wei Xiao 3 , Tiantian Song 1,2 and Shuhui Wang 1*\n© 2019 Springer Science+Business Media, LLC, part of Springer Nature and Neurocritical Care Society",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_1",
+    "text": "Ventilator-associated pneumonia (VAP) is one of the most severe complications in patients with traumatic brain injury (TBI) and is considered a risk factor for poor outcomes. However, the incidence of VAP among patients with TBI reported in studies varies widely. What is more, the risk factors and outcomes of VAP are controversial. This study estimates the incidence, risk factors, and outcomes of VAP in patients with TBI and provides evidence for prevention and treatment. PubMed, EMBASE,",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_2",
+    "text": "TBI and provides evidence for prevention and treatment. PubMed, EMBASE, Cochrane Library, and Web of Science databases were searched from the earliest records to May 2018. Data involving the incidence, risk factors, and outcomes were extracted for meta-analysis. The results showed that the incidence of VAP was 36% (95% confidence interval (CI) 31-41%); risk factors analyses showed that smoking [odds ratio (OR) 2.13; 95% CI 1.16-3.92], tracheostomy (OR 9.55; 95% CI 3.24-28.17), blood transfusion",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_3",
+    "text": "1.16-3.92], tracheostomy (OR 9.55; 95% CI 3.24-28.17), blood transfusion on admission (OR 2.54; 95% CI 1.24-5.18), barbiturate infusion (OR 3.52; 95% CI 1.68-7.40), injury severity score (OR 4.65; 95% CI 1.96-7.34), and head abbreviated injury scale (OR 2.99; 95% CI 1.66-5.37) were related to the occurrence of VAP. When patients developed VAP, mechanical ventilation time (OR 5.45; 95% CI 3.78-7.12), ICU length of stay (OR 6.85; 95% CI 4.90-8.79), and hospital length of stay (OR 10.92; 95% CI",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_4",
+    "text": "(OR 6.85; 95% CI 4.90-8.79), and hospital length of stay (OR 10.92; 95% CI 9.12-12.72) were significantly increased. However, VAP was not associated with an increased risk of mortality (OR 1.28; 95% CI 0.74-2.21). VAP is common in patients with TBI. It is affected by a series of factors and has a poor prognosis.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_5",
+    "text": "Keywords: Ventilator-associated pneumonia, Traumatic brain injury, Incidence, Risk factors, Outcome",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_6",
+    "text": "Traumatic brain injury (TBI) is brain damage caused by external force. It is the main cause of death and disability among trauma patients [1]. It is estimated that 53,000 people die each year from TBI in the United States and more than 5.3 million Americans are currently disabled for TBI [2]. Patients who have undergone TBI often suffer  from  profound  suppression  of  the  cellular  immune system and impaired consciousness [3], and they usually require  tracheal  intubation  and  ventilator",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_7",
+    "text": "[3], and they usually require  tracheal  intubation  and  ventilator  support  [4],",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_8",
+    "text": "1 Department of Infection Prevention and Control, Qilu Hospital of Shandong University, Rm.212, No.107 Wenhua West Road, Jinan 250012, Shandong Province, China Full list of author information is available at the end of the article\nboth of which increased the incidence of ventilator-associated pneumonia (VAP).",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_9",
+    "text": "VAP  is  a  type  of  nosocomial  pneumonia  developing 48 h or more after receiving mechanical ventilation. Studies have shown that VAP can lead to increased mortality  and  morbidity [5].  In  addition,  when  patients  suffered from VAP, the medical expenses increase [6].",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_10",
+    "text": "The incidence of VAP  among  patients with TBI reported in studies varies widely, ranging from 23 to 60% [7-9].  In  addition,  previous  studies  have  demonstrated that  the  risk  factors  for  VAP  among  patients  with  TBI include smoking, higher injury severity score (ISS), tracheostomy,  diabetes,  and  so  on  [8-12].  However,  these studies  did  not  provide  consistent  evidence  for  prevention  and  treatment  due  to  many  reasons,  such  as  small sample sizes, different",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_11",
+    "text": "due  to  many  reasons,  such  as  small sample sizes, different population sources, and the use of",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_12",
+    "text": "different study designs [11, 12]. What is more, some studies indicated that VAP increased the risk of mortality [13, 14], but other studies showed that VAP was not associated with mortality [9, 15]. Identification of risk factors and outcomes associated with VAP could permit clinical staff  to  provide  close  infection  surveillance  and  timely care for TBI patients at high risk for pneumonia. Therefore, a systematic summary is urgently needed.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_13",
+    "text": "In  the  present  study,  we  performed  a  meta-analysis of  the  incidence,  risk  factors,  and  outcomes  of  VAP  in patients with TBI, so as to provide evidence for the prevention and treatment of VAP among patients with TBI.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_14",
+    "text": "A literature search was performed using PubMed, EMBASE, Cochrane Library, and Web of Science databases up to May 2018. We used Medical Subject Headings  and  keywords  as  follows:  (traumatic  brain  injury OR  brain  injuries,  traumatic  OR  brain  injury  OR  TBI OR craniocerebral trauma OR craniocerebral injury OR head injury OR head trauma) AND (ventilator-associated pneumonia  OR  VAP  OR  pneumonia,  ventilator  associated  OR  ventilator  associated  pneumonia).  The  specific",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_15",
+    "text": "associated  OR  ventilator  associated  pneumonia).  The  specific searching strategy is described in Table S1. In the initial selection  phase,  two  reviewers  (Y.L.  and  C.L.)  screened the  title  and  abstract  of  studies  independently.  Studies that  obviously  did  not  meet  the  inclusion  criteria  were excluded,  and  those  included  articles  were  read  in  full text  to  confirm  their  eligibility.  Any  disagreement  was resolved by discussion with a third reviewer (S.W.).",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_16",
+    "text": "disagreement  was resolved by discussion with a third reviewer (S.W.). Reference lists of relevant studies were also manually searched for  further  studies.  The  publication  language  of  studies  was  not  limited.  Our  search  strategy  was  in  accordance  with  the  Preferred  Reporting  Items  for  Systematic Reviews and Meta-Analysis guidelines [16], The PRISMA checklist is described in Table S2.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_17",
+    "text": "The inclusion criteria for our study were: (1) All enrolled patients had undergone TBI and had mechanical ventilation for more than 48 h. (2) A clear definition and diagnosis of VAP. (3) Articles must provide one or more index for  the  incidence,  risk  factors,  or  outcomes  of  VAP .  (4) Cohort study or case-control study. (5) Full text available. (6) When multiple publications contain duplicate results, the study with the largest population was included.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_18",
+    "text": "Two people  extract  data  from  eligible  articles  independently, including study characteristics (first author, publication  time,  country,  number  of  patients,  number  of VAP,  gender,  age,  study  design,  the  definition  of  VAP, the severity of TBI), incidence, risk factors, and indexes representing  clinical  outcomes  (mortality,  mechanical ventilation time, intensive care unit (ICU) length of stay, hospital length of stay), so as to provide a comprehensive description of VAP",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_19",
+    "text": "length of stay), so as to provide a comprehensive description of VAP among patients with TBI.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_20",
+    "text": "Some studies were presenting continuous data (ventilator days, ICU length of stay, hospital length of stay, ISS [17]) using the mean and standard deviation or using the median and the first and third quartiles. To be able to use these data in our meta-analysis, we converted the median and the first and third quartiles to the mean and standard deviation using the method described by Wan et al. [18].",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_21",
+    "text": "The  quality  of  the  studies  was  evaluated  by  two  independent  reviewers  (Y.L.  and  C.L.)  using  the  Newcastle-Ottawa Scale (NOS) [19], which was used for cohort designs  and  case-control  designs.  The  quality  of  the studies was evaluated based on three perspectives: selection  (four  items),  comparability  (one  item),  and  exposure  or  outcome  (three  items).  The  NOS  rating  system with  a  score  ranging  from  0  to  9  stars.  High-quality studies  should  reach",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_22",
+    "text": "ranging  from  0  to  9  stars.  High-quality studies  should  reach  seven  stars  or  more,  4-6  stars  are of  medium quality,  and  less  than  four  stars  are  of  poor quality.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_23",
+    "text": "The incidence of VAP among patients with TBI was calculated  using  Stata  12.0  (Stata  Corp,  College  Station, TX); subgroup analyses in terms of study design, region, the definition of VAP, and the severity of TBI were also performed. Risk factors and outcomes of VAP in patients with TBI were analyzed using the Review Manager Software (RevMan5.3; Cochrane Collaboration, Oxford, UK). For  measurement  data,  the  weighted  mean  difference and  95%  confidence  intervals  (CIs)  were",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_24",
+    "text": "weighted  mean  difference and  95%  confidence  intervals  (CIs)  were  calculated  to compare the mean difference. For count data, odds ratios (ORs) and 95% CIs were used. They were considered significantly associated with VAP when P <  0.05.  Heterogeneity was calculated using I 2 statistic. Heterogeneity was considered  to  be  present  if I 2 >  50%  and  random  effects models were used; otherwise, a fixed effects model was used. Publication bias was performed by Begg's and Egger's test",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_25",
+    "text": "model was used. Publication bias was performed by Begg's and Egger's test using Stata 12.0 [20, 21]; a p value > 0.05 indicating the lack of publication bias.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_26",
+    "text": "A total of 974 records were identified from the databases (PubMed:  182,  EMBASE:  255,  Cochrane  Library:  135, Web of Science 393) and manually searched. After duplicates were removed, 658 records were retained. After initial  screening  of  article  titles  and  abstracts,  620  records",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_27",
+    "text": "were excluded. Then, 38 records were retained for further screening,  among  which,  there  were  four  reviews  and three case reports; four studies were not having a useful index  for  the  description  of  VAP,  and  five  studies  were not  cohort  studies  or  case-control  studies.  Not  all  the patients enrolled in seven studies were with TBI. Finally, 15 articles were included in this meta-analysis (Fig. 1).",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_28",
+    "text": "A total  of  15  articles  were  included  in  this  meta-analysis.  The  characteristics  of  the  included  studies  are  summarized in Table 1. Six studies were cohort studies, and nine studies were case-control studies. According to the NOS, two articles got eight stars, five articles got seven stars, five articles got six stars, and three articles got five stars (Table 2).",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_29",
+    "text": "The pooled incidence of VAP was 36% (95% CI 31-41%) among  patients  with  TBI,  as  shown  in  Fig.  2a.  We performed  a  subgroup  analysis  by  study  design  (prospective  and  retrospective)  to  explore  its  impact  on VAP incidence (Fig.  2b);  The  forest  plot  illustrated  that the  incidence  of  VAP  in  prospective  studies  (41%)  was relatively higher than their counterparts in retrospective studies (33%). Stratified analysis based on variation in the region was applied because",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_30",
+    "text": "Stratified analysis based on variation in the region was applied because of its potential effect on the incidence of VAP (Fig. 2c), and the results showed that the incidence of VAP in North America (39%) and Europe (40%) was relatively higher than Asia (28%). We also performed a subgroup analysis by definition of VAP (Fig. 2d), and the results showed the incidence of VAP in Centers for Disease Control (CDC) criteria [28], American Thoracic  Society  criteria  [29],  Chinese  Respiratory",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_31",
+    "text": "[28], American Thoracic  Society  criteria  [29],  Chinese  Respiratory  Society criteria [30] with 34%, 32%, 38%, respectively. Considering the impact of TBI severity on the incidence of VAP, we performed a subgroup analysis based on the severity of TBI (Fig. 2e), and the result showed that the incidences of VAP in severe TBI patients (defined according to the standards  used  in  the  original  study,  such  as  Glasgow",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_32",
+    "text": "Table 1  Characteristics of the studies included in the meta-analysis\nCDC Centers for Disease Control and Prevention, EOVAP early-onset ventilator-associated pneumonia, LOVAP late-onset ventilator-associated pneumonia, TBI traumatic brain injury, VAP ventilator-associated pneumonia",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_33",
+    "text": "*Values are represented as the mean ± standard derivation; † values are represented as the median (interquartile range); a age distribution of patients in both groups (VAP and non-VAP); b gender distribution of patients in both groups (VAP and non-VAP)",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_34",
+    "text": "coma score (GCS) ≤ 8,  the  presence  of  clinical  or  radiographic herniation, etc.) and all TBI patients were similar, with 35% and 39%, respectively. In addition to the overall incidence of VAP, some studies divided VAP into earlyonset  ventilator-associated  pneumonia  (EOVAP)  and late-onset ventilator-associated pneumonia (LOVAP).\nTable 2  Quality assessment of the studies using the Newcastle-Ottawa scale",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_35",
+    "text": "The results showed that the incidences of EOVAP (occurring in the first 3-7 days of mechanical ventilation) and LOVAP (occurring after 3-7 days of mechanical ventilation) were 26% and 16%, respectively (Fig. 2f, g).",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_36",
+    "text": "There  are  18  potential  risk  factors  (reported  in  at  least two studies) summarized in this meta-analysis. We found a significant relationship between VAP and the following risk  factors:  smoking,  tracheostomy,  blood  transfusion on admission, barbiturate infusion, ISS, head abbreviated injury scale (AIS), as noted in Table 3. The data demonstrated  that  smoking  increased  the  risk  for  VAP  among patients with TBI (OR 2.13; 95% CI 1.16-3.92; P <  0.05)**. Additionally patients",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_37",
+    "text": "with TBI (OR 2.13; 95% CI 1.16-3.92; P <  0.05)**. Additionally patients with tracheostomy were more vulnerable to VAP (OR 9.55; 95% CI 3.24-28.17; P <  0.05). What  is  more,  blood  transfusion  on  admission  also increased the risk for VAP (OR 2.54; 95% CI 1.24-5.18; P <  0.05). Additionally, barbiturate infusion increased the risk for VAP among patients with TBI (OR 3.52; 95% CI 1.68-7.40; P <  0.05). After data integration of three studies,  pooled results showed that patients with higher",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_38",
+    "text": "of three studies,  pooled results showed that patients with higher ISS were  more  likely  to  be  diagnosed  with  VAP  compared to  those  with  lower  ISS  (OR  4.65;  95%  CI  1.96-7.34; P <  0.05).  Moreover,  patients  with  head  AIS ≥ 3  were more  vulnerable  to  VAP  (OR  2.99;  95%  CI  1.66-5.37; P <  0.05).  No  significant  differences  were  detected based on  gender  (male),  age,  diabetes,  shock,  prophylactic antibiotics,  corticosteroids,  abdomen  AIS,  thorax  AIS, thorax",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_39",
+    "text": "antibiotics,  corticosteroids,  abdomen  AIS,  thorax  AIS, thorax  trauma,  spinal  trauma,  facial  trauma,  abdomen",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_40",
+    "text": "Fig. 2 a Incidence of VAP in patients with TBI ( CI confidence interval, ID identification). b Incidence of VAP by subgroup analysis of study design (prospective and retrospective) ( CI confidence interval, ID identification). c Incidence of VAP by subgroup analysis of the region ( CI confidence interval, ID identification). d Incidence of VAP by subgroup analysis of the definition of VAP ( CI confidence interval, ID identification). e Incidence of VAP by subgroup analysis of the severity of",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_41",
+    "text": "e Incidence of VAP by subgroup analysis of the severity of TBI ( CI confidence interval, ID identification, TBI traumatic brain injury). f Incidence of EOVAP in patients with TBI ( CI confidence interval, ID identification). g Incidence of LOVAP in patients with TBI ( CI confidence interval, ID identification)",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_42",
+    "text": "Table 3  Risk factors of ventilator-associated pneumonia in patients with TBI\nAIS abbreviated injury scale, CI confidence interval, ISS injury severity score, NA not available, OR odds ratio, TBI traumatic brain injury\ntrauma; therefore, these factors were determined not to be risk factors for VAP. The forest plots of risk factors are described in Figure S1.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_43",
+    "text": "After  data  integration  of  ten  studies,  pooled  results showed that VAP was not associated with mortality (OR 1.28;  95%  CI  0.74-2.21; P = 0.38),  as  shown  in  Fig.  3a. However,  VAP  increased the mechanical ventilation time  (OR  5.45;  95%  CI  3.78-7.12; P <0.05),  as  shown  in Fig. 3b. In addition, our pooled results also showed that ICU length of stay was increased significantly in patients infected with VAP (OR 6.85; 95% CI 4.90-8.79; P <0.05), as shown in Fig. 3c. Patients",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_44",
+    "text": "VAP (OR 6.85; 95% CI 4.90-8.79; P <0.05), as shown in Fig. 3c. Patients who developed VAP also had a  longer  duration  of  hospital  length  of  stay  (OR  10.92; 95% CI 9.12-12.72; P <0.05), as shown in Fig. 3d.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_45",
+    "text": "There was no significant publication bias in the analysis of  the  incidence  of  VAP  by  Egger's  test  ( P = 0.196)  and Begg's test ( P = 0.161). The results of publication bias for risk factor analysis are shown in Table 3. Moreover, the mortality  (Egger's  test P = 0.076;  Begg's  test P = 0.107), mechanical ventilation time (Egger's test P = 0.404; Begg's test P = 0.902), ICU length of stay (Egger's test P = 0.593; Begg's test P = 0.548), and hospital length of stay (Egger's test P =",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_46",
+    "text": "Begg's test P = 0.548), and hospital length of stay (Egger's test P = 0.454;  Begg's  test P = 0.296)  also  had  no  significant publication bias.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_47",
+    "text": "To  our  best  knowledge,  this  study  was  the  first  metaanalysis  exploring  the  incidence,  risk  factors,  and  outcomes of VAP in patients with TBI.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_48",
+    "text": "This  meta-analysis  showed  that  the  incidence  of  VAP in patients with TBI was 36% (95% CI 31-41%) by pooling  data  from  the  included  studies.  However,  the  spectacular  disparity  in  the  incidence  of  VAP  was  shown  in the previous studies. Bronchard et al. [23] and Jovanovic et  al.  [8]  reported  that  the  incidence  of  VAP  was  50%, while  Rincón-Ferrari  et  al.  [9]  found  that  the  incidence of  VAP was about 23%. Differences in the study design, region,  definition",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_49",
+    "text": "VAP was about 23%. Differences in the study design, region,  definition  of  VAP,  and  the  severity  of  TBI  may explain  this  wide  range,  leading  to  subgroup  analyses based on these factors. The result demonstrated that the incidence of VAP in prospective studies was significantly higher than retrospective studies (41% vs. 33%). A study performed by J Tobias et al. showed that data obtained retrospectively from the medical records were less complete  and  accurate compared to data",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_50",
+    "text": "the medical records were less complete  and  accurate compared to data obtained from the patients  prospectively  [31].  Retrospective  information is  fraught  with  the  problems  of  missing  data,  conflicting data, and illegibility [32]. We recommend that more prospective studies be carried out in the future so as to obtain  more  rigorous  results  about  VAP.  In  addition, there was a significant difference in the incidence of VAP between North America, Europe and Asia (39% vs. 40% vs.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_51",
+    "text": "incidence of VAP between North America, Europe and Asia (39% vs. 40% vs.  28%)  by  subgroup  analysis;  this  difference  may  be due to the lack of active infection monitoring systems in Asian countries compared to European and North American countries, which led to the inadequate feedback of hospital infection surveillance data and underestimate of the incidence of VAP [33-35]. What is more, the result showed that the incidences of VAP in severe TBI patients and  all  TBI  patients  were",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_52",
+    "text": "incidences of VAP in severe TBI patients and  all  TBI  patients  were  similar,  with  35%  and  39%, respectively. In this meta-analysis, three studies included all  TBI patients, rather than only those with severe TBI [10,  14,  23].  Most  of  the  patients  in  these  three  studies had  severe  neurologic  injury.  The  mean  GCS  score  of patients was 7.38 in the study conducted by Kallel et al. [14], and 7.2 in the study conducted by Bronchard et al. [23]. The median GCS score of",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_53",
+    "text": "in the study conducted by Bronchard et al. [23]. The median GCS score of patients was 6 in the study conducted by Leone et al. [10]. This may explain why the incidence of VAP in these three studies is similar to the studies including patients with severe TBI. Additionally, as for EOVAP and LOVAP, the incidence of EOVAP and LOVAP is related to the cutoff point used for definition [36]. However, the cutoff point in the literature is usually inconsistent  [37].  Unifying  EOVAP  and  LOVAP  cutoff",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_54",
+    "text": "is usually inconsistent  [37].  Unifying  EOVAP  and  LOVAP  cutoff point is of great significance to the treatment of patients and clinical research. Further research is needed to accurately assess the cutoff point.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_55",
+    "text": "Identification  of  risk  factors  associated  with  VAP could permit clinical staff to provide close infection surveillance and timely care for TBI patients at high risk for pneumonia so as to optimize clinical outcomes. In the present meta-analysis, we integrated all eligible studies of VAP in patients with TBI. By integrating the results of  previous  studies  and  expanding  the  sample  size,  we found  a  significant  relationship  between  VAP  and  the following  risk  factors:",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_56",
+    "text": "relationship  between  VAP  and  the following  risk  factors:  smoking,  tracheostomy,  blood transfusion  on  admission,  barbiturate  infusion,  ISS, and head AIS. We identified that smoking increased the risk for VAP, probably because smoking impairs mucociliary clearance, making it easier for pathogens to colonize  in  the  respiratory  tract  [38].  Smoking  remains  an important  contributor  to  pneumonia,  and  all  patients with  TBI  should  be  encouraged  to  quit.  Additionally,",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_57",
+    "text": "all  patients with  TBI  should  be  encouraged  to  quit.  Additionally, tracheotomy  increased  the  risk  for  VAP;  tracheotomy bypasses normal respiratory defense mechanisms, such as oropharynx and cilia, which contribute to the occurrence  of  VAP  [39].  It  has  been  reported  that  use  of suction-above-the-cuff  tracheotomy  tubes  reduces  the incidence of VAP [40]. More attention in the details of tracheotomy care such as the use of suction-above-thecuff tracheotomy tubes [40] may",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_58",
+    "text": "care such as the use of suction-above-thecuff tracheotomy tubes [40] may be helpful in decreasing the associated risk when tracheotomy is performed.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_59",
+    "text": "Furthermore, blood transfusion on admission heightens the risk for VAP, which may be because the early period of  acute  severe  trauma  is  associated  with  an  immunosuppressive  inflammatory  response,  and  this  response was  increased  in  magnitude  when  patients  received  a transfusion of blood products [41, 42]. In addition, our results showed that barbiturate use increased the risk of VAP in TBI patients, which may be related to the immunosuppressive effect of barbiturates given",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_60",
+    "text": "which may be related to the immunosuppressive effect of barbiturates given they; promote reversible  bone  marrow  suppression  in  patients  with TBI  [43]  and  increased  susceptibility  to  develop  VAP [27]. Although some treatments such as the use of barbiturates or blood transfusions are frequently indicated, they should be administered  appropriately.  Moreover,  the  result  of  this  meta-analysis  demonstrated  that patients with higher ISS or head AIS represent a specific target",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_61",
+    "text": "that patients with higher ISS or head AIS represent a specific target  population  for  the  prevention  of  VAP.  The  AIS provides a method for ranking and comparing injuries by severity in body regions [44]. The ISS is derived from the AIS and provides a description of the overall severity  of  injury  for  patients  with  trauma  [17].  A  study  by Teixeira Lopes et al. [45] analyzed the risk factors associated  with  post-traumatic  complications  in  hospitalized trauma patients. The",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_62",
+    "text": "with  post-traumatic  complications  in  hospitalized trauma patients. The study revealed that the higher the severity of trauma, the greater the number of hospitalization complications. Furthermore, the main complications presented by trauma patients were infections, especially  VAP and sepsis [45, 46]. The results suggest that  ISS  and  AIS  should  be  considered  in  therapeutic decisions to help healthcare providers properly identify patients at high risk for VAP and modify patient care",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_63",
+    "text": "properly identify patients at high risk for VAP and modify patient care to minimize the risk of VAP. VAP should be closely monitored to detect infections in the target population early and to take measures to achieve optimal results.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_64",
+    "text": "There  is  much  discussion  about  whether  to  use  prophylactic antibiotics for TBI patients. Our meta-analysis showed that there was no association between prophylactic antibiotics and the occurrence of VAP. A study by Reizine  et  al.  [47]  showed  that  prophylactic  antibiotics decreased the incidence of EOVAP but had no influence on  LOVAP;  additionally,  they  found  that  prophylactic antibiotics delayed the occurrence of VAP. Nevertheless, they  suggested  that  antibiotic",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_65",
+    "text": "the occurrence of VAP. Nevertheless, they  suggested  that  antibiotic  prophylaxis  should  not be routinely used in clinical practice because antibiotic prophylaxis has no effect on length of stay and mortality.  In  addition, a study by Hoth et al. [48] showed that trauma patients receiving antibiotic prophylaxis showed an increase in multi-drug-resistant bacteria. For the reasons mentioned above, we do not recommend prophylactic antibiotics in patients with TBI.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_66",
+    "text": "The  main  finding  of  this  study  was  that  VAP  did  not increase  the  mortality  in  patients  with  TBI.  This  was consistent with the results of Bregeon's [49] study, which ultimately showed that VAP did not seem to be an independent risk factor for death. Josephson's [50] study also showed that VAP does not lead to increased mortality in patients with neurovascular diseases, and he pointed out that death in patients with VAP was due mainly to neurologic injury and withdrawal of care.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_67",
+    "text": "with VAP was due mainly to neurologic injury and withdrawal of care. Additionally, VAP increased the mechanical ventilation time and prolonged the ICU length of stay and hospital length of stay. This is in agreement with the findings of many studies [51, 52], indicating that VAP imposed a great burden on patients [52].",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_68",
+    "text": "This meta-analysis has many advantages. First of all, we conducted a systematic literature  search.  By  integrating the results of previous studies, expanding the sample size and  performing  quantitative  analysis,  the  accurate  incidence of VAP in patients with TBI was provided from a global perspective. At the same time, subgroup analyses were  performed  to  identify  potential  factors  responsible for inconsistencies in previous studies, and we found that  the  incidence  of  VAP  in",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_69",
+    "text": "in previous studies, and we found that  the  incidence  of  VAP  in  North  America  (39%)  and Europe (40%) was relatively higher than Asia (28%) and the  incidence  of  VAP  in  prospective  studies  (41%)  was relatively higher than that in retrospective studies (33%). In addition, we analyzed many aspects of VAP in patients with TBI including the incidence, risk factors,  and  outcomes so as to provide a comprehensive understanding of VAP.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_70",
+    "text": "However,  some  limitations  of  this  meta-analysis  should be  mentioned.  First,  the  criteria  used  to  diagnose  VAP in  the  included  studies  were  inconsistent  and  the  analyzed studies used the following methods for VAP ascertainment: Three studies used the CDC criteria [28], two studies used the American Thoracic Society criteria [29], one study used the Chinese Respiratory Society criteria [30],  nine  studies  were  based  on  clinical,  radiographical and microbiological",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_71",
+    "text": "studies  were  based  on  clinical,  radiographical and microbiological criteria to provide references for doctors' diagnosis. In addition, the cutoff points used to define EOVAP and LOVAP in the included studies were inconsistent. For example, some studies defined that VAP occurring in the first 4 days after mechanical ventilation was  EOVAP  [9],  while  some  studies  defined  that  VAP occurring in the first 7 days after mechanical ventilation was  EOVAP  [23].  We  recommend  that  more",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_72",
+    "text": "after mechanical ventilation was  EOVAP  [23].  We  recommend  that  more  research about EOVAP and LOVAP be conducted in the future, so as to get more accurate knowledge about it. There are still many uncertainties in the diagnosis of VAP, which needs further research.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_73",
+    "text": "In the present study, we integrated all eligible studies of VAP in patients with TBI, demonstrating that patients",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_74",
+    "text": "with TBI were at very high risk of developing VAP, with a  pooled  incidence  of  36%.  We  also  found  that  VAP does  not  increase  the  mortality  in  patients  with  TBI, but  VAP  increases  the  mechanical  ventilation  time, ICU length of stay, and hospital length of stay. Moreover,  this  meta-analysis  demonstrated  that  smoking, tracheostomy,  blood  transfusion  on  admission,  barbiturate  infusion,  ISS,  and  head  AIS  are  risk  factors  for VAP,  providing  specific  target",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_75",
+    "text": "and  head  AIS  are  risk  factors  for VAP,  providing  specific  target  population  for  the  prevention of VAP.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_76",
+    "text": "The online version of this article (https  ://doi.org/10.1007/s1202  8-019-00773 -w) contains supplementary material, which is available to authorized users.\n1 Department of Infection Prevention and Control, Qilu Hospital of Shandong University, Rm.212, No.107 Wenhua West Road, Jinan 250012, Shandong Province, China. 2 School of Nursing, Shandong University, Jinan, Shandong Province, China. 3 Jinan Central Hospital Affiliated to Shandong University, Jinan, Shandong Province, China.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_77",
+    "text": "YTL was responsible for study design, literature search, data extraction, data analysis, and manuscript drafting. CXL was responsible for literature search, data extraction, and manuscript drafting. WX was responsible for data analysis and manuscript drafting. TTS was responsible for manuscript drafting and manuscript revision. SHW was responsible for study design, study supervision, and manuscript revision.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_78",
+    "text": "This study was funded by the Natural Science Foundation of Shandong Province (Grant No. ZR2018 MG015).\nThe authors declare that they have no conflicts of interest.\nSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.\nCristofori I, Levin HS. Traumatic brain injury and cognition. Handb Clin Neurol. 2015;128:579-611.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_79",
+    "text": "Alali AS, Burton K, Fowler RA, et al. Economic evaluations in the diagnosis and management of traumatic brain injury: a systematic review and analysis of quality. Value Health. 2015;18(5):721-34.\nGriffin GD. The injured brain: TBI, mTBI, the immune system, and infection: connecting the dots. Mil Med. 2011;176(4):364-8.\nNgubane T. Mechanical ventilation and the injured brain. South Afr J Anaesth Analg. 2011;17(1):76-80.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_80",
+    "text": "Pileggi C, Bianco A, Flotta D, Nobile CGA, Pavia M. Prevention of ventilator-associated pneumonia, mortality and all intensive care unit acquired infections by topically applied antimicrobial or antiseptic agents: a metaanalysis of randomized controlled trials in intensive care units. Crit Care. 2011;15(3):R155.\nRello J, Ollendorf DA, Oster G, et al. Epidemiology and outcomes of ventilator-associated pneumonia in a large US database. Chest. 2002;122(6):2115-21.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_81",
+    "text": "Esnault P , Nguyen C, Bordes J, et al. Early-onset ventilator-associated pneumonia in patients with severe traumatic brain injury: incidence,\nrisk factors, and consequences in cerebral oxygenation and outcome. Neurocrit Care. 2017;27(2):187-98.\nJovanovic B, Milan Z, Markovic-Denic L, et al. Risk factors for ventilatorassociated pneumonia in patients with severe traumatic brain injury in a Serbian trauma centre. Int J Infect Dis. 2015;38:46-51.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_82",
+    "text": "Rincon-Ferrari MD, Flores-Cordero JM, Leal-Noval SRN, Murillo-Cabezas F, Cayuelas A. Impact of ventilator-associated pneumonia in patients with severe head injury. J Trauma Inj Infect Crit Care. 2004;57(6):1234-40.\nLeone M, Bourgoin A, Giuly E, et al. Influence on outcome of ventilatorassociated pneumonia in multiple trauma patients with head trauma treated with selected digestive decontamination. Crit Care Med. 2002;30(8):1741-6.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_83",
+    "text": "Plurad DS, Kim D, Bricker S, et al. Ventilator-associated pneumonia in severe traumatic brain injury: the clinical significance of admission chest computed tomography findings. J Surg Res. 2013;183(1):371-6.\nMa L, Li N, Wu K, An YY, Zhang TR. Risk factors for ventilator-associated pneumonia in severe head trauma patients and pathogen analysis. Chin J Nosocomiol. 2012;22(2):261-3.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_84",
+    "text": "Guo WL, Zhou Y, Wang SQ, Nie W, Jiang QX, Chen Q. Risk factors analysis of ventilator-associated pneumonia in severe brain injury patients. China J Mod Med. 2013;23(24):90-2.\nKallel H, Chelly H, Bahloul M, et al. The effect of ventilator-associated pneumonia on the prognosis of head trauma patients. J Trauma. 2005;59(3):705-10.\nZygun DA, Zuege DJ, Boiteau PJE, et al. Ventilator-associated pneumonia in severe traumatic brain injury. Neurocrit Care. 2006;5(2):108-14.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_85",
+    "text": "Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med. 2009;6(7):e1000097.\nBaker SP, O'Neill B, Haddon W, Long WB. The injury severity score: a method for describing patients with multiple injuries and evaluating emergency care. J Trauma. 1974;14(3):187.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_86",
+    "text": "Wan X, Wang W, Liu J, Tong T. Estimating the sample mean and standard deviation from the sample size, median, range and/or interquartile range. BMC Med Res Methodol. 2014;14:135.\nStang A. Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses. Eur J Epidemiol. 2010;25(9):603-5.\nEgger M, Davey Smith G, Schneider M, Minder C. Bias in meta-analysis detected by a simple, graphical test. BMJ. 1997;315(7109):629-34.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_87",
+    "text": "Begg CB, Mazumdar M. Operating characteristics of a rank correlation test for publication bias. Biometrics. 1994;50(4):1088-101.\nSirvent JM, Torres A, Vidaur L, Armengol J, de Batlle J, Bonet A. Tracheal colonisation within 24 h of intubation in patients with head trauma: risk factor for developing early-onset ventilator-associated pneumonia. Intensive Care Med. 2000;26(9):1369-72.\nBronchard R, Albaladejo P , Brezac G, et al. Early onset pneumonia. Anesthesiology. 2004;100(2):234-9.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_88",
+    "text": "Wu GQ, Li ZY, Lv WX. Ventilator-associated pneumonia following severe craniocerebral trauma and its clinical characteristics. Chin J Nosocomiol. 2009;19(13):1649-51.\nLepelletier D, Roquilly A, Latte DDD, et al. Retrospective analysis of the risk factors and pathogens associated with early-onset ventilator-associated pneumonia in surgical-ICU head-trauma patients. J Neurosurg Anesthesiol. 2010;22(1):32-7.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_89",
+    "text": "Marjanovi ć V, Novak V, Velickovi ć L, Marjanovi ć G. The incidence and risk factors of ventilator-associated pneumonia in patients with severe traumatic brain injury. Med Pregl. 2011;64(7-8):403.\nHamele M, Stockmann C, Cirulis M, et al. Ventilator-associated pneumonia in pediatric traumatic brain injury. J Neurotrauma. 2016;33(9):832-9.\nGarner JS, Jarvis WR, Emori TG, Horan TC, Hughes JM. CDC definitions for nosocomial infections, 1988. Am J Infect Control. 1988;16:128-40.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_90",
+    "text": "Niederman M, Craven D, Bonten MJ. American Thoracic Society and the Infectious Diseases Society of America Guidelines for the management of adults with hospital-acquired, ventilator-associated, and healthcareassociated pneumonia. Am J Respir Crit Care Med. 2005;171(4):388-416.\nChinese Society of Respiratory Medicine. Guidelines for the diagnosis and treatment of hospital acquired pneumonia (draft). Chin J Tuberculol Respir Dis. 1999;14(4):160-1.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_91",
+    "text": "Tobias JN, Brown DFM, Swati S, Weiner JB, Wang AC, Yuchiao C. The accuracy and completeness of data collected by prospective and retrospective methods. Acad Emerg Med. 2005;12(9):884-95.\nSchwartz RJ, Panacek EA. Basics of research (part 7): archival data research. Air Med J. 1996;15(3):119-24.\nBenedetta A, Didier P . Healthcare-associated infection in developing countries: simple solutions to meet complex challenges. Infect Control Hosp Epidemiol. 2007;28(12):1323-7.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_92",
+    "text": "Kaier K, Lambert ML, Frank UK, et al. Impact of availability of guidelines and active surveillance in reducing the incidence of ventilator-associated pneumonia in Europe and worldwide. BMC Infect Dis. 2014;14(1):199.\nMachi S, Katsumi Y, Jun T. Epidemiological approach to nosocomial infection surveillance data: the Japanese Nosocomial Infection Surveillance System. Environ Health Prev Med. 2008;13(1):30-5.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_93",
+    "text": "Giard M, Lepape A, Allaouchiche B, et al. Early- and late-onset ventilatorassociated pneumonia acquired in the intensive care unit: comparison of risk factors. J Crit Care. 2008;23(1):27-33.\nIbn SW, Souweine B, Garrouste-Orgeas M, et al. Respective impact of implementation of prevention strategies, colonization with multiresistant bacteria and antimicrobial use on the risk of early- and late-onset VAP: an analysis of the OUTCOMEREA network. PLoS ONE. 2017;12(11):e0187791.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_94",
+    "text": "Chapman C, Morgan P, Cadilhac DA, Purvis T, Andrew NE. Risk factors for the development of chest infections in acute stroke: a systematic review. Top Stroke Rehabil. 2018;2:1-14.\nJoanne Elliot Z, Charlton ElliotS. An overview of mechanical ventilation in the intensive care unit. Nurs Stand. 2018;32(28):41-9.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_95",
+    "text": "Ledgerwood LG, Salgado MD, Hugh B, Ken Y, Ann S, Belafsky PC. Tracheotomy tubes with suction above the cuff reduce the rate of ventilatorassociated pneumonia in intensive care unit patients. Ann Otol Rhinol Laryngol. 2013;122(1):3-8.\nTorrance HD, Brohi K, Pearse RM, et al. Association between gene expression biomarkers of immunosuppression and blood transfusion in severely injured polytrauma patients. Scand J Trauma Resusc Emerg Med. 2014;22(S1):O7.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_96",
+    "text": "Xu G, Hu B, Chen G, et al. Analysis of blood trace elements and biochemical indexes levels in severe craniocerebral trauma adults with Glasgow Coma Scale and Injury Severity Score. Biol Trace Elem Res. 2015;164(2):192-7.\nStover JF, Stocker R. Barbiturate coma may promote reversible bone marrow suppression in patients with severe isolated traumatic brain injury. Eur J Clin Pharmacol. 1998;54(7):529-34.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_97",
+    "text": "Foreman BP, Ruth RC, Jennifer P , et al. Usefulness of the abbreviated injury score and the injury severity score in comparison to the Glasgow Coma Scale in predicting outcome after traumatic brain injury. J Trauma. 2007;62(4):946-50.\nTeixeira Lopes MCB, de Aguiar WJ, Yamaguchi WhitakerI. In-hospital complications in trauma patients according to injury severity. J Trauma Nurs. 2019;26(1):10-6.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_98",
+    "text": "De AJW, Saleh CM, Whitaker IY. Risk factors for complications of traumatic injuries. J Trauma Nurs Off J Soc Trauma Nurses. 2016;23(5):275.\nReizine F, Asehnoune K, Roquilly A, et al. Effects of antibiotic prophylaxis on ventilator-associated pneumonia in severe traumatic brain injury. A post hoc analysis of two trials. J Crit Care. 2019;50:221-6.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_99",
+    "text": "Jason JH, Franklin GA, Stassen NA, Girard SM, Rodriguez RJ, Rodriguez JL. Prophylactic antibiotics adversely affect nosocomial pneumonia in trauma patients. J Trauma Acute Care Surg. 2003;55(2):249-54.\nBregeon F, Ciais V, Carret V, et al. Is ventilator-associated pneumonia an independent risk factor for death? Anesthesiology. 2001;94(4):554-60.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_100",
+    "text": "Josephson SA, Moheet AM, Gropper MA, Nichols AD, Smith WS. Ventilator-associated pneumonia in a neurologic intensive care unit does not lead to increased mortality. Neurocrit Care. 2010;12(2):155-8.\nGautam A, Ganu SS, Tegg OJ, Andresen DN, Wilkins BH, Schell DN. Ventilator-associated pneumonia in a tertiary paediatric intensive care unit: a 1-year prospective observational study. Crit Care Resusc. 2012;14(4):283-9.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  },
+  {
+    "chunk_id": "12028_2019_Article_773_101",
+    "text": "Warren DK, Shukla SJ, Olsen MA, et al. Outcome and attributable cost of ventilator-associated pneumonia among intensive care unit patients in a suburban medical center. Crit Care Med. 2003;31(5):1312-7.",
+    "metadata": {
+      "source": "12028_2019_Article_773.pdf"
+    }
+  }
+]

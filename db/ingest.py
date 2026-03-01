@@ -6,9 +6,9 @@ from langchain_core.documents import Document
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 
 # Folders & collection names
-CHUNKS_DIR = "data/chunks"  # where your JSON chunk files are
+CHUNKS_DIR = "../chunking/data/chunks"  # where your JSON chunk files are
 COLLECTION_NAME = "paper_chunks_local"  # new local collection
-PERSIST_DIR = r"C:\Users\tanma\Documents\chromadb_local"  # folder to store vector DB
+PERSIST_DIR = r"C:\Users\test6\Documents\chromadb_local"  # folder to store vector DB
 
 # Initialize local embedding function (offline, free)
 embedding_function = HuggingFaceEmbeddings(

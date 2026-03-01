@@ -1,0 +1,569 @@
+[
+  {
+    "chunk_id": "cureus-0015-00000040119_0",
+    "text": "Chandankhede et al. This is an open access article distributed under the terms of the Creative Commons Attribution License CC-BY 4.0., which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.\nCorrelating Intracranial Pressure Following Decompressive Craniectomy With Neurological Outcomes in Severe Traumatic Brain Injury Patients: A Prospective Observational Study",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_1",
+    "text": "Abhijit Ravindra Chandankhede   , Snehal D. Thombre   , Dhanwantari Shukla 1 2 3\nNeurosurgery, Shree Siddheshwar Multispeciality Hospital, Dhule, IND  2. Anesthesiology, Shree Siddheshwar Multispeciality Hospital, Dhule, IND 3. Neurosurgery, The Neurocity Hospital, Varanasi, IND\nCorresponding author: Abhijit Ravindra Chandankhede, abhicrr@gmail.com",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_2",
+    "text": "Corresponding author: Abhijit Ravindra Chandankhede, abhicrr@gmail.com\nDecompressive craniectomies have been performed in settings with raised intracranial pressure (ICP) after severe traumatic brain injury (TBI). A decompressive craniectomy (DC) is an important salvage procedure for intracranial hypertension. The changes in the intracranial microenvironment after a primary DC are significant in terms of the neurological outcome in the postoperative period.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_3",
+    "text": "The study comprised 68 patients with severe TBIs who were undergoing primary DC; of these, 59% were male. Recorded data include demographic profiles, clinical features, and cranial computed tomography (CT) scans. All patients underwent a primary unilateral DC with augmentation duraplasty. Intracranial pressure was recorded in the first 24 hours at regular intervals, and the outcome was recorded using the Extended Glasgow Outcome Scale (GOS-E) at two-week and two-month intervals.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_4",
+    "text": "Road traffic accidents (RTAs) are the most common cause of severe TBIs. Imaging studies and intraoperative findings suggest that acute subdural hematomas (SDHs) are the most common pathology leading to high ICP in the postoperative period. Mortality was strongly statistically associated with high ICP values postoperatively at all intervals. The average ICP for the patients who died was 11.871 mmHg higher than the patients who survived (p=0.0009). The Glasgow Coma Scale (GCS) at the time of",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_5",
+    "text": "who survived (p=0.0009). The Glasgow Coma Scale (GCS) at the time of admission is positively correlated with the neurological outcome at two weeks and two months, with a Pearson correlation coefficient of 0.4190 and 0.4235, respectively. There is a strong negative correlation between ICP in the postoperative period and the neurological outcome at two weeks and two months (Pearson correlation coefficients are -0.828 and -0.841, respectively).",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_6",
+    "text": "The results indicate that RTAs are the most common cause of severe TBIs, and acute SDHs are the most common pathology leading to high ICP after the surgery. ICP values in the postoperative period have a strong negative correlation with survival and neurological outcome. Preoperative GCS and postoperative ICP monitoring are important methods of prognostication and planning further management.\nCategories: Emergency Medicine, Neurosurgery, Trauma",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_7",
+    "text": "Categories: Emergency Medicine, Neurosurgery, Trauma\nKeywords: correlation of icp with neurological outcome, neurological outcome, decompressive craniectomy, severe traumatic brain injury, intracranial pressure monitoring",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_8",
+    "text": "Traumatic injury is a poorly recognized global public health concern, accounting for a significant cause of morbidity and mortality in nearly every nation and population. Low- and middle-income nations account for 89% of all trauma-related deaths [1,2]. Traumatic brain injury (TBI) is defined as an alteration in brain function or other evidence of brain pathology caused by an external force because it occurs in all regions and affects people of all ages and income groups [3,4]. A TBI presents",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_9",
+    "text": "and affects people of all ages and income groups [3,4]. A TBI presents as one of the following: a decreased level of consciousness, amnesia, objective neurologic or neuropsychological abnormality, skull fracture(s), diagnosed intracranial lesion(s), or head injury listed as a cause of death on a death certificate [5,6]. A TBI disrupts the intracranial environment with multiple disturbances in the form of intracranial hypertension, altered circulation, and disturbed healing. Subdural hematomas",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_10",
+    "text": "altered circulation, and disturbed healing. Subdural hematomas (SDHs) and contusions in more than 50% of severe TBI cases are associated with mass lesions. The vicious cycle of mechanical compression, edoema, hypoxia, and ischemia leads to rapidly deteriorating secondary injuries that require urgent surgical",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_11",
+    "text": "Chandankhede A, Thombre S D, Shukla D (June 08, 2023) Correlating Intracranial Pressure Following Decompressive Craniectomy With Neurological Outcomes in Severe Traumatic Brain Injury Patients: A Prospective Observational Study. Cureus 15(6): e40119. DOI 10.7759/cureus.40119\nintervention. Intracranial hypertension is the major cause of secondary brain injury, leading to morbidity and death. Thus, treatment protocols are guided to control ICP in patients with TBI [7].",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_12",
+    "text": "Clinical evidence to allow for an unbiased treatment choice for severe TBI is insufficient [8]; however, notable clinical trials include RESCUE-ICP and RESCUE-ASDH [9,10]. Although decompressive craniectomy (DC) has been advocated as one strategy for managing intracranial pressure (ICP) [11], ICP monitoring has generally been approved in evidence-based guidelines for patients with severe TBI [12,13]. ICP waveform analysis and understanding have improved tremendously over the last few decades,",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_13",
+    "text": "and understanding have improved tremendously over the last few decades, but there is still a lack of \"class I\" evidence that supports the superiority of treatment based on ICP monitoring over treatment guided by neurological testing and serial CT imaging in improving short-term or long-term recovery in the general population of patients with a severe TBI [11]. One of the knowledge gaps is the role of ICP monitoring in TBI patients after a primary DC. In this context, \"primary\" refers to a DC",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_14",
+    "text": "TBI patients after a primary DC. In this context, \"primary\" refers to a DC during the evacuation of an intracranial lesion in the acute phase. Monitoring ICP in the initial decompression area may provide pertinent diagnostic information leading to more appropriate postoperative medication that reduces ICP or a well-timed treatment [14]. The purpose of this study is to evaluate the correlation of postoperative ICP monitoring during an early DC with mortality and neurological outcome as well as",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_15",
+    "text": "during an early DC with mortality and neurological outcome as well as to guide therapy in patients who undergo an early DC for a severe TBI.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_16",
+    "text": "This study included patients aged between 18 and 70 who had TBIs and/or traumatic mass lesions and underwent a DC. The study was conducted at a tertiary care centre in India from March 2017 to May 2018. Patients under 18 and over 70 years of age were excluded, as well as those with severe extra-cranial lesions (such as cardiovascular, pulmonary, or abdominal injuries), systemic comorbidities (like ischemic heart disease, chronic kidney disease, and uncontrolled diabetes), a brain death",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_17",
+    "text": "disease, chronic kidney disease, and uncontrolled diabetes), a brain death diagnosis upon admission, and penetrating brain injuries.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_18",
+    "text": "Data collection included age, sex, Glasgow Coma Scale (GCS), pupil size, and imaging studies (such as noncontrast computed tomography (CT) and/or magnetic resonance imaging) to confirm the type of injury, hematoma, side of the lesion, type of lesion, side of surgery, type of surgery, and intraoperative and immediate postoperative complications. ICP measurement was conducted using the intraventricular ICP transducer monitoring device (Codman ICP Express), with measurements taken at regular",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_19",
+    "text": "monitoring device (Codman ICP Express), with measurements taken at regular intervals after surgery (immediate postoperative, six hours, 12 hours, and 24 hours in the postoperative period). The Glasgow Outcome Scale-Extended (GOS-E) was assessed at two weeks and two months after surgery (Table 1 ).",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_20",
+    "text": "Needs partial assistance in the activities of daily living\nIndependent but cannot resume work school or all previous activities\nSome disability exists but can partially resume work or previous activities\nMinor physical and mental disabilities that affect daily life\nFull recovery or minor deficits that do not affect the daily activities",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_21",
+    "text": "For the demographic profile, descriptive statistics were used to summarise the age distribution of the participants, including the mean age, standard deviation, minimum age, and maximum age. The proportions of males and females were also calculated. A statistical test, specifically a chi-square test, was conducted to determine the statistical significance of the difference in the number of male and female patients across all age groups. In the overall outcome analysis, the GOS-E was used to",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_22",
+    "text": "all age groups. In the overall outcome analysis, the GOS-E was used to measure patients' outcomes. The range of GOS-E scores was reported, and the number of patients who died at the end of two weeks was provided. It is mentioned that statistical analysis was conducted to determine the association between patient characteristics (age, gender) and treatment outcomes (death), as well as the association between mortality and postoperative ICP values.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_23",
+    "text": "Collected data were statistically analysed using SPSS 24 (IBM Corp., released 2016, IBM SPSS Statistics for Windows, Version 24.0, Armonk, NY: IBM Corp.) and Real Statistics Resource Pack software (Release 6.2), copyright (2013-2019), Charles Zaiontz (www.real-statistics.com).\nThis study is approved by the institutional review board and ethics/scientific committee (approval no. ECR/246/tnst/OR/2013/RR-2016/PR-N-37).",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_24",
+    "text": "Sixty-eight participants with TBIs were studied in terms of clinical aspects and outcomes after a DC. The collected data were analyzed following the statistical procedure described in the methodology, and the interpretation of the results is presented in the following sections.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_25",
+    "text": "In this study, 68 subjects of varying ages were enrolled. Among them, 34 subjects (51.5%) were aged between 30 and 50, 28 subjects (41.2%) were over 50, and six subjects (7.4%) were under 30. The average age of the patients was 47.23 years, with a standard deviation of 13 years. Out of the 68 patients, 40 were male (58.8%) and 28 were female (41.2%). The proportion of male patients was statistically significant (p=0.02103642) across all age groups. The age range of the patients was from 23 to",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_26",
+    "text": "across all age groups. The age range of the patients was from 23 to 68 years, with an average age of 47.235±12.498.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_27",
+    "text": "Road traffic accidents (RTAs) caused most of the head injuries in patients that were admitted to the hospital (58 out of 68 enrolled subjects; 85.29%). The remaining 10 patients (14.70%) suffered a head injury due to a domestic fall. However, there was no statistically significant difference in the frequency between males and females regarding a fall or an RTA as a cause of a head injury (p=0.9203).",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_28",
+    "text": "The patients' outcomes were defined using the GOS-E (Table 1 ), which ranged from 1 to 8. GOS-E 1 defines death at the given outcome assessment interval. Eight patients died at the end of two weeks (11.76%), the details of which are shown in Table 2 . The mortality rate did not change at the end of two months, i.e., no new patients died at the end of two months. The GOS-E ranged from 1 to 7 for all patients at the end of two weeks and from 1 to 8 at the end of two months. Neither patient age",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_29",
+    "text": "of two weeks and from 1 to 8 at the end of two months. Neither patient age nor gender seemed statistically significant in terms of death as the treatment outcome; however, mortality was strongly statistically associated with high ICP values postoperatively at all intervals. The average ICP for the patients who died was 11.871 mmHg higher than the patients who survived (p=0.0009; Table 2 ).",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_30",
+    "text": "The majority of patients had a GOS-E score of 6 at the end of two weeks (38.23%), and the majority of patients had a GOS-E score of 7 at the end of two months (23.52%). The mean GOS-E score at the end of two weeks was 4.58 with a standard deviation of 1.78, and the mean GOS-E score at the end of two months was 5.41 with a standard deviation of 2.267. There was a statistically significant GOS-E improvement in the",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_31",
+    "text": "outcome from two weeks to two months with p=0.00005024 and a chi-square value of 31.501 (Table 3 ).\nThe average ICP values across all intervals provide a detailed analysis of the range of ICP in the first 24 hours after surgery. The minimum average ICP was 12.75 mmHg, and the maximum was 42.5 mmHg. The mean average ICP was 22.066 with a standard deviation of ±7.11 mmHg (Figure 1 ).\nAssociation between average ICP and outcome at two-week and twomonth intervals",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_32",
+    "text": "After two weeks, when the association between the average ICP and outcome parameters was established, a lower ICP was associated with a better outcome in terms of the GOS-E score (Fisher's exact test, p<0.001; Table 4 ).\nTABLE 4: Association of average intracranial pressure with outcome at two weeks",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_33",
+    "text": "The above trend was reinforced by the association between the average ICP and the outcome in terms of GOS-E after two months. An average ICP of more than 20 mmHg was associated with poorer GOS-E scores of 1-4, and an average ICP below 20 mmHg was associated with better outcome scores of 5-8 on GOS-E (Fisher's exact test, p=0.00000264; Table 5 ).\nTABLE 5: Association of average intracranial pressure with outcome at two months",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_34",
+    "text": "Correlation between the average ICP and GOS-E at two weeks postoperatively. Pearson's correlation demonstrated that the average ICP values were correlated with the GOS-E scores over the two-week postoperative period. A correlation value of -0.832 means that if ICP is lower, the outcome scores (5-8) are better (p<0.001), and if ICP values are high, the GOS-E outcome scores are low (1-4). A similar correlation is ascertained with the calculation of R²=0.6859 for the average ICP and GOS-E scores",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_35",
+    "text": "with the calculation of R²=0.6859 for the average ICP and GOS-E scores at two weeks. A graphical representation of this is shown in Figure 2 .",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_36",
+    "text": "FIGURE 2: Correlation of average intracranial pressure with GOS-E at two weeks",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_37",
+    "text": "Correlation between the average ICP and GOS-E at two months postoperatively. Pearson's correlation shows that the average ICP values are correlated with the GOS-E scores during the two-month postoperative period. A correlation value of -0.841 means that if ICP is lower, outcome scores (5-8) are better (p<0.001), and if ICP values are high, GOS-E outcome scores are low (1-4). A similar correlation is ascertained with the calculation of R²=0.7076 for the average ICP and GOS-E scores at two",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_38",
+    "text": "the calculation of R²=0.7076 for the average ICP and GOS-E scores at two months. A graphical representation of this is shown in Figure 3 .",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_39",
+    "text": "FIGURE 3: Correlation of average intracranial pressure with GOS-E at two weeks\nFigure 4 combines the graphical trends of average ICP with GOS-E scores at two weeks and two months.\nFIGURE 4: Combined trend of average intracranial pressure and outcome correlation at two weeks and two months",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_40",
+    "text": "ICP monitoring produced complications that included ventriculitis, meningitis, and long-term cerebrospinal fluid leaks. However, respiratory tract infections, urinary tract infections, and other intensive care unitrelated complications were recognized and managed accordingly.\nThis observational study investigated clinical aspects and outcomes in TBI patients after a DC. The findings include information on demographics, clinical manifestations, and outcomes.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_41",
+    "text": "Age and gender distribution across various brain injury groups",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_42",
+    "text": "This study included 68 patients who underwent primary DC for a TBI. Eight of these patients died during the two-week interval. The study sample had a male preponderance (59%), and 41% of the sample was female. Previous studies have included a similar male preponderance of 82.05% [16] and 61.8% [17]. TBI in males is attributed to the fact that male subjects are more exposed to RTAs. Males are generally more exposed to road traffic accidents due to several factors. These factors include",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_43",
+    "text": "to road traffic accidents due to several factors. These factors include differences in driving behaviour, risk-taking tendencies, and higher engagement in activities such as driving motorcycles or heavy vehicles. Additionally, cultural and societal norms may contribute to higher rates of male involvement in road traffic accidents and, thus, consequential head injuries. We observed that most of the patients in our study were aged between 30 and 50 (51.5%), and the second biggest group was those",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_44",
+    "text": "aged between 30 and 50 (51.5%), and the second biggest group was those aged over 50 (41.2%). Only 7.4% of patients were under 30 years old. The mean age was 47.23 with a standard deviation of 13 (47.23±13). In a study [16], the patients were 44±17.6 years (18-80 years old), while in a study by Picetti et al. [17], the age recorded was 51.3±21.0 years. Similarly, Huang and Ou [18] had a mean age of 46.2±20.4 (1-88 years old), and in the study by Khalili et al. [19], the mean age of the patients",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_45",
+    "text": "and in the study by Khalili et al. [19], the mean age of the patients undergoing a DC was 34.8±15.5 years (15-85 years old).",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_46",
+    "text": "In this study, RTAs caused a TBI in 58 of the patients, and the remaining 10 patients suffered a head injury due to a domestic fall (14.70%). No head injuries were caused by a penetrating trauma or missile. The data show that 8.82% of males suffered a head injury due to a fall, but 50% were caused by an RTA. The average age for a fall as a cause of a head injury was 49.8±11.34 years and 46.79±12.81 years for an RTA. The average age of patients involved in an RTA was less than that of those who",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_47",
+    "text": "average age of patients involved in an RTA was less than that of those who fell. The minimum age for a fall was 35 and the maximum was 67, while the minimum age for an RTA was 23 and the maximum was 68. However,",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_48",
+    "text": "there was no statistically significant difference in the frequency between males and females regarding a fall or an RTA as a cause of head injury (p=0.92034433). When compared with previously published studies, the findings are quite similar, except for a study in 2019 that found that RTAs caused fewer head injuries [20].",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_49",
+    "text": "The minimum GCS at the time of admission was 3, and the maximum was 8, with a mean of 5.529 and a standard deviation of 1.3211. When divided into two groups depending on the GCS, the GSC 3-5 group consisted of 38 patients (55.88%) and the GCS 6-8 group consisted of 30 patients (44.11%). These findings are comparable to those of previously published studies. In a study [21], the GSC 3-5 group comprised 57.74% of total patients, and the GCS 6-8 group comprised 42.25%. The mean GCS in the study by",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_50",
+    "text": "and the GCS 6-8 group comprised 42.25%. The mean GCS in the study by Picetti et al. [17] was 4, and in another study [22], it was 5.5±1.53. The mean GCS in our study was 5.529±1.32. Estimating the individual GCS scores for all patients in our study shows that 32.35% of patients were admitted to the emergency room with a GCS of 5, while 20.58% of patients were admitted with a GCS of 4. The percentage of patients with individual GCS scores is comparable to the recently published study by Zhao et",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_51",
+    "text": "GCS scores is comparable to the recently published study by Zhao et al. [21].",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_52",
+    "text": "Patient outcome was defined using the GOS-E, which ranged from 1 to 8 in our study. Eight patients had a GOS-E of 1, which means that they died at the end of the outcome assessment interval at the end of two weeks (11.76%). The age or gender of patients did not seem to be statistically significant in terms of mortality rate after treatment, but there was a strong association between high postoperative ICP values and mortality. The average ICP for the patients who died was 11.871 mmHg higher",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_53",
+    "text": "The average ICP for the patients who died was 11.871 mmHg higher than the patients who survived (p=0.0009). The mortality rate did not change at the end of two months, i.e., no new patients died during this time. The GOS-E ranged from 1 to 7 for all patients at the end of two weeks and from 1 to 8 at the end of two months. The majority of patients had a GOS-E score of 6 at the end of two weeks (38.23%), and the majority of patients had a GOS-E score of 7 at the end of two months (23.52%). The",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_54",
+    "text": "of patients had a GOS-E score of 7 at the end of two months (23.52%). The mean GOS-E score at the end of two weeks was 4.58 with a standard deviation of 1.78, and the mean GOSE score at the end of two months was 5.41 with a standard deviation of 2.267. The mean GOS-E score reported by the study by Khalili et al. [19] at the end of two months was 3.48±2.19.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_55",
+    "text": "There was a statistically significant improvement in the outcome from two weeks to two months regarding the GOS-E score, with p=0.00005024 and a chi-square value of 31.501. An unfavourable outcome (GOS-E 1-4) is reported as 68% in the study by Zhao et al. [21] at the end of six months. Huang and Ou [18] reported favourable outcome scores in 41.2% of patients and unfavourable scores in 58.8% of patients at the time of discharge and follow-up. Similarly, Khalili et al. [19] reported 45.8%",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_56",
+    "text": "of discharge and follow-up. Similarly, Khalili et al. [19] reported 45.8% favourable outcome parameters and 54.2% unfavourable outcomes. Outcomes were compared by Chang et al. [20] in terms of GOS-E scores at six months and average ICP values in the postoperative period, with the result that favourable outcomes were obtained in 42.9% of patients in the ICP-monitored group. When transcranial Doppler monitoring and ICP monitoring were combined, this number increased to around 70%, which is",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_57",
+    "text": "monitoring were combined, this number increased to around 70%, which is explained by the early detection of intracranial hypertension and timely measures to control it. Similar findings were reported in a study by Picetti et al. [17], who found that unfavourable neurological outcomes were associated with greater mean ICP and lower CPP min measurements. A statistically significant relationship was found between the mean ICP after DC and GOS (p<0.04) and between the CPP min after DC and GOS",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_58",
+    "text": "ICP after DC and GOS (p<0.04) and between the CPP min after DC and GOS (p<0.04). This study supports the evidence that postoperative episodes of intracranial hypertension have a negative impact on overall patient outcomes and demonstrates that higher postoperative ICP values are associated with unfavourable neurological outcomes (for two-week and two-month postoperative intervals, p<0.001). In our study, Pearson's correlation shows that average ICP values are correlated with GOS-E scores during",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_59",
+    "text": "shows that average ICP values are correlated with GOS-E scores during the two-week postoperative period. A correlation value of -0.828 means that if the ICP is lower, the outcome scores (5-8) are better (p<0.001), and if the ICP values are high, the GOS-E outcome scores are low (1-4). A similar correlation is ascertained with the calculation of R²=0.6859 for average ICP and GOS-E scores at two weeks. ICP and GOS-E scores at two months reveal a similar correlation, with Pearson's correlation",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_60",
+    "text": "at two months reveal a similar correlation, with Pearson's correlation coefficient of -0.841 suggesting a strong negative correlation between ICP values and neurological outcomes as determined by the GOS-E score. This finding is substantiated by the calculation of robust regression for the same set of data (R 2 =0.7076). A similar robust regression correlation is presented by a study [22], which found a strong negative correlation between ICP values in patients undergoing a DC for severe TBI",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_61",
+    "text": "correlation between ICP values in patients undergoing a DC for severe TBI and neurological outcomes after a follow-up interval.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_62",
+    "text": "Our sample size only contained 68 patients. The patients satisfying the selection crieteria during the study period were added in the study. More patients are needed to provide a better overview of the statistical analysis. Furthermore, this was not a randomized study, and the follow-up period was only two months. The placement of intraventricular ICP monitor probes does not remove the chances of infection, so more noninvasive methods of proper ICP monitoring are needed for further",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_63",
+    "text": "more noninvasive methods of proper ICP monitoring are needed for further infection-free monitoring. Research is also warranted for making ICP monitoring probes cost-effective and available so that more scientific-based management of patients can be carried out. we are looking foreward for the furether efforts of the researchers in this feild for better understanding of the concept.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_64",
+    "text": "Traumatic brain injury is a rising global trend. Preoperative evaluation and management are needed to decrease the mortality and morbidity arising from this condition. Young adults suffer most from head injuries due to RTAs, in which SDHs and contusions warrant a DC. Preoperative GCS and postoperative ICP monitoring are vital for prognostication and planning further management. This study suggests that ICP values in the postoperative period strongly correlate negatively with survival and",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_65",
+    "text": "the postoperative period strongly correlate negatively with survival and neurological outcomes. The data should be confirmed in future randomized controlled studies with larger sample sizes and longer follow-ups.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_66",
+    "text": "Human subjects: Consent was obtained or waived by all participants in this study. Apollo Hospitals Institutional Review Board and Ethical Committee issued approval ECR/246/tnst/OR/2013/RR-2016/PR-N37. This study has been approved by institutional ethics and scientific committee. Animal subjects: All authors have confirmed that this study did not involve animal subjects or tissue. Conflicts of interest: In compliance with the ICMJE uniform disclosure form, all authors declare the following:",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_67",
+    "text": "with the ICMJE uniform disclosure form, all authors declare the following: Payment/services info: All authors have declared that no financial support was received from any organization for the submitted work. Financial relationships: All authors have declared that they have no financial relationships at present or within the previous three years with any organizations that might have an interest in the submitted work. Other relationships: All authors have declared that there are no other",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_68",
+    "text": "Other relationships: All authors have declared that there are no other relationships or activities that could appear to have influenced the submitted work.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_69",
+    "text": "International brain injury association: brain injury facts . (2023). Accessed: June 1, 2023: https://www.internationalbrain.org/resources/brain-injury-facts.\nBarthélemy EJ, Hackenberg AE, Lepard J, et al.:  Neurotrauma surveillance in national registries of low-and middle-income countries: a scoping review and comparative analysis of data dictionaries. Int J Health Policy Manag. 2021, 11:2373-80. 10.34172/ijhpm.2021.167",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_70",
+    "text": "Hyder AA, Wunderlich CA, Puvanachandra P, Gururaj G, Kobusingye OC:  The impact of traumatic brain injuries: a global perspective. NeuroRehabilitation. 2007, 22:341-53.  10.3233/NRE-2007-22502",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_71",
+    "text": "National Academies of Sciences, Engineering, and Medicine; Health and Medicine Division; Board on Health Care Services; Committee on the Review of the Department of Veterans Affairs Examinations for Traumatic Brain Injury: Evaluation of the Disability Determination Process for Traumatic Brain Injury in Veterans . National Academies Press, Washington, D.C; 2019. 10.17226/25317",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_72",
+    "text": "Coronado VG, McGuire LC, Sarmiento K, et al.:  Trends in traumatic brain injury in the U.S. and the public health response: 1995-2009. J Safety Res. 2012, 43:299-307.  10.1016/j.jsr.2012.08.011\nReport to Congress on traumatic brain injury in the United States: epidemiology and rehabilitation . (2014). Accessed: June 8, 2023: https://www.cdc.gov/traumaticbraininjury/pdf/tbi_report_to_congress_epi_and_rehab-a.pdf.",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_73",
+    "text": "Kinoshita K: Traumatic brain injury: pathophysiology for neurocritical care . J Intensive Care. 2016, 4:29. 10.1186/s40560-016-0138-3\nSahuquillo J, Arikan F:  Decompressive craniectomy for the treatment of refractory high intracranial pressure in traumatic brain injury. Cochrane Database Syst Rev. 2006, CD003983. 10.1002/14651858.CD003983.pub2\nKolias AG, Kirkpatrick PJ, Hutchinson PJ: Decompressive craniectomy: past, present and future . Nat Rev Neurol. 2013, 9:405-15. 10.1038/nrneurol.2013.106",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_74",
+    "text": "Kolias AG, Viaroli E, Rubiano AM, et al.:  The current status of decompressive craniectomy in traumatic brain injury. Curr Trauma Rep. 2018, 4:326-32.  10.1007/s40719-018-0147-x\nHolland M, Nakaji P: Craniectomy: surgical indications and technique. Oper Tech Neurosurg. 2004, 7:10-5. 10.1053/j.otns.2004.04.006\nCarney N, Totten AM, O'Reilly C, et al.:  Guidelines for the management of severe traumatic brain injury, fourth edition. Neurosurgery. 2017, 80:6-15.  10.1227/NEU.0000000000001432",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_75",
+    "text": "Maas AI, Stocchetti N, Bullock R:  Moderate and severe traumatic brain injury in adults . Lancet Neurol. 2008, 7:728-41. 10.1016/S1474-4422(08)70164-9\nBattaglini D, Anania P, Rocco PR, et al.:  Escalate and de-escalate therapies for intracranial pressure control in traumatic brain injury. Front Neurol. 2020, 11:564751.  10.3389/fneur.2020.564751",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_76",
+    "text": "Wilson L, Boase K, Nelson LD, et al.:  A manual for the Glasgow Outcome Scale-extended interview . J Neurotrauma. 2021, 38:2435-46. 10.1089/neu.2020.7527\nKim DR, Yang SH, Sung JH, Lee SW, Son BC:  Significance of intracranial pressure monitoring after early decompressive craniectomy in patients with severe traumatic brain injury. J Korean Neurosurg Soc. 2014, 55:26-31. 10.3340/jkns.2014.55.1.26",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_77",
+    "text": "Picetti E, Caspani ML, Iaccarino C, Pastorello G, Salsi P, Viaroli E, Servadei F: Intracranial pressure monitoring after primary decompressive craniectomy in traumatic brain injury: a clinical study. Acta Neurochir (Wien). 2017, 159:615-22. 10.1007/s00701-017-3118-z\nHuang YH, Ou CY: Prognostic impact of intracranial pressure monitoring after primary decompressive craniectomy for traumatic brain injury. World Neurosurg. 2016, 88:59-63.  10.1016/j.wneu.2015.12.041",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_78",
+    "text": "Khalili H, Niakan A, Ghaffarpasand F, Kiani A, Behjat R: Outcome determinants of decompressive craniectomy in patients with traumatic brain injury; a single center experience from southern Iran. Bull Emerg Trauma. 2017, 5:190-6.\nChang T, Li L, Yang Y, Li M, Qu Y, Gao L:  Transcranial Doppler ultrasonography for the management of severe traumatic brain injury after decompressive craniectomy. World Neurosurg. 2019, 126:e116-24. 10.1016/j.wneu.2019.02.005",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_79",
+    "text": "Zhao HX, Liao Y, Xu D, Wang QP, Gan Q, You C, Yang CH:  The value of intraoperative intracranial pressure monitoring for predicting re-operation using salvage decompressive craniectomy after craniotomy in patients with traumatic mass lesions. BMC Surg. 2015, 15:111. 10.1186/s12893-015-0100-7",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  },
+  {
+    "chunk_id": "cureus-0015-00000040119_80",
+    "text": "Stocchetti N, Picetti E, Berardino M, et al.:  Clinical applications of intracranial pressure monitoring in traumatic brain injury: report of the Milan consensus conference. Acta Neurochir (Wien). 2014, 156:161522. 10.1007/s00701-014-2127-4",
+    "metadata": {
+      "source": "cureus-0015-00000040119.pdf"
+    }
+  }
+]

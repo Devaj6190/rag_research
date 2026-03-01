@@ -1,0 +1,905 @@
+[
+  {
+    "chunk_id": "10143_2025_Article_3650_0",
+    "text": "Pre- and post-cranioplasty hydrocephalus in patients following decompressive craniectomy for ischemic stroke: a systematic review and meta-analysis\nI. Khalil 1 · R. Sayad 2 · S. K. Kamal 3 · Z. Hussein 4 · S. Allam 5 · A. L. F. Caprara 6 · J. P . Rissardo 6\nReceived: 2 May 2025 / Revised: 27 May 2025 / Accepted: 1 June 2025 © The Author(s) 2025",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_1",
+    "text": "Decompressive  hemicraniectomy  (DC)  for  malignant  ischemic  stroke  can  lead  to  hydrocephalus  (HC).  The  dynamics of  hydrocephalus  at  the  time  of  subsequent  cranioplasty  (CP)  are  not  well  characterized.  We  aimed  to  systematically review and meta-analyze the rates  of  hydrocephalus  and  ventriculomegaly  before  and  after  CP,  shunt  dependency,  and hydrocephalus  resolution  in  patients  who  underwent  DC  for  ischemic  stroke.  Following  the  PRISMA",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_2",
+    "text": "who  underwent  DC  for  ischemic  stroke.  Following  the  PRISMA  guidelines,  we searched PubMed, Embase, Scopus, Web of Science, and Cochrane Library through January 2025 (registration number CRD420251039185). in studies reporting hydrocephalus in patients undergoing DC followed by CP for ischemic stroke. Inclusion  criteria  were  ≥  10  patients  in  the  English  language.  Data  on  hydrocephalus/ventriculomegaly  rates  (pre-CP and  post-CP),  shunt  dependency,  and  resolution  were",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_3",
+    "text": "rates  (pre-CP and  post-CP),  shunt  dependency,  and  resolution  were  extracted.  Study  quality  was  assessed  using  the  MINORS  criteria.  Random-effects  meta-analyses were performed to calculate pooled proportions with 95% confidence intervals (CI). Heterogeneity  was  assessed  using  I²,  and  sources  were  explored  using  meta-regression  and  sensitivity  analyses.  Ten retrospective studies, involving 579 patients, met the inclusion criteria. The study quality was",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_4",
+    "text": "involving 579 patients, met the inclusion criteria. The study quality was predominantly fair (6/10) or  low  (3/10).  Pooled  rates  were:  pre-CP  hydrocephalus  0.40  (95%  CI:  0.17-0.65;  I²=95.5%),  post-CP  hydrocephalus 0.46  (0.14-0.79;  I²=89.8%),  pre-CP  ventriculomegaly  0.43  (0.21-0.67;  I²=95.5%),  and  post-CP  ventriculomegaly  0.46 (0.14-0.79; I²=89.8%). There was no significant difference between the pre- and post-CP hydrocephalus rates ( P =  0.6481). The pooled rate of",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_5",
+    "text": "pre- and post-CP hydrocephalus rates ( P =  0.6481). The pooled rate of shunt-dependent hydrocephalus was 0.11 (0.04-0.22; I²=61.4%), and the hydrocephalus resolution rate post-CP was 0.27 (0.07-0.53; I²=68.7%). Significant heterogeneity was observed across most outcomes, and a potential publication bias was detected. The GRADE assessment indicated very low-to low-quality evidence. Radiographic hydrocephalus or ventriculomegaly is common (approximately 40-46%) both before and after cranioplasty",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_6",
+    "text": "is common (approximately 40-46%) both before and after cranioplasty in patients treated with DC for ischemic stroke, with no significant change immediately post-CP identified in this analysis. However, clini -cally  significant  hydrocephalus requiring shunting occurs less frequently (approximately 11%). The quality of evidence is  limited  by  the  retrospective  study  design  and  high  heterogeneity.  High-quality  prospective  studies  with  standardized definitions and follow-up are",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_7",
+    "text": "prospective  studies  with  standardized definitions and follow-up are needed to better understand hydrocephalus dynamics and the impact of cranioplasty timing in this population.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_8",
+    "text": "Keywords Hydrocephalus · Cranioplasty · Decompressive hemicraniectomy  · Ischemic stroke · Shunt\nExtended author information available on the last page of the article",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_9",
+    "text": "Stroke  is  a  leading  cause  of  mortality  worldwide.  Epidemiological studies suggest that approximately one in four individuals over the age of 25 years will experience stroke in their lifetime. Notably, > 62% of these stroke events are ischemic [19]. In rare instances, large-vessel strokes, such as  those  affecting  the  Middle  Cranial  Artery  (MCA)  or Internal Cerebral Artery (ICA), can lead to severe cerebral edema and increased intracranial pressure. This condition, known as",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_10",
+    "text": "edema and increased intracranial pressure. This condition, known as malignant MCA stroke, may be further complicated by cerebral herniation and hypoperfusion, potentially resulting in death if not promptly diagnosed and treated [4, 10, 12, 17]. Decompressive hemicraniectomy is an emerging therapy for selected cases of malignant MCA infarctions that involves the removal of a skull bone flap to alleviate pressure and enhance brain tissue oxygenation [4, 10, 12, 17]. A small systematic review and",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_11",
+    "text": "brain tissue oxygenation [4, 10, 12, 17]. A small systematic review and meta-analysis comparing mortality rates between medically and surgically treated patients revealed significantly lower mortality in those who underwent surgical treatment [4].",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_12",
+    "text": "After the acute stage is treated with decompressive hemicraniectomy, cranioplasty is performed to restore the skull. CSF dynamics present a  unique set  of  challenges  related to cranioplasty, both pre- and post-operatively. Hydrocephalus is a known complication of DC for ischemic stroke [10, 12, 17, 18], although its evolution is less clearly established with  studies reporting variable rates [14]. It remains debatable whether cranioplasty per se plays a  role in the resolution of",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_13",
+    "text": "debatable whether cranioplasty per se plays a  role in the resolution of hydrocephalus, possibly by normalizing intracranial perfusion and CSF flow, or whether cranioplasty may aggra -vate  any  remaining  CSF  disturbances  [14].  It  is  therefore important  to  understand  the  incidence  of  hydrocephalus both  prior  to  and  following  this  reconstructive  surgery  to guide  patient  management,  shunt  placement  indications, and the timing of surgical intervention [10, 12].",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_14",
+    "text": "However, such a procedure has the potential for several complications,  such  as  hematomas,  external  cerebral  herniation,  CSF leak/fistulae,  and  seizures,  which  may  affect clinical outcomes and quality of life [7]. Hydrocephalus following decompressive hemicraniectomy has been reported in several studies. In some cases, the original pathology may have contributed to the development of hydrocephalus [1, 18]. In others, such as MCA infarctions and large intracerebral hematomas, no",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_15",
+    "text": "In others, such as MCA infarctions and large intracerebral hematomas, no association between the original pathology and hydrocephalus has been found [10, 12, 17]. Many studies have hypothesized an association between decompressive hemicraniectomy and the development of hydrocephalus [12].",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_16",
+    "text": "Development  of  hydrocephalus  following  decompressive hemicraniectomy for ischemic stroke is a known complication,  hypothesized  to  be  partially  related  to  changes",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_17",
+    "text": "in  CSF  absorption  and  compliance  mechanisms  secondary to a large cranial defect [10, 12, 14, 17]. Maintaining the  cranial  vault  in  a  closed  system  is  hypothesized    to reverse the effects of these altered cranial dynamics through a subsequent cranioplasty procedure. However, clinical  observations and study outcomes are mixed, with some experiencing  resolution  of  ventricular  enlargement  after cranioplasty, while others developing persistent or de novo hydrocephalus that",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_18",
+    "text": "while others developing persistent or de novo hydrocephalus that requires shunting [12, 14, 18]. This variation highlights the necessity of systematically assessing the incidence and variations  of hydrocephalus within the subpopulation of patients undergoing cranioplasty after DC for ischemic stroke.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_19",
+    "text": "Hydrocephalus is a known complication of decompressive  hemicraniectomy for malignant MCA infarction, and determining  its  course  is  especially  relevant  when  planning    consecutive  cranioplasty.  The  optimal  timing  for cranioplasty and its effect on cerebrospinal fluid dynamics and the resolution or progression of hydrocephalus are topics of ongoing clinical research. The relationships observed between cranioplasty and rates of hydrocephalus and ventriculomegaly, as well as shunting,",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_20",
+    "text": "and rates of hydrocephalus and ventriculomegaly, as well as shunting, are important  to clarify by  quantifying  the  rates  before  and  after  cranioplasty  to facilitate informed clinical practice.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_21",
+    "text": "Our  meta-analysis was  conducted  in accordance  with the  PRISMA  (Preferred  Reporting  Items  for  Systematic Reviews  and  Meta-Analyses)  guidelines.  We  employed  a comprehensive  statistical  approach  to  analyze  the  hydrocephalus rates in patients undergoing cranioplasty [11]. The study protocol was prospectively registered in the International Prospective Register of Systematic Reviews (registration number CRD420251039185).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_22",
+    "text": "We conducted a comprehensive search of electronic databases, such as PubMed, Embase, Scopus, Web of Science, and Cochrane Library, up to January 2025. The search terms are detailed in Supplementary File 1. Furthermore, we manually  reviewed  the  reference  lists  of  the  selected  studies and pertinent review articles to identify additional qualified studies. Two independent reviewers evaluated the titles and abstracts for eligibility based on the predefined inclusion cri -teria. Studies were",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_23",
+    "text": "for eligibility based on the predefined inclusion cri -teria. Studies were considered if they (1) involved patients who had undergone decompressive craniectomy followed by cranioplasty, (2) provided data on hydrocephalus rates before  and/or  after  cranioplasty,  (3)  included  a  minimum of 10 patients, and exclusion criteria included case reports,",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_24",
+    "text": "review  articles,  technical  notes,  conference  abstracts,  and studies lacking sufficient data for extraction. Disagreements were resolved by a third reviewer.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_25",
+    "text": "Two  reviewers  independently  extracted  the  data  using  a standardized form. Information collected included the first author, publication year, study design, sample size, patient demographics, timing of cranioplasty, rates of pre-cranioplasty hydrocephalus, post-cranioplasty hydrocephalus, shunt-dependent  hydrocephalus,  and  hydrocephalus  resolution.  For  studies  reporting  ventriculomegaly  rather  than hydrocephalus, we extracted these data separately.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_26",
+    "text": "Risk  of  bias  in  the  included  studies  was  assessed  using the  Methodological  Index  for  Non-Randomized  Studies (MINORS) criteria,  a  validated  tool  specifically  designed for non-randomized interventional studies [16]. Two independent  reviewers  assessed  each  study,  and  discrepancies were  resolved  by  consensus  or  by  a  third  reviewer  when necessary.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_27",
+    "text": "Based on cumulative scores, studies were categorized as extremely poor quality (0-4), low quality (5-7), fair qual -ity  (8-12),  and  excellent  quality  (13-16).  This  approach allowed  for  a  standardized  quality  assessment  across  the heterogeneous studies included in our analysis [16].",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_28",
+    "text": "Statistical analyses were conducted using R studio (version 2024.09.0 + 375) with the 'meta' and 'metafor' packages. For dichotomous outcomes, we calculated proportions with 95% confidence intervals (CIs). Heterogeneity among stud -ies  was  assessed  using  Cochrane's  Q  test  and  quantified using the I² statistic, with I² values of 25%, 50%, and 75% representing low, moderate, and high heterogeneity, respectively [8].",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_29",
+    "text": "Given the anticipated heterogeneity between studies, we employed  random-effects  models  using  the  DerSimonian and Laird method for all analyses [5]. For studies reporting zero events, we applied a continuity correction by adding 0.5 to both the event and non-event counts to enable proportion calculation. We performed separate meta-analyses for  precranioplasty  hydrocephalus  rates,  postcranioplasty hydrocephalus rates, shunt-dependent hydrocephalus rates, and resolution of hydrocephalus",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_30",
+    "text": "shunt-dependent hydrocephalus rates, and resolution of hydrocephalus after cranioplasty.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_31",
+    "text": "Sensitivity analyses were conducted using leave-one-out methodology to evaluate the influence of individual stud -ies on pooled estimates and heterogeneity. Meta-regression analyses  were  performed  to  explore  potential  sources  of heterogeneity, including the publication year and timing of cranioplasty after decompressive craniectomy. We directly compared  the  pre-  and  post-cranioplasty  hydrocephalus rates  using  meta-regression  to  test  for  statistically  signifi -cant",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_32",
+    "text": "rates  using  meta-regression  to  test  for  statistically  signifi -cant differences.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_33",
+    "text": "Publication bias was assessed visually using funnel plots and statistically using Egger's regression test [6]. Statistical significance was set at p <  0.05 for all analyses.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_34",
+    "text": "We searched the databases for 3738 records. After removing 1844 duplicates, 1894 references remained for primary screening by title and abstract. Following this initial screening,  1813  studies  were  excluded  based  on  predefined  cri -teria,  leaving  81  articles  for  full-text  assessment.  After  a detailed evaluation of the complete texts, 71 studies were excluded because of insufficient  data,  inappropriate  study design, or irrelevant outcomes. This resulted in ten studies [10,",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_35",
+    "text": "study design, or irrelevant outcomes. This resulted in ten studies [10,  15,  20 -27].  met  al.l  inclusion  criteria.  The  PRISMA flowchart of the selection process is shown in Fig. 1.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_36",
+    "text": "Hydrocephalus following decompressive craniectomy for ischemic stroke\nTen studies examining hydrocephalus following decompressive craniectomy (DC) for ischemic stroke were included in this meta-analysis. The studies were conducted across seven countries: Germany (2 studies), Taiwan (2 studies), Japan (2 studies), the USA (2 studies), China (1 study), and Canada (1 study). All studies had a retrospective design, with publication dates ranging from 2007 to 2019.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_37",
+    "text": "The total sample size across all studies was 579 patients who  underwent  decompressive  craniectomy,  with  individual study populations ranging from 13 to 198 patients. The mean age of the patients ranged from 44 to 63.5 years, with most studies reporting a predominance of male patients (38-82%). The study period spanned from 1998 to 2016, with  follow-up  durations  varying  from  one  month  to  two years, where specified.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_38",
+    "text": "All studies focused on malignant middle cerebral artery (MCA)  infarction,  with  some  including  internal  carotid artery  (ICA)  infarction.  The  primary  indication  for  DC across studies was medical refractory, increased intracranial pressure, or deteriorating consciousness with a significant mass effect. The timing of DC ranged from 0 to 5 days after",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_39",
+    "text": "Fig. 1 PRISMA flow diagram illustrating the study selection process, detailing the identification, screening, eligibility assessment, and final inclu -sion of studies in the meta-analysis\nstroke  onset,  with  most  procedures  performed  within  the first 48 h.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_40",
+    "text": "Definitions of hydrocephalus varied between stud -ies,  with  most  studies  using  radiographic  criteria  such  as Evans index > 0.3, ventricular dilatation on CT, or clinical improvement  after  CSF  drainage.  Exclusion  criteria  also differed between studies, but commonly included early mor -tality,  intracranial  infection,  subarachnoid  hemorrhage,  or intraventricular hemorrhage. More detailed information on the patient characteristics and study specifics can be found in Table 1.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_41",
+    "text": "Based on the cumulative scores, studies were categorized as:  extremely  poor  quality  (0-4),  low  quality  (5-7),  fair quality (8-12), and excellent quality (13-16). This approach allowed  for  a  standardized  quality  assessment  across  the heterogeneous studies included in our analysis. As shown in Table 2 , the majority of included studies (6/10) were of fair quality, with scores ranging from to 9-11 points. Three studies were classified as low-quality (6-7 points), and one study was",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_42",
+    "text": "studies were classified as low-quality (6-7 points), and one study was considered extremely poor-quality (4 points). The most common methodological limitations were the lack of prospective data collection (all studies scored 0), absence of prospective study size calculation (all studies scored 0), and",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_43",
+    "text": "Table 1 Baseline characteristics of studies on hydrocephalus following decompressive craniectomy for ischemic stroke",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_44",
+    "text": "Abbreviations :  DC = Decompressive  Craniectomy;  MCA = Middle  Cerebral  Artery;  ICA = Internal  Carotid  Artery;  ICP = Intracranial  Pressure;  IICP = Increased  Intracranial  Pressure; CT = Computed Tomography; CSF = Cerebrospinal Fluid; SAH = Subarachnoid Hemorrhage; IVH = Intraventricular Hemorrhage; ICH = Intracerebral Hemorrhage; POD = Post-Operative Day; RASS = Richmond Agitation Sedation Scale; VP = Ventriculoperitoneal",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_45",
+    "text": "inadequate follow-up reporting (7/10 studies scored 1 or 0) (Table 2).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_46",
+    "text": "Based on the GRADE assessment of evidence quality for hydrocephalus outcomes following decompressive craniectomy for ischemic stroke, our meta-analysis revealed significant limitations in the available evidence. Most outcomes, including  pre-  and  post-cranioplasty  hydrocephalus  rates and  ventriculomegaly  rates,  were  supported  by  very  lowquality  evidence  ( ⊕/uni25EF/uni25EF/uni25EF ),  primarily  due  to  the  retrospective design of all included studies, very high statistical",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_47",
+    "text": "the  retrospective design of all included studies, very high statistical heterogeneity  (I²  >  89%),  and  suspected  publication  bias. More favorable evidence quality was observed for shuntdependent hydrocephalus and resolution of hydrocephalus after  cranioplasty,  both  assessed  as  low-quality  evidence ( ⊕⊕/uni25EF/uni25EF )  due  to  more  moderate  heterogeneity  (I²  = 61.4% and 68.7%, respectively). Despite the high clinical importance of all outcomes examined, the predominance of",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_48",
+    "text": "the high clinical importance of all outcomes examined, the predominance of fair-quality studies (6/10) with methodological limitations, including  lack  of  prospective  data  collection,  absence  of study size calculation, and inadequate follow-up reporting, significantly  undermine  the  strength  of  recommendations that  can  be  made.  Future  research  employing  prospective designs with standardized outcome definitions and adequate follow-up  periods  is  essential  to  improve  the",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_49",
+    "text": "and adequate follow-up  periods  is  essential  to  improve  the  quality  of evidence  and  guide  clinical  decision-making  in  this  area (Table 3).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_50",
+    "text": "patients with cranioplasty: meta-analysis results Pre-cranioplasty hydrocephalus rate",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_51",
+    "text": "Our  meta-analysis  included  10  studies  that  examined  the rate  of  pre-cranioplasty  hydrocephalus.  Owing  to  signifi -cant heterogeneity between studies (I² = 95.5%, τ² = 0.1491, p <  0.0001), we applied a random-effects model. The pooled estimate  showed  a  pre-cranioplasty  hydrocephalus  rate  of 0.40 [95% CI: 0.17-0.65], with individual study rates rang -ing from 0.00 (Rahme et al., 2010) to 1.00 (Lin et al., 2015) (Fig. 2). The sensitivity analysis revealed that removing Lin et",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_52",
+    "text": "2015) (Fig. 2). The sensitivity analysis revealed that removing Lin et al. (2015) had the most substantial impact on the pooled estimate,  reducing  it  to  0.337,  indicating  the  influence  of this study on the overall results (Supplementary Fig. 1).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_53",
+    "text": "Six studies were included in our analysis of postcranioplasty hydrocephalus. The random effects model, employed due to high  heterogeneity  (I²  =  89.8%,  τ²  =  0.1564, p <  0.0001),\nTable 2 Assessment of the quality of studies through methodological index for Non-Randomized studies (MINORS).\nMINORS scoring: 0  =  not reported; 1  =  reported but inadequate; 2  =  reported and adequate; Maximum score for non-comparative studies = 16",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_54",
+    "text": "yielded  a  pooled  estimate  of  0.46  [95%  CI:  0.14-0.79], with a prediction interval of 0.00-1.00 (Fig. 3). Similar to the pre-cranioplasty analysis, Lin et al. (2015) showed the greatest influence on the results, with their exclusion reduc -ing the estimate to 0.352 (Supplementary Fig. 2).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_55",
+    "text": "Our meta-analysis of 10 studies examining pre-cranioplasty ventriculomegaly demonstrated significant heterogeneity (I² = 95.5%, τ² = 0.1273, p <  0.0001). Using a random effects model,  we  found  a  pooled  ventriculomegaly  rate  of  0.43 [95% CI: 0.21-0.67], with individual study rates showing substantial  variation  from  0.06  (Schwake  et  al.,  2019)  to 1.00 (Lin et al., 2015; Fig. 4). The sensitivity analysis identified Lin et al. (2015) as having the greatest impact on the pooled",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_56",
+    "text": "identified Lin et al. (2015) as having the greatest impact on the pooled estimate, with its removal reducing the estimate to 0.361 (Supplementary Fig. 3).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_57",
+    "text": "Six studies that assessed post-cranioplasty ventriculomegaly were included in our analysis. Given the substantial heterogeneity (I² = 89.8%, τ² = 0.1564, p <  0.0001), we employed a  random effects  model,  which  yielded  a  pooled  estimate of 0.46 [95% CI: 0.14-0.79], with a prediction interval of 0.00-1.00  (Fig. 5).  Consistent  with  other  outcomes,  the removal of Lin et al. (2015) from the sensitivity analysis had the most pronounced effect, decreasing the estimate to 0.352",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_58",
+    "text": "analysis had the most pronounced effect, decreasing the estimate to 0.352 (Supplementary Fig. 4).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_59",
+    "text": "Our  analysis  of  six  studies  on  shunt-dependent  hydrocephalus  showed  moderate  heterogeneity  (I²  =  61.4%,  τ² = 0.0175, p =  0.0237). The random effects model yielded a rate of 0.11 [95% CI: 0.04-0.22] with a prediction interval of 0.00-0.46 (Fig. 6). Meta-regression analysis by publication year revealed no significant temporal trend ( p =  0.804, R² = 0.015, Pearson's r = -0.121) (Supplementary Fig. 5).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_60",
+    "text": "Six  studies  that  examined  hydrocephalus  resolution  after cranioplasty were included. With moderate heterogeneity (I² = 68.7%, τ² = 0.0566, p =  0.0068), the random effects model provided an estimate of 0.27 [95% CI: 0.07-0.53] with a prediction  interval  of  0.00-0.96  (Fig.  7).  Meta-regression analysis investigating the relationship between cranioplasty timing  and  hydrocephalus  resolution  showed  a  negative correlation ( r = -0.788), suggesting that earlier cranioplasty might be",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_61",
+    "text": "correlation ( r = -0.788), suggesting that earlier cranioplasty might be associated with higher resolution rates, although this was not statistically significant ( p =  0.255, R² = 0.621) (Supplementary Fig. 6).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_62",
+    "text": "Comparison between pre and post-cranioplasty hydrocephalus\nA  direct  comparison  between  pre-  and  post-cranioplasty hydrocephalus  rates  revealed  no  statistically  significant difference  (meta-regression p =  0.6481)  (Fig. 8).  Box  plot visualization demonstrated slightly higher post-cranioplasty rates, but with substantial overlap between the distributions, suggesting  minimal  clinical  difference  between  the  two timepoints (Supplementary Fig. 7).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_63",
+    "text": "Sensitivity  analyses  identified  several  influential  studies across  the  outcomes.  For  shunt-dependent  hydrocephalus, excluding  Waziri  et  al.  (2007),  heterogeneity  was  substantially  reduced  from  I²  =  49.1-29.8%  (Supplementary\nImportance : Critical ( ★★★★★ ), High ( ★★★★☆ ), Moderate ( ★★★☆☆ ), Low ( ★★☆☆☆ ), Not Important ( ★☆☆☆☆ )\n: Extremely poor quality (0-4), Low quality (5-7), Fair quality (8-12), and Excellent quality (13-16)",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_64",
+    "text": "Fig. 2 Forest plot of the meta-analysis of pre-cranioplasty hydrocephalus rates. Individual study proportions with 95% confidence intervals (CI) are shown, along with the pooled proportion estimate calculated using a random-effects model. The prediction interval (PI) is also indicated",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_65",
+    "text": "Fig. 3 Forest plot of the meta-analysis of post-cranioplasty hydrocephalus rates. Individual study proportions with 95% CI are shown, along with the pooled proportion estimate calculated using a random-effects model. The PI is also indicated\nFig. 8). This study was a potential source of between-study variation.  Similar  influential  patterns  were  observed  for other outcomes, highlighting the need for a cautious interpretation of the pooled results.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_66",
+    "text": "Funnel  plot  asymmetry  was  observed  across  all  hydrocephalus  outcomes  (Supplementary  Fig.  9),  with  several studies falling outside the expected boundaries, suggesting a  potential  publication  bias. This  observation  underscores the  importance  of  considering  unpublished  data  and  the possibility that the available literature does not represent the full spectrum of clinical findings.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_67",
+    "text": "Decompressive craniectomy (DC) for  malignant ischemic stroke is a lifesaving procedure; however, hydrocephalus is a possible complication and can have long-term effects on outcomes [10,  12,  17]. Although  hydrocephalus  after  DC has  been  established,  especially  in  the  context  of TBI  [2, 3, 9, 13 ], its specific postoperative course regarding CP in stroke patients is not well described. This meta-analysis was",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_68",
+    "text": "Fig. 4 Forest plot of the meta-analysis of pre-cranioplasty ventriculomegaly rates. Individual study proportions with 95% CI are shown, along with the pooled proportion estimate calculated using a random-effects model. The PI is also indicated\nFig. 5 Forest plot of the meta-analysis of post-cranioplasty ventriculomegaly rates. Individual study proportions with 95% CI are shown, along with the pooled proportion estimate calculated using a random-effects model. The PI is also indicated",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_69",
+    "text": "performed to determine the rates of hydrocephalus and ventriculomegaly before and after CP, the need  for permanent CSF  diversion,  and  investigate  hydrocephalus  resolution following CP in patients who underwent DC for ischemic stroke.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_70",
+    "text": "Our pooled analysis revealed substantial rates of radiographically  defined  hydrocephalus  (40%)  and  ventriculo -megaly  (43%)  already  present  before  cranioplasty  in  this patient population. Following cranioplasty, these rates remained similarly high (46% for both outcomes), with our direct comparison showing no statistically significant differ -ence between the pre- and post-CP time points ( p =  0.6481). This  finding  suggests  that  at  the  pooled  level  within  the timeframe",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_71",
+    "text": "finding  suggests  that  at  the  pooled  level  within  the timeframe  assessed  by  these  studies,  cranioplasty  itself does  not  consistently  lead  to  an  immediate  resolution  or",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_72",
+    "text": "worsening of ventricular enlargement established after DC. The underlying CSF dynamic disruption occurring after the initial large DC may be the primary driver, often persisting throughout the CP period.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_73",
+    "text": "Importantly, regardless of the high rate of radiographic hydrocephalus or ventriculomegaly (greater  than 40%), the rate of shunt-dependent hydrocephalus was estimated to be 11% [95% CI: 0.04-0.22]. The clinical difference (requir -ing treatment) is essential to know and this article highlights that ventricular dilation is not clinically equivalent to hydrocephalus or an indication for surgical treatment even in the absence of ventricular catheter (for instance), since ventricular  expansion",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_74",
+    "text": "of ventricular catheter (for instance), since ventricular  expansion  in  the  standard  range  can  also  be  seen  in healthy patients. In this context, detailed clinical and neurological assessments with neuroimaging are essential when",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_75",
+    "text": "Fig. 6 Forest plot of the meta-analysis of shunt-dependent hydrocephalus rates. Individual study proportions with 95% CI are shown, along with the pooled proportion estimate calculated using a random-effects model. The PI is also indicated\nFig. 7 Forest plot of the meta-analysis of hydrocephalus resolution rates after cranioplasty. Individual study proportions with 95% CI are shown, along with the pooled proportion estimate calculated using a random-effects model. The PI is also indicated",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_76",
+    "text": "considering CSF diversion, as many patients with ventriculomegaly may not benefit from shunting.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_77",
+    "text": "Furthermore, our analysis indicated that  approximately 27% [95% CI: 0.07-0.53] of patients experienced resolu -tion  of  hydrocephalus  after  cranioplasty. While  our  metaregression exploring the impact of CP timing did not reach statistical  significance  ( p =  0.255),  the  observed  negative correlation  ( r =  -0.788)  suggests  that  earlier  cranioplasty might  contribute  to  hydrocephalus  resolution.  This  aligns with  the  hypothesis  that  restoring  cranial  integrity  earlier",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_78",
+    "text": "aligns with  the  hypothesis  that  restoring  cranial  integrity  earlier could help normalize CSF dynamics and brain compliance [12 ]. However, given the non-significant result and limita -tions discussed below, this remains speculative and requires a dedicated prospective investigation.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_79",
+    "text": "Our  findings  partially  resonate  with  the  meta-analysis by Ovenden et al. [14], who reported a pooled hydrocephalus/ventriculomegaly rate of 38% and shunt rate of 10%",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_80",
+    "text": "following DC for ischemic stroke (including studies with and  without  subsequent  CP).  Our  slightly  higher  hydrocephalus rates (40-46%) and similar shunt dependency rates (11%) fall within comparable ranges. However, our study distinctively focused on the cranioplasty window, allowing for pre- vs. post-CP comparison and analysis of resolution, providing  specific  insights  into  the  dynamics  around  this secondary procedure; for example, Ovenden et al. did not analyze them separately.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_81",
+    "text": "A key strength of our analysis is the specific focus on the cranioplasty timeframe, which enabled a direct comparison of hydrocephalus rates before and after skull reconstruction. However, several significant limitations of this study should be  considered  when  interpreting  our  findings.  First,  the",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_82",
+    "text": "Fig. 8 Meta-regression plot comparing pre- and post-cranioplasty hydrocephalus rates. The plot visualizes the relationship between the two time points across included studies, with the regression line indicating the overall trend and associated p-value for the comparison",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_83",
+    "text": "exclusive reliance on retrospective studies introduces inherent risks of selection bias, information bias, and confounding. The 'fair' to 'extremely poor' quality ratings based on MINORS criteria [16], primarily due to lack of prospective data  collection  and  inadequate  follow-up,  further  weaken the evidence base. This is reflected in the overall GRADE assessment, indicating very low-to low-quality evidence for most outcomes (Table 3).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_84",
+    "text": "Second, the substantial statistical heterogeneity (I² > 89% for most hydrocephalus/ventriculomegaly outcomes) across studies is a major concern, suggesting significant variabil -ity in patient populations, hydrocephalus definitions, imag -ing protocols, timing of assessments, and potential surgical techniques  or  perioperative  management.  This  variability limits the reliability of the pooled estimates and underscores the wide prediction intervals, indicating considerable uncertainty",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_85",
+    "text": "the wide prediction intervals, indicating considerable uncertainty regarding the true effect in individual settings. While sensitivity analyses identified influential studies (e.g., Lin et al. [12]), heterogeneity remained high for most outcomes.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_86",
+    "text": "Third,  inconsistent  definitions  of  hydrocephalus  and ventriculomegaly  across  studies  likely  contributed  to  the heterogeneity  and  made  direct  comparisons  challenging. Furthermore, variability in the follow-up duration may lead to under-ascertainment of delayed hydrocephalus or shunt requirements.  Finally,  the  observed  funnel  plot  asymmetry suggests potential publication bias, where studies with less 'significant' or negative findings might be underrepre -sented. The lack of",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_87",
+    "text": "or negative findings might be underrepre -sented. The lack of randomized controlled data, particularly comparing different CP timings or management strategies, prevents definitive conclusions regarding causality.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_88",
+    "text": "However, further research is required to address these limitations. Large multicenter prospective cohort studies or ideally randomized controlled trials (RCTs) are needed. These studies should employ standardized, consensus-based definitions for hydrocephalus and ventriculomegaly, predefined imaging",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_89",
+    "text": "protocols and assessment time points (relative to both DC and CP), and sufficiently long follow-up periods to capture delayed events and functional outcomes. Investigating specific predic -tors (e.g., initial stroke severity, DC size, presence of hygroma [13], and timing of CP) for developing shunt-dependent hydrocephalus versus achieving post-CP resolution would be highly valuable. Comparing specific CP timing strategies (e.g., early vs. late) within an RCT framework could clarify their impact",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_90",
+    "text": "(e.g., early vs. late) within an RCT framework could clarify their impact on CSF dynamics and neurological recovery.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_91",
+    "text": "In summary, this meta-analysis demonstrated that HC and ventriculomegaly  were  relatively  common  (40-46%)  in HD and non-HD patients undergoing cranioplasty following decompressive craniectomy for ischemic stroke and that the overall pooled data did not detect a significant change in  C  London  HC  immediately  post-CP.  However,  only  a small  percentage  (~ 11%)  required  permanent  CSF  shunt -ing, underscoring the importance of clinical correlation over imaging alone. Although a trend",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_92",
+    "text": "importance of clinical correlation over imaging alone. Although a trend towards improved hydrocephalus resolution with earlier cranioplasty was observed, further investigation is required. The low to very low quality of evidence available is impacted by retrospective study designs  and  by  considerable  heterogeneity  of  previous studies,  which  calls  for  the  urgent  need  for  high-quality prospective studies to inform clinical management in this vulnerable patient population with regard",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_93",
+    "text": "clinical management in this vulnerable patient population with regard to hydrocephalus.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_94",
+    "text": "Supplementary Information The online version contains supplementary material available at h t  t p   s :  / / d o  i . o   r g  /   1 0  . 1   0 0  7 / s 1   0 1  4 3  0 2  5 -  0 3  6 5  0 -  7.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_95",
+    "text": "Author contributions Ibrahim Khalil (I.K.): Conceptualization, Meth -odology, Investigation, Data curation, Formal analysis, Writing - original  draft,  Writing  -  review  &  editing,  Project  administration.  Reem Sayad  (R.S.):  Methodology,  Investigation,  Data  curation,  Formal analysis,  Writing  -  original  draft,  Writing  -  review  &  editing.  Sara K. Kamal (S.K.K.): Investigation, Data curation, Validation, Writing - original draft, Writing - review & editing. Zainab Hussein",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_96",
+    "text": "Writing - original draft, Writing - review & editing. Zainab Hussein (Z.H.): In -vestigation, Data curation, Validation, Writing - original draft, Writing - review & editing. Salma Allam (S.A.): Investigation, Data curation, Validation,  Writing  -  original  draft,  Writing  -  review  &  editingAna Letícia  Fornari  Caprara  (A.L.F.C.):  Validation,  Supervision,  Formal analysis, Writing - original draft, Writing - review & editing. Jamir Pitton  Rissardo  (J.P.R.):  Validation,",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_97",
+    "text": "- review & editing. Jamir Pitton  Rissardo  (J.P.R.):  Validation,  Supervision,  Formal  analysis, Writing - original draft, Writing - review & editing.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_98",
+    "text": "Funding Open access funding provided by The Science, Technology &  Innovation  Funding  Authority  (STDF)  in  cooperation  with  The Egyptian Knowledge Bank (EKB). No funding was received.\nData availability No datasets were generated or analysed during the current study.\nEthics approval and consent to participate As this research is a metaanalysis, it does not involve any direct human or animal subjects and therefore does not require ethical approval from an Institutional Review Board (IRB).",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_99",
+    "text": "Competing interests The authors declare no competing interests.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_100",
+    "text": "Open Access This  article  is  licensed  under  a  Creative  Commons Attribution  4.0  International  License,  which  permits  use,  sharing, adaptation,  distribution  and  reproduction  in  any  medium  or  format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence,",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_101",
+    "text": "in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use,  you  will  need  to  obtain  permission  directly  from  the  copyright holder. To view a copy of this licence, visit h t  t p   : /  /   c r  e a   t i   v e  c   o m  m  o   n s  .   o r g   / l  i c",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_102",
+    "text": ": /  /   c r  e a   t i   v e  c   o m  m  o   n s  .   o r g   / l  i c  e n  s e  s /  b y  / 4  . 0  / .",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_103",
+    "text": "Baldvinsdóttir B, Kronvall E, Ronne-Engström E, Enblad P, Klurfan P, Eneling J, Lindvall P, Aineskog H, Friðriksson S, Svensson M, Alpkvist  P,  Hillman  J,  Nilsson  OG  (2025)  Decompressive craniectomy following subarachnoid hemorrhage: A prospective Swedish multicenter study. Brain Spine 5:104218.   h t  t  p   s :  / / d o  i . o   r g /  1 0  . 1   0 1  6 / j .   b a  s . 2  0 2  5 . 1  0 4  2 1  8",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_104",
+    "text": "De Bonis P, Pompucci A, Mangiola A, Rigante L, Anile C (2010) Post-traumatic hydrocephalus after decompressive craniectomy: an underestimated risk factor. J Neurotrauma 27:1965-1970. h  t t  p s :  / / d o  i . o   r g  /   1 0  . 1   0 8  9 / N  E   U . 2  0 1  0 . 1  4 2  5",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_105",
+    "text": "Choi I, Park HK, Chang JC, Cho SJ, Choi SK, Byun BJ (2008) Clinical factors for the development of posttraumatic hydrocephalus after decompressive craniectomy. J Korean Neurosurg Soc 43:227-231.   h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 3   3 4  0 / j k   n s  . 2  0 0  8 . 4  3 . 5  . 2  2  7",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_106",
+    "text": "Cruz-Flores S, Berge E, Whittle IR (2012) Surgical decompression  for  cerebral  oedema  in  acute  ischaemic  stroke.  Cochrane Database Syst Rev 1:CD003435-CD003435.   h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 1  0 0  2 / 1 4   6 5  1   8 5  8 . C  D  0   0 3   4 3  5 . p  u b  2\nDerSimonian R, Laird N (1986) Meta-analysis in clinical trials. Control Clin Trials 7:177-188.   h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 1   0 1  6 / 0 1   9 7  2  4 5 6  ( 8  6 )  9 0  0 4  6 -  2",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_107",
+    "text": "Egger M, Davey Smith G, Schneider M, Minder C (1997) Bias in meta-analysis detected by a simple, graphical test. BMJ 315:629634. h t  t p   s :  / / d o  i . o   r g  /   1 0  . 1   1 3  6 / b m   j . 3  1 5  . 7  1 0  9 . 6  2  9\nGopalakrishnan MS, Shanbhag NC, Shukla DP, Konar SK, Bhat DI,  Devi  BI  (2018)  Complications  of  decompressive  craniectomy. Front Neurol 9:977.   h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 3   3 8  9 / f n   e u  r . 2  0 1  8 . 0  0 9  7  7",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_108",
+    "text": "Higgins JPT, Thompson SG (2002) Quantifying heterogeneity in a meta-analysis. Stat Med 21:1539-1558.   h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 1   0 0  2 / s  i   m . 1  1 8  6",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_109",
+    "text": "Honeybul S, Ho KM (2012) Incidence and risk factors for posttraumatic  hydrocephalus  following  decompressive  craniectomy for intractable intracranial hypertension and evacuation of mass lesions. J Neurotrauma 29:1872-1878.   h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 1   0 8  9 / N E  U  . 2  0 1  2 . 2  3 5  6",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_110",
+    "text": "Lee M-H, Yang J-T, Weng H-H, Cheng Y-K, Lin MH-C, Su C-H, Chang C-M, Wang T-C (2012) Hydrocephalus following decompressive craniectomy for malignant middle cerebral artery infarction. Clin Neurol Neurosurg 114:555-559.   h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 1   0 1 6  / j .   c l  i   n e  u   r o  . 2   0 1   1 .  1 1  . 0  2  7",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_111",
+    "text": "Liberati A, Altman  DG,  Tetzlaff  J  The  PRISMA  statement  for reporting  systematic  reviews  and  meta-analyses  of  studies  that evaluate health care interventions: explanation and elaboration. PLoS Med 6 (Consider adding eID, e.g., e1000100, if required)",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_112",
+    "text": "Lin B, Chou K, Feng S, Ju D, Ma H, Hueng D (2014) Role of post-decompressive  hydrocephalus  in  patients  with  malignant cerebral infarction. Turk Neurosurg. h t  t p   s :  / / d o  i . o   r g  /   1 0  . 5   1 3  7 / 1 0   1 9  5  1 4  9 . j  t n  . 1  1 3  4 5  1  4 .  1",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_113",
+    "text": "Lu  VM,  Carlstrom  LP,  Perry  A,  Graffeo  CS,  Domingo  RA, Young CC, Meyer FB (2021) Prognostic significance of subdural hygroma for post-traumatic hydrocephalus after decompressive craniectomy  in  the  traumatic  brain  injury  setting:  a  systematic review and meta-analysis. Neurosurg Rev 44:129-138.   h t  t  p   s :  / / d o i  . o   r g  /   1 0  . 1   0 0  7 / s  1   0 1  4  3 -  0 1  9 -  0 1  2 2  3 -  z",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_114",
+    "text": "Ovenden CD, Barot DD, Gupta A, Aujayeb N, Nathin K, Hewitt J, Kovoor J, Stretton B, Bacchi S, Edwards S, Kaukas L, Wells AJ (2023) Incidence of hydrocephalus following decompressive craniectomy for ischaemic stroke: A systematic review and metaanalysis. Clin Neurol Neurosurg 234:107989.   h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 1 0 1  6   / J  .   C L  I   N E  U   R O  . 2   0 2   3 . 1  0 7  9 8  9",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_115",
+    "text": "Rahme R, Weil AG, Sabbagh M, Moumdjian R, Bouthillier A, Bojanowski  MW  (2010)  Decompressive  craniectomy  is  not an  independent  risk  factor  for  communicating  hydrocephalus in  patients  with  increased  intracranial  pressure.  Neurosurgery 67:675-678. h t  t p   s :  / / d o  i . o   r g  /   1 0  . 1   2 2  7 / 0 1   . N  E   U . 0   0 0  0  3   8 3   1 4  2 . 1  0 1  0 3  .  0  B",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_116",
+    "text": "Slim  K,  Nini  E,  Forestier  D,  Kwiatkowski  F,  Panis  Y ,  Chipponi J (2003) methodological index for non-randomized studies (minors): development and validation of a new instrument. ANZ J Surg 73:712-716\nWang Q, Ma J, Zhou Z, Yang M, You C (2015) Hydrocephalus after decompressive craniectomy for malignant hemispheric cerebral infarction. Int J Neurosci 1-6.   h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 3   1 0  9 / 0 0   2 0  7 4  5 4  . 2  0 1  5 . 1  0 5  5 3  5  7",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_117",
+    "text": "Waziri  A,  Fusco  D,  Mayer  SA,  McKhann  GM,  Connolly  ES (2007) postoperative hydrocephalus in patients undergoing decompressive  hemicraniectomy  for  ischemic  or  hemorrhagic stroke.  Neurosurgery  61:489-494.    h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 1   2 2  7 / 0 1   . n  e u  . 0  0 0  0 2  9 0  8 9  4 . 8  5 0  7 2  . 3  7",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_118",
+    "text": "(2022) Corrigendum to: world stroke organization (WSO): global stroke fact sheet 2022. Int J Stroke 17:478.   h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 1   1 7 7  / 1  7   4 7  4 9  3 0  2 2  1 0  8 0  3 4  3",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_119",
+    "text": "Schwake M, Schipmann S, Müther M, Stögbauer L, Hanning U, Sporns PB, Ewelt C, Dziewas R, Minnerup J, Holling M, Stummer  W  (2019)  Second-look  strokectomy  of  cerebral  infarction areas in patients with severe herniation. J Neurosurg 1-10.   h t  t  p   s : /  / d o  i . o   r g  /   1 0  . 3   1 7  1 / 2 0   1 8  . 8  . J  N  S 1  8 6  9  2",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_120",
+    "text": "Finger T, Prinz V, Schreck E, Pinczolits A, Bayerl S, Liman T, Woitzik J, Vajkoczy P (2017) Impact of timing of cranioplasty on hydrocephalus  after  decompressive  hemicraniectomy  in  malignant  middle  cerebral  artery  infarction.  Clin  Neurol  Neurosurg 153:27-34.   h t  t  p   s :  / / d o  i . o   r g  /   1 0  . 1   0 1  6 / j .   c l  i   n e  u   r o  . 2   0 1   6 . 1  2 . 0  0  1",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_121",
+    "text": "Nalbach SV, Ropper AE, Dunn IF, Gormley WB (2012) Craniectomy-associated progressive extra-axial collections with treated hydrocephalus (CAPECTH): redefining a common complication of decompressive craniectomy. J Clin Neurosci 19:1222-1227. h t t  p   s :  / / d o  i . o   r g  /   1 0  . 1   0 1  6 / j . j o c  n . 2  0 1  2 . 0  1 . 0  1  6",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_122",
+    "text": "Lin BJ, Chou KN, Feng SW, Ju DT, Ma HI, Hueng DY (2015) Role  of  post-decompressive  hydrocephalus  in  patients  with malignant cerebral infarction. Turk Neurosurg 25:742-748. h  t t  p  s : /   / d  o i   . o   r g  /   1 0  . 5   1 3  7 / 1 0   1 9  -   5 1  4   9 . J  T   N .   1 1  3 4  5 -  1 4  .  1",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_123",
+    "text": "Takeuchi S, Takasato Y, Masaoka H, Hayakawa T, Yatsushige H, Shigeta K, Nagatani K, Otani N, Wada K, Nawashiro H, Shima K (2013) Hydrocephalus following decompressive craniectomy for ischemic stroke. Acta Neurochir Suppl 118:289-291.   h t  t  p   s :  / / d o  i . o  r g  /   1 0  . 1   0 0  7 / 9 7   8 -  3 -  7 0  9 1  1  4 3  4 -  6 _  5  6",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_124",
+    "text": "Takeuchi S, Takasato Y, Masaoka H, Hayakawa T, Yatsushige H, Nagatani K, Osada H, Otani N, Wada K, Nawashiro H (2013) Hydrocephalus after decompressive craniectomy for hemispheric cerebral infarction. J Clin Neurosci 20:377-382.   h t  t  p   s :  / / d o  i . o   r g  /   1 0 .  1   0 1  6 / j . j o c  n . 2  0 1  2 . 0  3 . 0  3  5",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_125",
+    "text": "Wang QP, Ma JP, Zhou ZM, Yang M, You C (2015) Hydrocephalus after decompressive craniectomy for malignant hemispheric cerebral infarction. Int J Neurosci 125(10):747-751.   h t  t  p   s :  / / d o  i . o r g  /   1 0  . 3   1 0  9 / 0 0   2 0  7   4 5  4 . 2  0 1   5 .   1 0  5 5  3 5  7",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_126",
+    "text": "Waziri A, Fusco D, Mayer SA, McKhann GM 2nd, Connolly ES Jr  (2007)  Postoperative  hydrocephalus  in  patients  undergoing decompressive  hemicraniectomy  for  ischemic  or  hemorrhagic stroke.  Neurosurgery  61:489-494.    h t  t  p  s  :    / d  o   i .  o   r g /  1 0   . 1  2    2 7    / 0  1 .  n e u  . 0  0 0  0 2  9 0  8 9  4 . 8  5 0  7 2  . 3  7\nPublisher's note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_127",
+    "text": "I. Khalil 1 · R. Sayad 2 · S. K. Kamal 3 · Z. Hussein 4 · S. Allam 5 · A. L. F. Caprara 6 · J. P . Rissardo 6\nKhalil ibrahim.ibrahim1908@alexmed.edu.eg; ietfeiheh2016@\nSayad reem.17289806@med.aun.edu.eg; reemoo.8527@gmail.com\nL. F. Caprara ana.leticia.fornari@gmail.com; fornari-caprara-ana@ cooperhealth.edu\n1 Faculty of Medicine, Alexandria University, Alexandria 5372066, Egypt\n2 Faculty of Medicine, Assiut University, Assiut 71515, Egypt\n3 Faculty of Medicine, Cairo University, Cairo, Egypt",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  },
+  {
+    "chunk_id": "10143_2025_Article_3650_128",
+    "text": "3 Faculty of Medicine, Cairo University, Cairo, Egypt\n4 Faculty of Medicine, Minia University, Minia, Egypt\n5 Faculty of Medicine, Galala University, Suez, Egypt\n6 Neurology Department, Cooper University Hospital, Camden, NJ 08103, USA",
+    "metadata": {
+      "source": "10143_2025_Article_3650.pdf"
+    }
+  }
+]

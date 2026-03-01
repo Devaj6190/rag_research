@@ -1,0 +1,1024 @@
+[
+  {
+    "chunk_id": "biomedicines-12-00311_0",
+    "text": "The Relationship between Injury Characteristics and Post-Traumatic Recovery after Diffuse Axonal Injury\nRita de C á ssia Almeida Vieira 1,2 , Leonardo Zumerkorn Pipek 3, * , Daniel Vieira de Oliveira 4 , Wellingson Silva Paiva 5 and Regina Marcia Cardoso de Sousa 2\n1 Department of Nursing, University of Sergipe, Lagarto 49400-000, Brazil; ritavieira@academico.ufs.br\n2 Nursing School, University of Sao Paulo, Sao Paulo 05508-010, Brazil; vian@usp.br",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_1",
+    "text": "3 Department of Neurology, Clinical Hospital of the University of Sao Paulo, University of Sao Paulo Medical School, Sao Paulo 05403-000, Brazil\n4 Department of Medicine, University of Sergipe, Lagarto 49400-000, Brazil\n5 Division of Neurosurgery, Clinical Hospital of the University of Sao Paulo, University of Sao Paulo Medical School, Sao Paulo 05403-000, Brazil; wellingsonpaiva@yahoo.com.br",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_2",
+    "text": "Abstract: Background: The diagnosis and prognosis of diffuse axonal injury (DAI) remain challenging. This research aimed to analyze the impact on activities of daily living (ADL), functional outcomes, quality of life (QoL), and the association between lesion severity and DAI location identified through imaging exams. Methods: This prospective cohort study included 95 patients diagnosed with DAI. Data were collected at admission, three, six, and twelve months post-injury. The associations",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_3",
+    "text": "at admission, three, six, and twelve months post-injury. The associations between variables were evaluated using a mixed-effects model. Results: Functional recovery and QoL improved between three and twelve months after DAI. An interaction was observed between independence in performing ADL and subarachnoid hemorrhage ( p = 0.043) and intraventricular hemorrhage ( p = 0.012). Additionally, an interaction over time was observed between the Glasgow Outcome Scale (GOS) and DAI severity ( p <",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_4",
+    "text": "observed between the Glasgow Outcome Scale (GOS) and DAI severity ( p < 0.001), brain lesions ( p = 0.014), and the Disability Rating Scale (DRS) with injury in brain hemispheres ( p = 0.026) and Adams classification ( p = 0.013). Interaction effects over time were observed with the general health perceptions and energy/vitality domains with intraventricular hemorrhage, and the social functioning domain with the obliteration of basal cisterns and Gentry's classification. Conclusion: The use of",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_5",
+    "text": "of basal cisterns and Gentry's classification. Conclusion: The use of CT in the acute phase of DAI is important for predicting outcomes. The severity and location of DAI are associated with functional outcomes, ADL, and QoL.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_6",
+    "text": "Keywords: CT imaging; traumatic brain injury; diffuse axonal injury; functional outcomes; quality of life",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_7",
+    "text": "Diffuse axonal injury (DAI) is a microscopic injury that affects the axons in the cerebral hemispheres, corpus callosum, and brainstem. DAI is clinically characterized by a coma lasting six hours or more following a traumatic brain injury (TBI), excluding cases of expanding or ischemic brain injuries [1]. The cognitive, physical, and behavioral changes caused by DAI compromise in activities of daily living (ADL) and quality of life (QoL). These consequences extend beyond the acute phase of",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_8",
+    "text": "quality of life (QoL). These consequences extend beyond the acute phase of treatment, persisting and evolving over an extended period after the traumatic event. During recovery, the brain can gradually regain some function through the neural connection remodeling facilitated by brain plasticity [2-5].",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_9",
+    "text": "The severity and outcome of DAI are influenced by the location and number of DAI lesions [6-9]. Imaging exams have been used to identify these injuries and estimate outcomes, but the prognostic value of DAI characteristics is not well established [6-9]. Mata-Mbemba et al. [10] have shown that an intraventricular hemorrhage identified in",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_10",
+    "text": "Citation: Vieira, R.d.C.A.; Pipek, L.Z.; Oliveira, D.V.d.; Paiva, W.S.; Sousa, R.M.C.d. The Relationship between Injury Characteristics and Post-Traumatic Recovery after Diffuse Axonal Injury. Biomedicines 2024 , 12 , 311. https://doi.org/10.3390/ biomedicines12020311",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_11",
+    "text": "Copyright: © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/).",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_12",
+    "text": "initial computerized tomography (CT) is a marker of DAI, specifically moderate and severe DAI [10]. Chelly et al. [6] observed that the classification of DAI according to Gentry's classification [11], based on the location and extent of the injury, does not have a prognostic value even in patients with isolated DAI. In his cohort, the faster recovery of consciousness and lesions in the corpus callosum were correlated with a better prognosis after 12 months [6]. Similarly, Kim et al. [12] showed",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_13",
+    "text": "a better prognosis after 12 months [6]. Similarly, Kim et al. [12] showed that there is no statistically significant difference between the clinical outcomes between patients with pure or non-pure DAI. In these studies, Magnetic Resonance Imaging (MRI) has been used to evaluate the extent and distribution of DAI, but the prognostic value of the characteristics of this lesion has not been well established.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_14",
+    "text": "Currently, MRI is typically used in the later stages of trauma treatment to assess brain atrophy and to confirm the diagnosis of DAI when CT does not show any brain injury lesion or small hemorrhage [13]. However, a study that compared the results of the MRI exams performed in patients of DAI showed that only early MRI findings helped to predict clinical outcomes [7]. Therefore, an early evaluation with CT may be more valuable for estimating prognosis in clinical practice than MRI, which is not",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_15",
+    "text": "for estimating prognosis in clinical practice than MRI, which is not usually available or only happens later. In middle- and low-income countries, where access to MRI may be limited, the use of CT in the acute phase of trauma to initially identify the injury can be useful to estimate patient prognosis and predict long-term recovery. The presence of an intraventricular hemorrhage, subarachnoid hemorrhage, and gliding contusion are indirect signs of DAI that may be present on CT [2].",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_16",
+    "text": "This study aims to describe the recovery of patients with DAI between discharge and one year post-injury, focusing on functional outcomes, ADL, Instrumental Activities of Daily Living Scale (IADL), and QoL. Additionally, we aim to analyze the association between DAI severity and location on acute CT and the post-traumatic consequences at three, six, and twelve months after DAI.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_17",
+    "text": "This is a prospective cohort study with four time points for data collection: during hospitalization, discharge, three, six, and twelve months after trauma. The study was conducted at a specialized trauma hospital in the state of Sao Paulo, Brazil. The study included patients diagnosed with DAI who were hospitalized from July 2016 to December 2018. This project was approved by the Ethics and Research Committee of the Hospital da Clinicas da Faculdade de Medicina de S ã o Paulo, under number",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_18",
+    "text": "Hospital da Clinicas da Faculdade de Medicina de S ã o Paulo, under number 1.645.348, CAEE 51614015.6.3001.0068. Patients or their responsible family members provided verbal and written consent to participate in the study by signing the informed consent form.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_19",
+    "text": "Patients were selected if they had a Glasgow Coma Scale (GCS) score of ≤ 8 upon hospital admission after proper systemic reanimation and a diagnosis of DAI (without any combined focal injury), were admitted directly from the trauma scene, and were between 18 and 60 years old. Patients with focal or mass effect injuries (e.g., subdural hematoma, epidural hematoma, contusion) were also excluded from the study, even if these injuries were associated with the presence of DAI on CT and/or MRI.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_20",
+    "text": "The study excluded individuals who were treated at this hospital more than six hours after the traumatic event, those transferred from other hospitals, those with a previous diagnosis of traumatic brain injury (TBI), psychiatric disorders, or other head and spinal cord injuries of severity ≥ 3 according to the Abbreviated Injury Scale (AIS) [14]. Patients with AIS ≥ 3 injuries in specific body regions may experience long-term deficiencies and disabilities after trauma [15], making it difficult",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_21",
+    "text": "deficiencies and disabilities after trauma [15], making it difficult to distinguish the consequences of DAI in the recovery process.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_22",
+    "text": "Atotal of 103 patients met the inclusion criteria and were included in the study. Out of the 126 patients admitted to the hospital with TBI between August 2016 to December 2018, 23 were excluded for not meeting the eligibility criteria. Of the 103 patients included, 8 (8.4%) were lost to follow-up after discharge, leaving 95 patients for analysis in the follow-up study (Figure 1).",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_23",
+    "text": "8  (8.4%)  were  lost  to  follow-up  after  discharge,  leaving  95  patients  for  analysis  in  the follow-up study (Figure 1).\nFigure 1. Patient recruitment fl ow chart. Figure 1. Patient recruitment flow chart.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_24",
+    "text": "The following sociodemographic and clinical variables were obtained: gender, age, education,  marital  status,  race,  occupational  status,  GCS,  presence  of  orotracheal intubation (OTI), pupillary changes, use of continuous sedation, duration of continuous sedation, duration of coma, severity of DAI, length of stay, Maximum Abbreviated Injury Scale (MAIS) [14], Injury Severity Score (ISS) [15], New Injury Severity Score (NISS) [16], The Corticosteroid Randomization After Signi fi cant Head",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_25",
+    "text": "(NISS) [16], The Corticosteroid Randomization After Signi fi cant Head Injury (CRASH) CT mortality, and unfavorable outcome at six months. The following sociodemographic and clinical variables were obtained: gender, age, education, marital status, race, occupational status, GCS, presence of orotracheal intubation (OTI), pupillary changes, use of continuous sedation, duration of continuous sedation, duration of coma, severity of DAI, length of stay, Maximum Abbreviated Injury Scale (MAIS) [14],",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_26",
+    "text": "of DAI, length of stay, Maximum Abbreviated Injury Scale (MAIS) [14], Injury Severity Score (ISS) [15], New Injury Severity Score (NISS) [16], The Corticosteroid Randomization After Significant Head Injury (CRASH) CT mortality, and unfavorable outcome at six months.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_27",
+    "text": "2.2. Post-Traumatic Brain Recovery Outcomes 2.2. Post-Traumatic Brain Recovery Outcomes",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_28",
+    "text": "The score ranges from 8 to 24, with higher scores indicating greater independence [21]. Quality of life was evaluated using the Short Form 36 (SF-36), which measures eight domains  of  a  health-related  quality  of  life  represented  by  36  questions:  physical functioning; role limitations (physical); bodily pain; general health perceptions; energy/vitality; social functioning; role limitations (emotional); and mental health [22]. After recalibrating two items and reversing the score of 9",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_29",
+    "text": "health [22]. After recalibrating two items and reversing the score of 9 items, the responses to items are summed. Scores range from 0 to 100, with 0 indicating the least favorable quality of life Quality of life was evaluated using the Short Form 36 (SF-36), which measures eight domains of a health-related quality of life represented by 36 questions: physical functioning; role limitations (physical); bodily pain; general health perceptions; energy/vitality; social functioning; role limitations",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_30",
+    "text": "health perceptions; energy/vitality; social functioning; role limitations (emotional); and mental health [22]. After recalibrating two items and reversing the score of 9 items, the responses to items are summed. Scores range from 0 to 100, with 0 indicating the least favorable quality of life (QoL) status and 100 indicating the most favorable QoL.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_31",
+    "text": "Functional Recovery was evaluated using the Glasgow Outcome Scale (GOS) and Disability Rating Scale (DRS), which aim to quantify functional capacity after brain injury [17]. The GOS score presents eight categories, ranging from zero (total recovery) to seven (death), while the DRS classi fi es patients into ten categories, ranging from zero (without disability) to 30 (death) [18,19]. In addition to functional capacity three to twelve months after DAI, independence in activities of daily living",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_32",
+    "text": "to twelve months after DAI, independence in activities of daily living (ADLs) and instrumental activities of daily living (IADLs) were evaluated. Performance in ADLs was evaluated using the Ka tz scale, which measures independence in performing activities such as bathing, dressing, personal care, transfers, toilet use, and continence. Scores range from 0 to 18, with lower scores  indicating  greater  independence  [20].  IADLs  were  evaluated  using  the  Lawton scale, which measures the",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_33",
+    "text": "IADLs  were  evaluated  using  the  Lawton scale, which measures the ability to perform more complex activities such as managing fi nances, using the telephone, shopping, food preparation, housekeeping, laundry, mode of transportation, responsibility for own medication, and the ability to handle fi nances. Functional Recovery was evaluated using the Glasgow Outcome Scale (GOS) and Disability Rating Scale (DRS), which aim to quantify functional capacity after brain injury [17]. The GOS score",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_34",
+    "text": "aim to quantify functional capacity after brain injury [17]. The GOS score presents eight categories, ranging from zero (total recovery) to seven (death), while the DRS classifies patients into ten categories, ranging from zero (without disability) to 30 (death) [18,19]. In addition to functional capacity three to twelve months after DAI, independence in activities of daily living (ADLs) and instrumental activities of daily living (IADLs) were evaluated. Performance in ADLs was evaluated using",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_35",
+    "text": "living (IADLs) were evaluated. Performance in ADLs was evaluated using the Katz scale, which measures independence in performing activities such as bathing, dressing, personal care, transfers, toilet use, and continence. Scores range from 0 to 18, with lower scores indicating greater independence [20]. IADLs were evaluated using the Lawton scale, which measures the ability to perform more complex activities such as managing finances, using the telephone, shopping, food preparation,",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_36",
+    "text": "as managing finances, using the telephone, shopping, food preparation, housekeeping, laundry, mode of transportation, responsibility for own medication, and the ability to handle finances. The score ranges from 8 to 24, with higher scores indicating greater independence [21].",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_37",
+    "text": "(QoL) status and 100 indicating the most favorable QoL. Imaging exams (CT and MRI) were used to identify the presence and location of DAI by radiologists and neurosurgeons. The presence of an intraventricular hemorrhage and the obliteration of basal cisterns were identi fi ed through imaging exams. The severity and location of DAI were evaluated using the Marshall CT Score, Adams classi fi cation, and Gennarelli's. The Marshall CT score is classi fi ed as follows: Di ff use Injury I includes",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_38",
+    "text": "Marshall CT score is classi fi ed as follows: Di ff use Injury I includes all Imaging exams (CT and MRI) were used to identify the presence and location of DAI by radiologists and neurosurgeons. The presence of an intraventricular hemorrhage and the obliteration of basal cisterns were identified through imaging exams. The severity and location of DAI were evaluated using the Marshall CT Score, Adams classification, and Gennarelli's. The Marshall CT score is classified as follows: Diffuse Injury",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_39",
+    "text": "The Marshall CT score is classified as follows: Diffuse Injury I includes all the injuries where there is no visible pathology; Diffuse Injury II includes all diffuse injuries in which the cisterns are present, the midline shift is less than 5 mm, and/or there is no highor mixed-density lesion of more than 25 cc; Diffuse Injury III includes diffuse injuries with swelling where the cisterns are compressed or absent and the midline shift is 0 to 5 mm",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_40",
+    "text": "with no high- or mixed-density lesion of more than 25 cc; and Diffuse Injury IV includes diffuse injuries with a midline shift of more than 5 mm and no high- or mixed-density lesion of more than 25 cc [23]. Adams classification defines grade 1 as evidence of axonal damage in the white matter of the cerebral hemispheres, including the corpus callosum, brainstem, and occasionally the cerebellum; grade 2 includes focal lesions in the corpus callosum in addition to diffuse axonal damage; and grade",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_41",
+    "text": "in the corpus callosum in addition to diffuse axonal damage; and grade 3 includes focal lesions in both the corpus callosum and dorsolateral quadrant of the rostral brainstem [11]. Gennarelli defined the severity of DAI clinically: mild DAI with a coma duration of 6-24 h; moderate DAI with a coma duration > 24 h without brainstem involvement; and severe DAI with a coma duration > 24 h with brain signs [1].",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_42",
+    "text": "Data were collected during hospitalization, at discharge, and three, six, and twelve months after DAI. Sociodemographic and clinical variables were collected upon admission and during hospitalization. Functional capacity, independence for ADLs and IADLs, and QoL were evaluated at discharge, three, six, and twelve months after DAI. Patient follow-up was conducted at the specialty outpatient clinic. All patients were instructed, upon hospital discharge, to attend the outpatient clinic for",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_43",
+    "text": "instructed, upon hospital discharge, to attend the outpatient clinic for follow-up appointments at three, six, and twelve months after DAI. Confirmations and appointment scheduling were carried out through a previous telephone contact. Patients who remained hospitalized at three, six, or twelve months after DAI were assessed during the follow-up period. The CT imaging exams used to identify the presence and location of DAI were performed upon admission and repeated within 48 h after admission,",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_44",
+    "text": "were performed upon admission and repeated within 48 h after admission, while MRI exams were performed until discharge or during the follow-up period (Supplement Figure S1).",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_45",
+    "text": "Descriptive statistics were used to summarize the characteristics of the sample, including sociodemographic and clinical variables. Categorical variables were compared using the chi-square test or Fisher's exact test, while continuous variables were compared using the student's t -test or analysis of variance (ANOVA). To assess the associations between the presence and location that DAI identified on imaging exams and the outcomes of functional capacity, independence for ADLs and IADLs, and",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_46",
+    "text": "the outcomes of functional capacity, independence for ADLs and IADLs, and QoL, the chi-square test and Fisher's exact test were used. Furthermore, the associations between the severity and location of DAI and the outcomes (functional capacity, independence for ADLs and IADLs, and QoL) were evaluated using a mixed-effects model.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_47",
+    "text": "A p -value of less than 0.05 was considered statistically significant, indicating a significant association between variables. All statistical analyses were performed using the R version 4.1.3 software program.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_48",
+    "text": "At admission, all patients (n = 95) were in a coma with a GCS score of 8 or less. The average GCS score was 4.7 (SD = 1.8), the pupillary GCS was 4.3 (SD = 2.0), and the average Richmond Agitation-Sedation Scale (RASS) score was -4.6 (SD = 0.7). The majority of patients were intubated (74.7%) and sedated (85.3%). Bilateral pupils' reactivity was present in 73 patients (76.8%), while 16 patients (16.8%) had both pupils non-reactive.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_49",
+    "text": "The evaluation of trauma severity showed an average ISS of 34.1 (SD = 11.2), NISS of 43.5 (SD = 14.6), and head AIS of 4.6 (SD = 0.5). The mean probabilities for a 14-day mortality and 6-month unfavorable outcome according to the CRASH CT were 36.96% (SD = 18.7%) and 71.7% (SD = 16.8%), respectively. Table 1 presents the findings of the CT scans, where it was observed that the majority of patients had a normal CT (26.3%). Approximately half of the participants presented early signs of TBI, such",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_50",
+    "text": "Approximately half of the participants presented early signs of TBI, such as subarachnoid hemorrhage (SAH) (48.4%) and gladding contusion (45.3%).",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_51",
+    "text": "Table 1. Injury identification and clinical characteristics of DAI patients (n = 95) during hospitalization and follow-up imaging exams.\nCT: computerized tomography; DAI: diffuse axonal injury.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_52",
+    "text": "CT: computerized tomography; DAI: diffuse axonal injury.\nThe average sedation time was 4.3 days (SD = 5.6 days), and the average duration of coma was 12.7 days (SD = 41.1 days). Mild TBI was observed in 45.3% of patients, moderate TBI in 27.4%, and severe TBI in 27.4%. Almost all cases were admitted to the ICU (91.6%) and had continuous sedation (93.7%). The average length of stay in the ICU was 16.8 days (SD = 40.9 days), and the average hospital stay was 19.8 days (SD = 22.46).",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_53",
+    "text": "The frequency of patients categorized in different categories of the GOS, DRS, Katz Index, and Lawton scales is presented in Table 2. At the twelve-month follow-up after DAI, 74 (77.9%) patients had survived while 21 (22.1%) patients had died. Over time, there was a decrease in the frequency of individuals unable to recover, accompanied by an increase in those categorized as being in good recovery. The non-parametric Friedman test revealed a significant difference in the categorizations of the",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_54",
+    "text": "test revealed a significant difference in the categorizations of the GOS, Katz Index, and DRS between the evaluation moments-discharge, 3, 6, and 12 months-with a p -value of less than 0.001.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_55",
+    "text": "Table 2. Comparison of scores of GOS, DRS, Katz Index scales between discharge, three, six, and twelve months and Lawton between three, six, and twelve months after DAI (n = 74 surviving patients).\nGOS: Glasgow Outcome Scale; DRS: Disability Rating Scale; DAI: diffuse axonal injury; SD-standard deviation.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_56",
+    "text": "Patients with DAI (n = 74) demonstrated functional improvement during the initial six months following the injury (Figure 2). During the follow-up, it was observed that, at three and six months, 34 out of the 74 surviving patients underwent some form of treatment with rehabilitation specialists (other medical specialty, physiotherapists, occupational therapists, speech therapists). However, by twelve months, this number decreased to 26 out of the 74 surviving patients. It is important to",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_57",
+    "text": "decreased to 26 out of the 74 surviving patients. It is important to highlight that only one patient remained hospitalized for six days during rehabilitation. , x FOR PEER REVIEW 7  of  15",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_58",
+    "text": "Figure 2. Strati fi cation for Glasgow Outcome Scale and Disability Rating Scale at discharge, three months, six months, and twelve months after di ff use axonal injury (n = 74 surviving patients). Figure 2. Stratification for Glasgow Outcome Scale and Disability Rating Scale at discharge, three months, six months, and twelve months after diffuse axonal injury (n = 74 surviving patients).\n3.2. Quality of Life (QoL) 3.2. Quality of Life (QoL)",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_59",
+    "text": "In the descriptive analysis of the eight domains of (QoL) assessed by the SF-36, it was observed that the social and mental health domains had the highest QoL scores over time, while the physical and emotional limitation domains had the lowest QoL scores (Table 3). In the descriptive analysis of the eight domains of (QoL) assessed by the SF-36, it was observed that the social and mental health domains had the highest QoL scores over time, while the physical and emotional limitation domains had",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_60",
+    "text": "scores over time, while the physical and emotional limitation domains had the lowest QoL scores (Table 3).",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_61",
+    "text": "Table 3. Comparison of SF-36 domain scores between three, six, and twelve months after DAI. Table 3. Comparison of SF-36 domain scores between three, six, and twelve months after DAI.\nSD: standard deviation; SF-36: Short Form-36; DAI: diffuse axonal injury.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_62",
+    "text": "The analysis of functional recovery and injury location showed that patients with injuries in the brain hemispheres (75.9% at all time points), corpus callosum (60.0% at three months; 80.0% at six and twelve months), and brain stem (42.8% at three and six months; 71.4% at twelve months) scored above 70.0% for favorable outcomes (good or moderate recovery) at twelve months, with a more pronounced improvement in favorable outcomes in individuals with injuries located in the brain stem. By 12",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_63",
+    "text": "outcomes in individuals with injuries located in the brain stem. By 12 months after DAI, 13.8% of patients with injuries located in the brain hemispheres and 28.6% with injuries in the brain stem died. No patients with injuries in the corpus callosum died during the evaluation period. Figures 3 and 4 show evidence of the interaction effect of the GOS, DRS, Katz, and Lawton over time in DAI patients ( p < 0.05).",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_64",
+    "text": "Figure 3 shows evidence of the main effect for cerebral hemispheres ( p = 0.036), brain lesions ( p = 0.015), and DAI severity ( p < 0.001) with GOS. However, no interaction was observed between functionality evaluated by GOS over time (three, six, and twelve months) and injury location or severity. The mixed effects model analysis showed significant differences between cerebral hemispheres ( p = 0.028), brainstem lesions ( p = 0.014), Adams classification (0.049), and DAI severity ( p < 0.001)",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_65",
+    "text": "( p = 0.014), Adams classification (0.049), and DAI severity ( p < 0.001) with DRS. Additionally, there was an interaction between functionality evaluated by DRS over time and cerebral hemispheres ( p = 0.026) and Adams classification ( p = 0.013). The worst scores on DRS were observed in Adams classification II and III; however, it was observed that patients with classification II had a pronounced improvement over time, achieving a more pronounced functional improvement than patients with",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_66",
+    "text": "achieving a more pronounced functional improvement than patients with Adams classification I.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_67",
+    "text": "< 0.001) with DRS. Additionally, there was an interaction between functionality evaluated by DRS over time and cerebral hemi-\n=  0.026) and Adams classi observed in Adams classi\n= 0.013). The worst scores on DRS were cation II and III; however, it was observed that patients with\n8 of 14 cation II had a pronounced improvement over time, achieving a more pronounced fi\nfunctional improvement than patients with Adams classi fi",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_68",
+    "text": "Figure 3. Evolution of the average functional recovery assessed by GOS and DRS in DAI patients (n = 74) at three, six, and twelve months after trauma. GOS: Glasgow Outcome Scale; DRS: Disability Rating Scale; DAI: di ff use axonal injury. Figure 3. Evolution of the average functional recovery assessed by GOS and DRS in DAI patients (n = 74) at three, six, and twelve months after trauma. GOS: Glasgow Outcome Scale; DRS: Disability Rating Scale; DAI: diffuse axonal injury. , x FOR PEER REVIEW 9",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_69",
+    "text": "Rating Scale; DAI: diffuse axonal injury. , x FOR PEER REVIEW 9  of  15",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_70",
+    "text": "Figure 4. Evolution of independence to perform ADLs and IADL assessed by Ka tz and Lawton in DAI patients (n = 74) at three, six, and twelve months after trauma. ADLs: activities of daily living; IADL: instrumental activities of daily living; DAI: di ff use axonal injury. Figure 4. Evolution of independence to perform ADLs and IADL assessed by Katz and Lawton in DAI patients (n = 74) at three, six, and twelve months after trauma. ADLs: activities of daily living; IADL: instrumental activities",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_71",
+    "text": "trauma. ADLs: activities of daily living; IADL: instrumental activities of daily living; DAI: diffuse axonal injury.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_72",
+    "text": "3.4. Imaging and Quality of Life Mixed e ff ects model analysis showed that there were signi fi cant di ff erences ( p < 0.05) between role limitations (emotional) and brain lesions ( p =  0.025),  energy/vitality  with brain hemisphere lesions ( p = 0.037), and the physical functioning and obliteration of basal cisterns ( p =  0.029).  Figure  5 showed evidence of interaction e ff ects over time with the General health perceptions ( p = 0.018) and energy/vitality ( p =  0.024) domains when an",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_73",
+    "text": "perceptions ( p = 0.018) and energy/vitality ( p =  0.024) domains when an intraventricular hemorrhage was present. This means that patients with an intraventricular hemorrhage experienced a worsening perception of their health, energy levels, and vitality after six months of DAI, with a slight improvement in perception in the following months. Additionally,  the  social  functioning  domain  showed  interaction  e ff ects  over  the twelve months with the obliteration of basal cisterns ( p =",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_74",
+    "text": "over  the twelve months with the obliteration of basal cisterns ( p = 0.046) and Adams classi fi cation Figure 4 shows a correlation between Katz and brain lesions ( p = 0.001), the obliteration of the third ventricle or basal cisterns ( p = 0.016), an intraventricular hemorrhage ( p = 0.029), and the severity of DAI ( p < 0.001). Over time, we can observe evidence of an effect and interaction between Katz and HSA ( p = 0.043) and an intraventricular hemorrhage ( p = 0.012). Although we",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_75",
+    "text": "( p = 0.043) and an intraventricular hemorrhage ( p = 0.012). Although we observe the worst Katz scores at three months, patients with an intraventricular hemorrhage showed a significant improvement over time, not reaching the same level of independence as patients without this injury. There is evidence of interaction effects from brain lesions ( p = 0.002), the obliteration of the third ventricle or basal cisterns ( p = 0.008), an intraventricular hemorrhage ( p = 0.001), Marshall",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_76",
+    "text": "( p = 0.008), an intraventricular hemorrhage ( p = 0.001), Marshall Classification ( p = 0.012), and the severity of DAI ( p < 0.001) with IADL. However, the mixed effects model did not show evidence of an interaction effect between Lawton and the location or severity of the injury over time (three, six, and twelve months).",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_77",
+    "text": "( p = 0.020), as assessed by the SF-36. Therefore, DAI patients experienced a reduction in 3.4. Imaging and Quality of Life",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_78",
+    "text": "patient integration in social activities after the fi rst six months of trauma, while patients with Adams classi fi cation II and III showed improvement in this interaction over time. The other domains did not show interactions over time with the location and severity of DAI. Mixed effects model analysis showed that there were significant differences ( p < 0.05) between role limitations (emotional) and brain lesions ( p = 0.025), energy/vitality with brain hemisphere lesions ( p = 0.037), and",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_79",
+    "text": "= 0.025), energy/vitality with brain hemisphere lesions ( p = 0.037), and the physical functioning and obliteration of basal cisterns ( p = 0.029). Figure 5 showed evidence of interaction effects over time with the",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_80",
+    "text": "General health perceptions ( p = 0.018) and energy/vitality ( p = 0.024) domains when an intraventricular hemorrhage was present. This means that patients with an intraventricular hemorrhage experienced a worsening perception of their health, energy levels, and vitality after six months of DAI, with a slight improvement in perception in the following months.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_81",
+    "text": "Figure 5. Evolution of quality of life assessed by SF-36 in DAI patients at three, six, and twelve months after trauma. SF-36: Short Form-36; DAI: diffuse axonal injury.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_82",
+    "text": "Additionally, the social functioning domain showed interaction effects over the twelve months with the obliteration of basal cisterns ( p =0.046) and Adams classification ( p = 0.020), as assessed by the SF-36. Therefore, DAI patients experienced a reduction in patient integration in social activities after the first six months of trauma, while patients with Adams classification II and III showed improvement in this interaction over time. The other domains did not show interactions over time",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_83",
+    "text": "over time. The other domains did not show interactions over time with the location and severity of DAI.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_84",
+    "text": "This study evaluated functional recovery, QoL, and independence in performing ADL and IADL in patients with DAI within one year after trauma. Similar to previous studies [24-26], our findings showed that patients demonstrated a good evolution in functional recovery and independence over time. Henninger et al. [27] showed that patients with predominantly hemorrhagic DAI had a significant improvement between three (52%) and twelve months (75%) after injury. A systematic review showed that 52% of",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_85",
+    "text": "twelve months (75%) after injury. A systematic review showed that 52% of patients with DAI had a favorable outcome after a mean follow-up of nine months [25]. Moreover, patients with DAI had an odds ratio (OR) of 2.9 (95% CI 1.4-6.0) for an unfavorable outcome when compared with TBI patients without DAI [25]. In our study, at twelve months after DAI, 61.1% of patients had complete recovery according to the GOS, and 50.5% had mild disability or no disability.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_86",
+    "text": "After DAI, changes in functional capacity may compromise individuals' ability to perform basic ADL, such as bathing, eating, and dressing, or IADL, which involve more complex tasks than ADL. A previous study conducted with 110 patients with consciousness disorders after moderate and severe TBI showed independence in carrying out self-care activities during the first five years after the injury [28]. A study conducted with 131 adults after severe TBI with focal lesions showed an improvement in",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_87",
+    "text": "131 adults after severe TBI with focal lesions showed an improvement in independence to perform ADL and IADL over time, where approximately 79% of patients had independence in performing ADL at twelve months, while more than half, 54%, were independent in performing more complex activities such as managing finances, using the telephone, shopping, food preparation, and housekeeping [29]. In our study, at twelve months after DAI, 46.3% of patients had the maximum score on the Lawton Scale,",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_88",
+    "text": "after DAI, 46.3% of patients had the maximum score on the Lawton Scale, indicating complete independence in performing IADL.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_89",
+    "text": "It is known that these functional limitations and difficulties in ADL can affect the QoL of patients after trauma, especially in severely affected patients. A study demonstrated a strong correlation between QoL and functionality, indicating that patients with high QoL scores, with a better perception of their quality of life, showed more favorable results in terms of functionality [25]. Our findings showed that all patients reported an improvement in QoL after DAI in most domains, except for",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_90",
+    "text": "reported an improvement in QoL after DAI in most domains, except for the general health domain, which showed a decline from six to twelve months after the injury. Furthermore, the role limitations (emotional and physical) domains had the lowest scores throughout the evaluation period in our study, while the social functioning and mental health domains had the highest QoL values. Van Eijck et al. [30] showed that out of 185 patients diagnosed with DAI in the Netherlands, where 86 were evaluated",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_91",
+    "text": "patients diagnosed with DAI in the Netherlands, where 86 were evaluated for QoL, 62% reported a good quality of life (scores between 60 and 100%) after a median time of 54 months (range 14-100 months) assessed by the Quality of Life After Brain Injury (QOLIBRI) scale [30]. In contrast to our findings, these authors showed that the emotional (median of 80%, range 15-100%), physical problems (median of 75%, range 10-100%), daily life/autonomy (median of 71.4%, range 3.6-100%), and social",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_92",
+    "text": "daily life/autonomy (median of 71.4%, range 3.6-100%), and social relationships (median of 70.8%, range 12.5-100%) domains had higher QoL scores.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_93",
+    "text": "Diagnosing DAI on imaging is a common challenge in many healthcare services. CT scans can show signs of SAH and an intraparenchymal hemorrhage [10,24-26]. Although studies show that MRI can detect intraparenchymal lesions up to three times more accurately, its feasibility in the acute phase of trauma is hindered by the high cost, long execution time, and physiological instability of patients with severe TBI who require continuous monitoring. Moreover, these studies only include DAI survivors,",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_94",
+    "text": "continuous monitoring. Moreover, these studies only include DAI survivors, which limits its",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_95",
+    "text": "application for outcome prediction in clinical practice [10,24-26]. In a systematic review, Vieira et al. [24] showed that the most frequent lesions on CT scans in patients with DAI were SAH, intraventricular hemorrhage, blood in cisterns, and hemorrhagic DAI. The presence of intraventricular hemorrhage in the initial CT scan can also be a marker for severe DAI, but only when the CT scan identifies midline SAH [24]. Consistent with previous publications, our study shows that the most frequent",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_96",
+    "text": "with previous publications, our study shows that the most frequent lesions on imaging studies were SAH (48.4%), contusion (45.3%), intraventricular hemorrhage (23.2%), and lesions located in the cerebral hemispheres (30.5%).",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_97",
+    "text": "Studies often use lesion location and imaging tests to predict the severity of DAI in patients. In our study, we observed an interaction between Adams classification over time and functionality assessed by the DRS. Interestingly, a narrative review published in 2021 found that Adams 'Grade III' classification does not have a proven association with outcomes after traumatic DAI [31]. It is important to note that in the acute phase of severe TBI, patients may not be in a clinical condition to",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_98",
+    "text": "acute phase of severe TBI, patients may not be in a clinical condition to undergo MRI, and CT is the preferred imaging modality for identifying the lesion in the acute phase of trauma. Additionally, in low- and middle-income countries, access to MRI exams is not readily available, especially after hospital discharge where it can take years to obtain access. It is known that the Gentry classification is frequently used in MRI reports, which is an adaptation of the Adams classification [32].",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_99",
+    "text": "in MRI reports, which is an adaptation of the Adams classification [32]. Although Gentry classification does not reflect the severity of the injury, its application in patients with DAI is important for lesion localization and its association with the outcome [31,33]. Van Eijck, in a systematic review and meta-analysis published in 2018, identified that the most common lesions observed on MRI in patients with DAI are in the corpus callosum, brainstem, and thalamus, with only lesions in the",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_100",
+    "text": "in the corpus callosum, brainstem, and thalamus, with only lesions in the corpus callosum consistently reported to be related to outcome [25].",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_101",
+    "text": "Our findings showed an interaction over time between an intraventricular hemorrhage and ADL. Mata-Mbemba et al. [10]. conducted a study with 140 TBI patients in Japan, showing that an intraventricular hemorrhage was an independently associated predictor of DAI (OR 4.2, 95% CI = 1.3-14.3), with a positive correlation with Gentry III classification. However, these authors did not demonstrate the relationship between the presence of an intraventricular hemorrhage and independence in performing ADL",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_102",
+    "text": "of an intraventricular hemorrhage and independence in performing ADL [10]. In addition to functionality and independence for ADL, our study also evaluated the interaction of the eight QoL domains at three, six, and twelve months with the severity, type, and location of injury. In this context, an interaction was observed between the general health perceptions and energy/vitality domains with an intraventricular hemorrhage, and the social functioning domain with the obliteration of basal",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_103",
+    "text": "and the social functioning domain with the obliteration of basal cisterns and Gentry's classification.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_104",
+    "text": "In contrast to our findings, Eijck et al. [30] showed that Marshall's classification, Gentry's classification, and the return of consciousness after seven days were not independent factors associated with quality of life in DAI patients, as assessed by the QOLIBRI questionnaire. In the same study, the authors demonstrated that patients with an unfavorable outcome on the GOS also scored low on the QOLIBRI, indicating a poor quality of life. Patients with DAI 3 had a median QOLIBRI score of 58.7",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_105",
+    "text": "quality of life. Patients with DAI 3 had a median QOLIBRI score of 58.7 (range 16-99), which was lower than patients with DAI 1 (median 69.4; range 23.6-100) and DAI 2 (median 71; range 34.7-94) [30]. Despite studies highlighting the importance of identifying the pattern of functional recovery and quality of life after severe TBI, few studies have evaluated the relationship between quality of life, independence in performing ADLs and IADLs, severity, and the location of the lesion after DAI and",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_106",
+    "text": "ADLs and IADLs, severity, and the location of the lesion after DAI and severe TBI.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_107",
+    "text": "It is important to identify the functional recovery pattern, including independence for ADLs and quality of life, after DAI, as this evaluation is often overlooked in these patients. Our study is the first to examine the interaction of these outcomes over time in a longitudinal manner. Furthermore, the use of CT findings and the duration of the coma as possible indications of DAI is extremely relevant for predicting outcomes and implementing clinical practices in real-life settings, where",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_108",
+    "text": "outcomes and implementing clinical practices in real-life settings, where access to MRI exams is limited and usually delayed for survivors. Thus, our findings indicate that the application of CT in the acute phase of DAI is an important resource to be implemented in clinical practice to",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_109",
+    "text": "predict the outcomes and consequences of DAI patients in low- to middle-income countries, where the majority of TBI patients do not have the opportunity to undergo MRI.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_110",
+    "text": "There are some limitations that need to be highlighted. Only a portion of our cohort underwent an MRI during the twelve-month follow-up (30%), but in all of them had findings compatible with DAI. As most of the exams were performed after hospital discharge, the inability to schedule them due to high internal demand made it impossible to perform these exams in all patients. Additionally, the absence of hospital records on the patient's clinical condition at the scene of the trauma and during",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_111",
+    "text": "on the patient's clinical condition at the scene of the trauma and during transport limits the identification of factors in the prehospital phase associated with the outcomes of DAI, especially the GCS before intubation. The high adherence of patients to follow-up consultations up to twelve months was reinforced by daily contact with patients and their families during hospitalization, as well as frequent calls to schedule consultations, which helped to maintain trust between patients and the",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_112",
+    "text": "consultations, which helped to maintain trust between patients and the team during the follow-up period.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_113",
+    "text": "Our study provides valuable insights into the functional recovery, ADL, IADL, and QoL of patients with DAI. Our findings suggest that the severity and location of DAI are important predictors of long-term outcomes. Specifically, we observed an improvement in functional recovery, ADL, IADL, and QoL within the first six months after injury, but a decrease in the General health perceptions domain of the SF-36 from six to twelve months. Additionally, the role limitations (emotional and physical)",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_114",
+    "text": "twelve months. Additionally, the role limitations (emotional and physical) domains had the lowest scores throughout the evaluation period in our study, while the social functioning and mental health domains had the highest QoL values.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_115",
+    "text": "Importantly, we identified the interactions over time between different levels of severity and the mean Katz and GOS scores. The independence to perform ADL showed interaction over time with an intraventricular hemorrhage, while functionality showed an interaction with Adams classification. Furthermore, in the evaluation of the eight QoL domains by the SF-36, we found an interaction between the general health perceptions and energy/vitality domains with an intraventricular hemorrhage, and the",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_116",
+    "text": "and energy/vitality domains with an intraventricular hemorrhage, and the social functioning domain with the obliteration of basal cisterns and Gentry's classification.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_117",
+    "text": "Our study highlights the importance of early diagnosis and targeted interventions to improve the functional recovery and QoL of patients with DAI. It also emphasizes the utility of CT in the acute phase of DAI for predicting outcomes, particularly in low- to middle-income countries where access to MRI exams is limited. The findings underscore the need for long-term follow-up and multidisciplinary care to optimize the recovery and well-being of patients with DAI. Further research is warranted to",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_118",
+    "text": "and well-being of patients with DAI. Further research is warranted to better understand the mechanisms underlying the association between DAI characteristics and outcomes, and to develop more effective interventions for improving the long-term outcomes of patients with DAI.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_119",
+    "text": "Supplementary Materials: The following supporting information can be downloaded at: https://www.mdpi.com/article/10.3390/biomedicines12020311/s1, Figure S1: Data collection timeline.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_120",
+    "text": "Author Contributions: The study concept and design were performed by R.d.C.A.V., W.S.P., D.V.d.O. and R.M.C.d.S. Data were acquired, analyzed, and interpreted by R.d.C.A.V., L.Z.P., W.S.P., D.V.d.O. and R.M.C.d.S. The article was drafted by all authors. Supervision was provided by R.d.C.A.V. and R.M.C.d.S. All authors reviewed the final version, which was approved by R.d.C.A.V., L.Z.P., W.S.P., D.V.d.O. and R.M.C.d.S. All authors have read and agreed to the published version of the manuscript.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_121",
+    "text": "Funding: This study was financed in part by the Coordenaç ã o de Aperfeiçoamento de Pessoal de N í vel Superior-Brasil (CAPES)-Finance Code 001, National Council for Scientific and Technological Development (CNPq), and grant #2013/21804-0 S ã o Paulo Research Foundation (FAPESP).",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_122",
+    "text": "Institutional Review Board Statement: The study was conducted in accordance with the Declaration of Helsinki and approved by the Institutional Review Board of Hospital das Clinicas da Faculdade de Medicina da Universidade de S ã o Paulo, under number 1.645.348, CAEE 51614015.6.3001.0068. Date: 21 July 2016.\nGennarelli, T.A. Cerebral Concussion and Diffuse Brain Injuries. In Head Injury ; Cooper, P.R., Ed.; Williams & Wilkins: Baltimore, MD, USA, 1987; pp. 108-124.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_123",
+    "text": "de C á ssia Almeida, V.R.; Paiva, W.S.; De Oliveira, D.V.; Teixeira, M.J.; De Andrade, A.F.; De Sousa, R.M.C. Diffuse Axonal Injury: Epidemiology, Outcome and Associated Risk Factors. Front. Neurol. 2016 , 7 , 178. [CrossRef]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_124",
+    "text": "Scholten, A.C.; Haagsma, J.A.; Andriessen, T.M.J.C.; Vos, P.E.; Steyerberg, E.W.; Van Beeck, E.F.; Polinder, S. Health-Related Quality of Life after Mild, Moderate and Severe Traumatic Brain Injury: Patterns and Predictors of Suboptimal Functioning during the First Year after Injury. Injury 2015 , 46 , 616-624. [CrossRef] [PubMed]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_125",
+    "text": "Liew, B.S.; Johari, S.A.; Nasser, A.W.; Abdullah, J. Severe Traumatic Brain Injury: Outcome in Patients with Diffuse Axonal Injury Managed Conservatively in Hospital Sultanah Aminah, Johor Bahru-An Observational Study. Med. J. Malays. 2009 , 64 , 280-288.\nBennet, L.; Van Den Heuij, L.; M Dean, J.; Drury, P.; Wassink, G.; Jan Gunn, A. Neural Plasticity and the Kennard Principle: Does It Work for the Preterm Brain? Clin. Exp. Pharmacol. Physiol. 2013 , 40 , 774-784. [CrossRef] [PubMed]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_126",
+    "text": "Chelly, H.; Chaari, A.; Daoud, E.; Dammak, H.; Medhioub, F.; Mnif, J.; Ben Hamida, C.; Bahloul, M.; Bouaziz, M. Diffuse Axonal Injury in Patients with Head Injuries: An Epidemiologic and Prognosis Study of 124 Cases. J. Trauma Inj. Infect. Crit. Care 2011 , 71 , 838-846. [CrossRef] [PubMed]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_127",
+    "text": "Moen, K.G.; Skandsen, T.; Folvik, M.; Brezova, V.; Kvistad, K.A.; Rydland, J.; Manley, G.T.; Vik, A. A Longitudinal MRI Study of Traumatic Axonal Injury in Patients with Moderate and Severe Traumatic Brain Injury. J. Neurol. Neurosurg. Psychiatry 2012 , 83 , 1193-1200. [CrossRef] [PubMed]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_128",
+    "text": "Yanagawa, Y.; Sakamoto, T.; Takasu, A.; Okada, Y. Relationship between Maximum Intracranial Pressure and Traumatic Lesions Detected by T2*-Weighted Imaging in Diffuse Axonal Injury. J. Trauma Inj. Infect. Crit. Care 2009 , 66 , 162-165. [CrossRef]\nMatsukawa, H.; Shinoda, M.; Fujii, M.; Takahashi, O.; Yamamoto, D.; Murakata, A.; Ishikawa, R. Genu of Corpus Callosum as a Prognostic Factor in Diffuse Axonal Injury: Clinical Article. J. Neurosurg. 2011 , 115 , 1019-1024. [CrossRef]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_129",
+    "text": "Mata-Mbemba, D.; Mugikura, S.; Nakagawa, A.; Murata, T.; Kato, Y.; Tatewaki, Y.; Li, L.; Takase, K.; Ishii, K.; Kushimoto, S.; et al. Intraventricular Hemorrhage on Initial Computed Tomography as Marker of Diffuse Axonal Injury after Traumatic Brain Injury. J. Neurotrauma 2015 , 32 , 359-365. [CrossRef]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_130",
+    "text": "Adams, J.H.; Doyle, D.; Ford, I.; Gennarelli, T.A.; Graham, D.I.; Mclellan, D.R. Diffuse Axonal Injury in Head Injury: Definition, Diagnosis and Grading. Histopathology 1989 , 15 , 49-59. [CrossRef]\nKim, M.; Ahn, J.S.; Park, W.; Hong, S.K.; Jeon, S.R.; Roh, S.W.; Lee, S. Diffuse Axonal Injury (DAI) in Moderate to Severe Head Injured Patients: Pure DAI vs. Non-Pure DAI. Clin. Neurol. Neurosurg. 2018 , 171 , 116-123. [CrossRef] [PubMed]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_131",
+    "text": "Mujica, B.M.; Gonz á lez, T.G.; Larra í n, G.C.; Miller, T.P.; Castoldi, L.F. Resonancia Magnetica Cerebral En Daño Axonal Difuso. Rev. Chil. Radiol. 2003 , 9 , 182-186. [CrossRef]\nGennarelli, T.A.; Wodzin, E. AIS 2005: A Contemporary Injury Scale. Injury 2006 , 37 , 1083-1091. [CrossRef] [PubMed]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_132",
+    "text": "Baker, S.P.; O'Neill, B.; Haddon, W.; Long, W.B. The Injury Severity Score: A Method for Describing Patients with Multiple Injuries and Evaluating Emergency Care. J. Trauma 1974 , 14 , 187-196. [CrossRef] [PubMed]\nde Souza, N.L.; de Alencar Domingues, C.; de Ara ú jo Campos, M.; de Sousa, R.M.C. Ten Years of New Injury Severity Score (NISS): Is It a Possible Change? Rev. Lat. Am. Enfermagem. 2008 , 16 , 314-319.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_133",
+    "text": "de Sousa, R.M.C. Comparaç ã o Entre Instrumento de Mensuraç ã o Das Consequ ê ncias Do Trauma Cranioencef á lico. Rev. Esc. Enferm. USP 2006 , 40 , 203-213. [CrossRef]\nRappaport, M.; Hall, K.M.; Hopkins, K.; Belleza, T.; Cope, D.N. Disability Rating Scale for Severe Head Trauma: Coma to Community. Arch. Phys. Med. Rehabil. 1982 , 63 , 118-123.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_134",
+    "text": "Malec, J.F.; Hammond, F.M.; Giacino, J.T.; Whyte, J.; Wright, J. Structured Interview to Improve the Reliability and Psychometric Integrity of the Disability Rating Scale. Arch. Phys. Med. Rehabil. 2012 , 93 , 1603-1608. [CrossRef]\nKatz, S.; Ford, A.B.; Moskowitz, R.W.; Jackson, B.A.; Jaffe, M.W. Studies of Illness in the Aged: The Index of ADL: A Standardized Measure of Biological and Psychosocial Function. JAMA J. Am. Med. Assoc. 1963 , 185 , 914-919. [CrossRef]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_135",
+    "text": "Graf, C. The Lawton Instrumental Activities of Daily Living Scale. Am. J. Nurs. 2008 , 108 , 52-62. [CrossRef]\nCiconelli, R.M.; Ferraz, M.B.; Santos, W.; Meinao, I.M.; Quaresma, M.R. Brazilian-Portuguese Version of the SF-36 Questionnaire: AReliable and Valid Quality of Life Outcome Measure. Rev. Bras. Reumatol. 1999 , 39 , 143-150.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_136",
+    "text": "Marshall, L.F.; Marshall, S.B.; Klauber, M.R.; van Berkum Clark, M.; Eisenberg, H.M.; Jane, J.A.; Luerssen, T.G.; Marmarou, A.; Foulkes, M.A. A New Classification of Head Injury Based on Computerized Tomography. J. Neurosurg. 1991 , 75 , S14-S20. [CrossRef]\nFigueira Rodrigues Vieira, G.; Guedes Correa, J.F. Early Computed Tomography for Acute Post-Traumatic Diffuse Axonal Injury: ASystematic Review. Neuroradiology 2020 , 62 , 653-660. [CrossRef] [PubMed]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_137",
+    "text": "Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.\nData Availability Statement: All the data are contained in the manuscript.\nConflicts of Interest: The authors declare no conflicts of interest.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_138",
+    "text": "Conflicts of Interest: The authors declare no conflicts of interest.\nvan Eijck, M.M.; Schoonman, G.G.; van der Naalt, J.; de Vries, J.; Roks, G. Diffuse Axonal Injury after Traumatic Brain Injury Is a Prognostic Factor for Functional Outcome: A Systematic Review and Meta-Analysis. Brain Inj. 2018 , 32 , 395-402. [CrossRef] [PubMed]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_139",
+    "text": "Mata-Mbemba, D.; Mugikura, S.; Nakagawa, A.; Murata, T.; Ishii, K.; Kushimoto, S.; Tominaga, T.; Takahashi, S.; Takase, K. Traumatic Midline Subarachnoid Hemorrhage on Initial Computed Tomography as a Marker of Severe Diffuse Axonal Injury. J. Neurosurg. 2018 , 129 , 1317-1324. [CrossRef] [PubMed]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_140",
+    "text": "Henninger, N.; Compton, R.A.; Khan, M.W.; Carandang, R.; Hall, W.; Muehlschlegel, S. 'Don't Lose Hope Early': Hemorrhagic Diffuse Axonal Injury on Head Computed Tomography Is Not Associated with Poor Outcome in Moderate to Severe Traumatic Brain Injury Patients. J. Trauma Acute Care Surg. 2018 , 84 , 473-482. [CrossRef] [PubMed]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_141",
+    "text": "Hammond, F.M.; Giacino, J.T.; Nakase Richardson, R.; Sherer, M.; Zafonte, R.D.; Whyte, J.; Arciniegas, D.B.; Tang, X. Disorders of Consciousness Due to Traumatic Brain Injury: Functional Status Ten Years Post-Injury. J. Neurotrauma 2019 , 36 , 1136-1146. [CrossRef]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_142",
+    "text": "de Oliveira, D.V.; Vieira, R.d.C.A.; Pipek, L.Z.; de Sousa, R.M.C.; de Souza, C.P.E.; Santana-Santos, E.; Paiva, W.S. Long-Term Outcomes in Severe Traumatic Brain Injury and Associated Factors: A Prospective Cohort Study. J. Clin. Med. 2022 , 11 , 6466. [CrossRef]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_143",
+    "text": "Van Eijck, M.; Van Der Naalt, J.; De Jongh, M.; Schoonman, G.; Oldenbeuving, A.; Peluso, J.; De Vries, J.; Roks, G. Patients with Diffuse Axonal Injury Can Recover to a Favorable Long-Term Functional and Quality of Life Outcome. J. Neurotrauma 2018 , 35 , 2357-2364. [CrossRef]\nBruggeman, G.F.; Haitsma, I.K.; Dirven, C.M.F.; Volovici, V. Traumatic Axonal Injury (TAI): Definitions, Pathophysiology and Imaging-A Narrative Review. Acta Neurochir. 2021 , 163 , 31-44. [CrossRef]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_144",
+    "text": "Gentry, L.R. Imaging of Closed Head Injury. Radiology 1994 , 191 , 1-17. [CrossRef] [PubMed]\nMoe, H.K.; Vik, A.; Flusund, A.-M.H.; Stenberg, J.; Skandsen, T.; Moen, K.G. Letter to the Editor: Grading of Traumatic Axonal Injury on Clinical MRI and Functional Outcome. Acta Neurochir. 2021 , 163 , 1443-1444. [CrossRef] [PubMed]",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  },
+  {
+    "chunk_id": "biomedicines-12-00311_145",
+    "text": "Disclaimer/Publisher's Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.",
+    "metadata": {
+      "source": "biomedicines-12-00311.pdf"
+    }
+  }
+]

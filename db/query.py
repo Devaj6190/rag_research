@@ -4,7 +4,7 @@ from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 
 # Use same collection/folder as ingest
 COLLECTION_NAME = "paper_chunks_local"
-PERSIST_DIR = r"C:\Users\tanma\Documents\chromadb_local"
+PERSIST_DIR = r"C:\Users\test6\Documents\chromadb_local"
 
 embedding_function = HuggingFaceEmbeddings(
     model_name="sentence-transformers/all-MiniLM-L6-v2"

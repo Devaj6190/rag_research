@@ -1,0 +1,1892 @@
+[
+  {
+    "chunk_id": "nihms122840_0",
+    "text": "Expert Opin Emerg Drugs . Author manuscript; available in PMC 2010 March 1.\n. 2009 March ; 14(1): 67-84. doi:10.1517/14728210902769601.\nYe Xiong, MD, PhD , Asim Mahmood, MD , and Michael Chopp, PhD\nBackgroundThis review summarizes promising approaches for the treatment of traumatic brain injury (TBI), which are either in preclinical or clinical trials.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_1",
+    "text": "ObjectiveThe pathophysiology underlying neurological deficits after TBI is described. An overview of select therapies for TBI with neuroprotective and neurorestorative effects is presented.\nMethodsA literature review of pre-clinical TBI studies and clinical TBI trials related to neuroprotective and neurorestorative therapeutic approaches is provided.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_2",
+    "text": "Results/conclusionNearly all phase II/III clinical trials in neuroprotection have failed to show any consistent improvement in outcome for TBI patients. The next decade will witness an increasing number of clinical trials which seek to translate preclinical research discoveries to the clinic. Promising drug- or cell-based therapeutic approaches include erythropoietin and its carbamylated form, statins, bone marrow stromal cells, stem cells singularly or in combination or with biomaterials to",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_3",
+    "text": "cells, stem cells singularly or in combination or with biomaterials to reduce brain injury via neuroprotection and promote brain remodeling via angiogenesis, neurogenesis, and synaptogenesis with a final goal to improve functional outcome of TBI patients. In addition, enriched environment and voluntary physical exercise show promise in promoting functional outcome after TBI, and should be evaluated alone or in combination with other treatments as therapeutic approaches for TBI.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_4",
+    "text": "clinical trials; neurogenesis; neuroprotection; neurorestoration; pharmacological; traumatic brain injury",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_5",
+    "text": "Traumatic brain injury (TBI) is the leading cause of death and disability in the most active population (<45 years of age). An estimated 1.4 million people sustain TBI each year in the United States alone, and more than 5 million people are coping with disabilities from TBI and costs $56 billion a year [1] A review of European epidemiological data estimated a TBI incidence (hospitalized and fatal) of 235 per 100,000 per year and a case fatality rate of 11 per 100 with 775,500 new cases",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_6",
+    "text": "per year and a case fatality rate of 11 per 100 with 775,500 new cases occurring each year [2]. In addition, TBI is an epigenetic risk factor for Alzheimer's and Parkinson's diseases [3]. Thus, TBI is a significant health concern and an enormous socioeconomic burden.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_7",
+    "text": "The most prevalent and debilitating features in survivors of brain trauma are cognitive deficits and motor dysfunctions. The most common cognitive impairment among severe TBI patients is memory loss, characterized by some loss of specific memories and the partial inability to form or store new ones. Natural recovery after TBI is greatest within the first 6 months after",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_8",
+    "text": "the injury and is more gradual after that, but outcome varies with different types of brain injury [4,5]. To date, there is no effective treatment to promote functional recovery except for routine medical intervention and care [4,6-8]. Thus, the development of improved treatment modalities would be of enormous clinical and economic benefit.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_9",
+    "text": "TBI results from direct impact to the head or from acceleration-deceleration injury. TBI results in functional deficits due to both primary and secondary mechanisms. Primary injury is the result of immediate mechanical damage that occurs at the time of injury. TBI is also associated with secondary injury that evolves over a period of hours to days to even months after the primary insult, and is the result of biochemical and physiological events which ultimately lead to neuronal cell death. In",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_10",
+    "text": "and physiological events which ultimately lead to neuronal cell death. In the past decades, several biochemical derangements responsible for secondary injury have been demonstrated, including perturbation of cellular calcium homeostasis [9,10], increased free radical generation and lipid peroxidation [11-13], mitochondrial dysfunction [10,14,15], inflammation, apoptosis, and diffuse axonal injury [16]. The period of evolution of secondary injury provides a window of opportunity for therapeutic",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_11",
+    "text": "of secondary injury provides a window of opportunity for therapeutic intervention with the potential to prevent and/or reduce secondary damage and to improve long-term patient outcome. To date, however, promising preclinical results have not been translated into successful clinical trials. There is now strong indication that the pathophysiological heterogeneity of TBI patients, lack of sufficient pharmacokinetic analysis for determination of optimal dose and therapeutic window of the target",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_12",
+    "text": "for determination of optimal dose and therapeutic window of the target compounds have led the clinical trials to fail [17].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_13",
+    "text": "As the primary injury, which represents the direct mechanical damage, cannot be mended, therapeutic targets focus on the secondary damage. The multidimensional cascade of secondary brain injury can result in dramatically impaired sensorimotor and cognitive deficits as well as offer multiple therapeutic options [16]. Since the first Guidelines for Management of TBI were published in 1995, there have been several studies clearly demonstrating that management of TBI in accordance with the",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_14",
+    "text": "clearly demonstrating that management of TBI in accordance with the Guidelines can achieve substantially better outcomes such as improved functional outcome scores and reduced mortality rate, length of hospital stay, and costs [18]. Although many multi-center clinical trials, aimed to determine the clinical value of a range of approaches to the treatment of TBI patients, have been conducted since 1985, most involved pharmacologic agents; none have demonstrated a convincing benefit in the",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_15",
+    "text": "pharmacologic agents; none have demonstrated a convincing benefit in the overall TBI population [6]. Therefore, it is warranted to identify and design novel approaches capable of improving motor, sensory and cognitive outcome in order to enhance the quality of life of the TBI patients.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_16",
+    "text": "Many preclinical studies have tested therapeutic efficacy of drugs in animal TBI models by targeting secondary injury mechanisms including calcium channel blockers, corticosteroids, excitatory amino acid inhibitors, N-methyl D-aspartate (NMDA) receptor antagonist, free radical scavengers, magnesium sulfate, and growth factors [6]. Several phase-II clinical trials have shown favorable effects including polyethylene glycol-conjugated superoxide dismutase (PEG-SOD), moderate hypothermia,",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_17",
+    "text": "glycol-conjugated superoxide dismutase (PEG-SOD), moderate hypothermia, nimodopine, and triamcinolone [6]. Unfortunately, all the compounds or approaches that have been tested thus far in phase-III trials have failed to clearly show efficacy [19]. The efficacy of existing neuroprotective treatments for TBI remains uncertain. For example, mannitol is sometimes effective in reducing brain swelling after TBI. However, its effectiveness in the ongoing treatment of severe TBI remains unclear. There",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_18",
+    "text": "in the ongoing treatment of severe TBI remains unclear. There is evidence that excessive administration of mannitol may be harmful, for mannitol passes from the bloodstream into the brain, increases pressure within the skull, and worsens brain swelling",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_19",
+    "text": "[20]. A small benefit arises when mannitol treatment is directed by measurement of intracranial pressure (ICP) compared to standard treatment. There is insufficient data on the effectiveness of pre-hospital administration of mannitol [20]. Updated meta-analysis supports previous findings that hypothermic therapy constitutes a beneficial treatment of TBI in specific circumstances. Until more evidence from well-conducted trials becomes available, clinicians should continue to exercise caution",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_20",
+    "text": "trials becomes available, clinicians should continue to exercise caution when considering administering hypothermia for treatment of TBI [21]. High ICP is still the most frequent cause of death and disability after severe TBI. Elevated ICP is usually defined as an ICP above 15 to 20 mm Hg when measured within any intracranial space (the subdural, intraventricular, extradural, or intraparenchymal compartments). Mortality and morbidity after severe TBI have been strongly related to raised ICP",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_21",
+    "text": "and morbidity after severe TBI have been strongly related to raised ICP [22]. The cause of high ICP is an increase in brain volume at the expense of one or more intracranial components. Mass lesions and an increase in brain water content (edema) and cerebral blood volume contribute to raised ICP in TBI [23]. However, there is no evidence to support the routine use of decompressive craniotomy (DC) to improve mortality and quality of life in TBI adults with high ICP[23]. The results of",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_22",
+    "text": "and quality of life in TBI adults with high ICP[23]. The results of non-randomized trials and controlled trials with historical controls involving adults, suggest that DC may be a useful option when maximal medical treatment has failed to control ICP. There is one ongoing randomized controlled trial of DC (DECRA) with severe TBI that may allow further conclusions on the efficacy of this procedure in adults [24].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_23",
+    "text": "Recent reviews have identified several therapeutic classes showing promise for the treatment of TBI [25]. These includes erythropoietin (EPO), carbamylated form of EPO (CEPO), statins, bone marrow stromal cells (MSC), methylphenidate, progesterone, dexanabinol, and rivastigmine [25]. So far, the preclinical and clinical trials have exclusively focused on neuroprotective strategies with the goal to prevent and/or reduce brain damage induced by secondary injury. However, recent preclinical",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_24",
+    "text": "brain damage induced by secondary injury. However, recent preclinical studies have revealed that TBI induces neurogenesis in the subgranular zone (SGZ) of the dentate gyrus (DG) in rat and mouse and treatments that enhance neurogenesis promote cognitive function after TBI [26,27]. Newly generated neurons in the SGZ are capable of projecting axons to the CA3 region in normal [28] and injured adult rats [29]. Previous studies show that treatment of TBI with EPO [30], S100B [31], MSC [32] or other",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_25",
+    "text": "show that treatment of TBI with EPO [30], S100B [31], MSC [32] or other manipulations such as environmental enrichment (EE) [33] enhance neurogenesis along with functional improvement. In addition to neurogenesis, the brain remodeling after TBI includes angiogenesis, axonal sprouting and synaptogenesis [34, 35]. All the TBI clinical trials so far are related to neuroprotective strategies. The approaches that enhance brain remodeling may represent another promising strategy (neurorestoration) to",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_26",
+    "text": "remodeling may represent another promising strategy (neurorestoration) to improve the neurological function [34]. We will present some of these promising strategies in this review.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_27",
+    "text": "Publicly disclosed information regarding new compounds, and new approaches of already marketed compounds, undergoing clinical trials in human TBI were searched on Pharmaprojects, Pub Med, and ClinicalTrials.gov in November 2008. At the time of writing, these searches yielded some compounds of interest (Table 1).",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_28",
+    "text": "Calcium channel blockers (calcium antagonists) have been used in an attempt to prevent cerebral vasospasm after injury, maintain blood flow to the brain, and thereby to prevent further damage [36]. The first report on nimodipine treatment in patients with severe TBI dates from",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_29",
+    "text": "1984 [37]. The first randomized controlled trials investigating the effect of nimodipine in head injury, the Head Injury Trials (HIT) 1 and 2, were published in the early 1990s [38,39]. Recently, 6 randomized controlled trials involving 1862 participants were reviewed [40]. This review of randomized controlled trials of calcium channel blockers in acute TBI patients shows that considerable uncertainty remains over their effects. Nimodipine administered to a subgroup of brain injury patients",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_30",
+    "text": "effects. Nimodipine administered to a subgroup of brain injury patients with subarachnoid hemorrhage shows a beneficial effect although there was an increase in adverse reactions (suffered by the intervention group which may mean that the drug is harmful for some patients) [40]. However, a recent systematic review including 1074 patients with traumatic subarachnoid hemorrhage [41] did not confirm the beneficial effects of nimodipine shown in a previous review [40] that included 460 patients",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_31",
+    "text": "of nimodipine shown in a previous review [40] that included 460 patients with this condition. The recent review [41] presents data from all head-injury trials, including previously unpublished results from head injury trial 4 (HIT 4). The occurrence of poor outcome was similar in patients treated with nimodipine (39%) and those treated with placebo (40%). Mortality rates did not differ between nimodipine (26%) and placebo (27%) treated patients. These results do not lend support to the finding",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_32",
+    "text": "(27%) treated patients. These results do not lend support to the finding of a beneficial effect of nimodipine on outcome in patients with traumatic subarachnoid hemorrhage, as reported in an earlier review by Langham et al [40]. Intracellular calcium overload following TBI has been implicated in the pathogenesis of neuronal injury and death [42,43]. SNX-111, also known as ziconotide, is an N-type calcium channel blocker [44]. An important finding in studies of stroke mechanisms was that this",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_33",
+    "text": "[44]. An important finding in studies of stroke mechanisms was that this drug was effective if given 24 hr after transient forebrain ischemia [45]. Posttraumatic administration of SNX-111 (15 min to 6 hr) was effective in improving mitochondrial function after TBI in rats [44]. This long 'window of opportunity' was one of the attractive features of the drug. One hundred sixty patients were enrolled in a clinical trial before the trial was terminated. The mortality for the SNX arm was almost 25%",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_34",
+    "text": "the trial was terminated. The mortality for the SNX arm was almost 25% because the drug caused hypotension, and for the placebo arm it was 15%. More recently, direct injection of SNX-185, another specific N-type Voltage-gated calcium channel blocker, into the CA2-3 region of the hippocampus reduced neuronal injury 24 hr after TBI and increased neuronal survival at 42 days. Behavioral outcome in both the beam walk and Morris water maze was also improved by SNX-185 [43]. Although the results of",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_35",
+    "text": "water maze was also improved by SNX-185 [43]. Although the results of this direct cerebral injection in rodents subjected to TBI is promising without evidence of side effects found after systemic administration, application to TBI patients is problematic.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_36",
+    "text": "After TBI, the brain may swell which can cause a fatal elevation of ICP. Corticosteroids have been used to treat head injuries for more than 3 decades because they are thought to reduce ICP [46]. Some examples of corticosteroids are dexamethasone and methylprednisolone [47]. Edwards et al randomly allocated 10,008 adults with TBI and a Glasgow Coma Scale score of 14 or less, within 8 hr of injury, to a 48-hr infusion of corticosteroid (methylprednisolone) or placebo [48]. Data at 6 months were",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_37",
+    "text": "corticosteroid (methylprednisolone) or placebo [48]. Data at 6 months were obtained for 9673 (96.7%) patients. The risk of death was higher in the corticosteroid group than in the placebo group (25.7% vs 22.3%), as was the risk of death or severe disability (38.1% vs 36.3%). There was no evidence that the effect of corticosteroids differed by injury severity or time since injury. These results support the conclusion that corticosteroids should not be used routinely in the treatment of TBI [48].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_38",
+    "text": "corticosteroids should not be used routinely in the treatment of TBI [48]. Twenty trials with 12,303 randomized participants were identified in a recent report [47]. The effect of corticosteroids on the risk of death was reported in 17 included trials. The largest trial, with about 80% of all randomized participants, found a significant increase in the risk ratio of death with steroids and an increased risk of death or severe disability. The increase in mortality with steroids in this trial",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_39",
+    "text": "severe disability. The increase in mortality with steroids in this trial suggests that steroids should no longer be routinely used in people with TBI [47].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_40",
+    "text": "Mannitol is sometimes effective in reversing acute brain swelling [49], but its effectiveness in the ongoing management of severe TBI remains unclear. Four eligible randomized controlled trials were identified [20]. One trial compared ICP-directed therapy to standard care. One trial compared mannitol to pentobarbital. One trial compared mannitol to hypertonic saline. One trial tested the effectiveness of pre-hospital administration of mannitol against placebo. Mannitol therapy for raised ICP",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_41",
+    "text": "of mannitol against placebo. Mannitol therapy for raised ICP may reduce mortality when compared to pentobarbital treatment, but may have a detrimental effect on mortality when compared to hypertonic saline [20]. ICP-directed treatment shows a small beneficial effect compared to treatment directed by neurological signs and physiological indicators. There are insufficient data on the effectiveness of pre-hospital administration of mannitol to draw any conclusion [20]. Although mannitol proved to",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_42",
+    "text": "of mannitol to draw any conclusion [20]. Although mannitol proved to significantly decrease the neuroinflammatory response and calpain activity in rats after TBI, it did not affect apoptosis, and its effect was significantly less than that of hypertonic saline [50]. However, a large retrospective study of high-frequency ICP data quantitatively shows that the effect of mannitol on ICP is dose-dependent and that higher doses provide a more durable reduction in ICP [51]. In a study of 34 TBI",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_43",
+    "text": "doses provide a more durable reduction in ICP [51]. In a study of 34 TBI patients, acute infusion of a sodium lactate-based hyperosmolar solution was effective in treating intracranial hypertension following TBI. This therapeutic response is significantly more pronounced than that of an equivalent osmotic load of mannitol. Additionally, long-term outcome was better in terms of Glasgow Outcome Score (GOS) in those receiving sodium lactate-based hyperosmolar solutions than mannitol. Larger trials",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_44",
+    "text": "sodium lactate-based hyperosmolar solutions than mannitol. Larger trials are warranted to confirm these findings [52].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_45",
+    "text": "Magnesium is a potential therapeutic tool because of its activity on NMDA-receptors, calcium channels and neuron membranes [53]. Animal studies have indicated a beneficial effect of magnesium on outcome such as cognitive function and sensorimotor function after TBI [5457]. In addition, magnesium sulfate treatment was found to be the most effective choice due to the absence of side effects and comparable efficacy to corticosteroids [58]. But its efficacy in humans is still unknown. There is",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_46",
+    "text": "[58]. But its efficacy in humans is still unknown. There is currently no evidence to support the use of magnesium salts in patients with acute TBI [59]. In a double-blind trial, 499 patients aged 14 years or older were admitted to a level-1 regional trauma center between August, 1998, and October, 2004, with moderate or severe TBI and were randomly assigned one of two doses of magnesium or placebo within 8 hr of injury and continuing for 5 days. Continuous infusions of magnesium for 5 days",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_47",
+    "text": "and continuing for 5 days. Continuous infusions of magnesium for 5 days given to patients within 8 hr of moderate or severe TBI were not neuroprotective and might even have had a negative effect in the treatment of TBI [60].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_48",
+    "text": "The benefits of reducing body temperature to between 35 °C and 37.5 °C after TBI has been reviewed [61]. Physical cooling techniques include cooling blankets, use of ice, fans or other devices. Chemical cooling techniques include drugs used to reduce fever, like paracetamol (acetaminophen). This review did not identify any randomized controlled trials or controlled clinical trials. Based on present evidence, no recommendations can be made for the use of interventions that reduce body",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_49",
+    "text": "recommendations can be made for the use of interventions that reduce body temperature to between 35 °C and 37.5 °C after TBI because there is no satisfactory research that shows this therapy to be effective and safe [61].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_50",
+    "text": "When hypothermia (32 °C) was administered immediately or 1 hr after TBI, injured rats showed an improvement in functional outcome and a decrease in edema while delayed hypothermia treatment had no effect on functional outcome or on edema [62]. A recent review of patients treated with hypothermia finds that reductions in risk of mortality were greatest and favorable neurologic outcomes much more common when hypothermia was maintained for more than",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_51",
+    "text": "48 hr. However, this evidence comes with the suggestion that the potential benefits of hypothermia may likely be offset by a significant increase in risk of pneumonia [21]. This updated meta-analysis supports previous findings that hypothermic therapy constitutes a beneficial treatment of TBI in specific circumstances. Accordingly, the Brain Trauma Foundation/American Association of Neurological Surgeons guidelines task force has issued a Level III recommendation for optional and cautious use",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_52",
+    "text": "force has issued a Level III recommendation for optional and cautious use of hypothermia for adults with TBI [21]. There remains significant interest in the benefits of hypothermia after TBI and, in particular, traumatic axonal injury (TAI), which is believed to significantly contribute to morbidity and mortality of TBI patients [63]. Hypothermia (32 °C) initiated 1 hr after TBI partially preserves vascular function in rats [64]. However, there is no evidence that interventions aimed at",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_53",
+    "text": "in rats [64]. However, there is no evidence that interventions aimed at reducing body temperature to between 35 °C and 37.5 °C in the first week after TBI improves patient outcomes [61]. The basic mechanisms through which hypothermia protects the brain are clearly multifactorial and include at least the following: reduction in brain metabolic rate, effects on cerebral blood flow, reduction of the critical threshold for oxygen delivery, calcium antagonism, blockade of excitotoxic mechanisms,",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_54",
+    "text": "oxygen delivery, calcium antagonism, blockade of excitotoxic mechanisms, preservation of protein synthesis, reduction of brain thermopooling, modulation of the inflammatory response, a decrease in edema formation, neuroprotection of the white matter and modulation of apoptotic cell death [65]. By targeting many of the abnormal neurochemical cascades initiated after TBI, induced hypothermia may modulate neurotoxicity and, consequently, may play a unique role in opening up new therapeutic avenues",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_55",
+    "text": "consequently, may play a unique role in opening up new therapeutic avenues for treating severe TBI and reducing its devastating effects. Furthermore, greater understanding of the pathophysiology of TBI, new data from both basic and clinical research, the good clinical results obtained in randomized clinical trials in cardiac arrest and better and more reliable cooling methods have given hypothermia a second chance in the treatment of TBI patients. A critical evaluation of hypothermia is",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_56",
+    "text": "in the treatment of TBI patients. A critical evaluation of hypothermia is therefore mandatory to elucidate the reasons for previous failures. Further multi-center randomized clinical trials are warranted that would definitively confirm or refute the potential of this therapeutic modality in the management of severe TBI [65]. Several methods of conferring preferential neuroprotection via selective hypothermia currently are being tested in the experimental phases, including surface cooling,",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_57",
+    "text": "are being tested in the experimental phases, including surface cooling, intranasal selective hypothermia, transarterial or transvenous endovascular cooling, extraluminal vascular cooling, and epidural cerebral cooling [66].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_58",
+    "text": "Decompressive craniotomy (DC) is used to treat elevated ICP that is unresponsive to conventional treatment modalities [23]. In addition to infusion of hypertonic solutions, e.g., mannitol, and other medical measures, DC by surgical removal of a portion of the cranium (craniotomy) has been used for many decades as an intuitive strategy for the treatment of posttraumatic ICP increase. Controversial experimental data and lack of evidence-based clinical data, however, resulted in DC to be",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_59",
+    "text": "and lack of evidence-based clinical data, however, resulted in DC to be recommended by most national and international guidelines only as a third tier therapy for the treatment of pathologically elevated ICP [23]. In a trial with a pediatric population DC was associated with increased death and an unfavorable outcome (i.e., death, vegetative status, or severe disability 6 to 12 months after injury) [23]. However, in another study with a small pediatric population, DC reduced the refractory",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_60",
+    "text": "another study with a small pediatric population, DC reduced the refractory elevated ICP to less than 20 mm Hg [67]. To date, no results are available to confirm or refute the effectiveness of DC in adults. There is no evidence from randomized controlled trials that supports the routine use of secondary DC to reduce unfavorable outcomes in adults with severe TBI and refractory high ICP. The timing of DC may be of utmost importance in order to exploit the full neuroprotective potential of DC",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_61",
+    "text": "importance in order to exploit the full neuroprotective potential of DC following TBI [68]. Early DC prevents secondary brain damage and significantly reduces brain edema formation after experimental TBI [69]. There is one ongoing randomized controlled trial of early DC (DECRA-Phase III) that will allow further conclusions on the efficacy of this procedure in adults after severe TBI [24]. Ongoing clinical trials on the use of DC after TBI may clarify many aspects of the clinical application",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_62",
+    "text": "of this technique, however, some important pathophysiological issues, e.g. the timing of DC, its effect on brain edema formation, and its role for secondary brain damage, are still widely discussed and can only be addressed in experimental settings [23].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_63",
+    "text": "Reduced cerebral blood flow depletes energy stores and causes membrane depolarization. EAAs (mainly glutamate) are released into the synapse in supra-physiological concentrations and overstimulate mainly the NMDA receptor [70]. Ionic imbalance occurs with potassium ion efflux and sodium and calcium ion influx, leading to further depolarization which can overcome the magnesium ion blockade of the NMDA receptor [71]. Glutamate reuptake is diminished due to the ionic imbalance, and the",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_64",
+    "text": "[71]. Glutamate reuptake is diminished due to the ionic imbalance, and the concentration is further elevated. The increase in calcium ion leads to neuronal death, while the efflux of potassium ion leads to swelling in the brain [72]. Neuroprotective therapy is aimed at interrupting the excitotoxic cascade in brain tissues before neuronal toxicity is irreversible [70], leading to a reduction in severity of damage. The dopaminergic agonist amantadine has effects on both dopamine and NMDA channels",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_65",
+    "text": "agonist amantadine has effects on both dopamine and NMDA channels and has been the subject of considerable interest and clinical use in acute TBI [73]. There was a consistent trend toward a more rapid functional improvement regardless of when a patient with DAI-associated TBI was started on amantadine in the first 3 months after injury [74]. Amantadine enhances presynaptic dopamine release and inhibits dopamine reuptake, resulting in an increased amount of dopamine in the synaptic cleft.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_66",
+    "text": "resulting in an increased amount of dopamine in the synaptic cleft. Amantadine may also increase the density of postsynaptic dopamine receptors and alter the conformation of these receptors. Amantadine acts as an NMDA receptor antagonist, blocking glutamate, an NMDA channel activator. This effect may be responsible for possible beneficial effect of amantadine soon after TBI [74]. At doses of 200 400 mg/day, amantadine appears to safely improve arousal and cognition in patients with TBI.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_67",
+    "text": "appears to safely improve arousal and cognition in patients with TBI. Additional prospective controlled studies with homogeneous patient populations will better define the role of amantadine for early arousal [75]. Dexanabinol (HU 211, dexanabinone, sinnabidol, PA 50211, PRS 211007), a non-psychotropic cannabinoid NMDA receptor antagonist under development by Pharmos Corp, may prevent some of the bad effects of glutamate on the brain and may protect the brain against uncontrollable swelling and",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_68",
+    "text": "on the brain and may protect the brain against uncontrollable swelling and death. Severe TBI patients (861) admitted to 86 specialist centers from 15 countries were included in a multi-centre, placebo-controlled, phase III trial [76]. Patients were randomized to receive a single intravenous 150 mg dose of dexanabinol or placebo within 6 hr of injury. The primary outcome was the extended Glasgow outcome scale assessed at 6 months, with the point of dichotomization into unfavorable versus",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_69",
+    "text": "at 6 months, with the point of dichotomization into unfavorable versus favorable outcome differentiated by baseline prognostic risk. This clinical trial shows that dexanabinol is safe, but is not efficacious in the treatment of TBI [76].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_70",
+    "text": "The release of kinins is thought to be an important factor in the development of cerebral vasogenic edema and the detrimental role of beta 2 receptor (B2R) in the development of the inflammatory secondary injury and of the neurological deficits resulting from diffuse TBI [77]. Therefore, blockade of bradykinin B2R might represent a therapeutic approach in the pharmacological treatment of TBI. B2R antagonist, anatibant, administered as single subcutaneous injections of 3.75 mg and 22.5 mg, was",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_71",
+    "text": "administered as single subcutaneous injections of 3.75 mg and 22.5 mg, was well tolerated in severe TBI patients without clinical adverse events or biological abnormalities observed [78]. Three studies were included, involving 178 participants [78]. There is no reliable evidence that B2R antagonists are effective in reducing mortality or disability after TBI. Further well-conducted randomized controlled trials are required [79].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_72",
+    "text": "ICP is an important complication of severe TBI, and is associated with a high mortality rate. Barbiturates are believed to reduce ICP by suppressing cerebral metabolism, thus reducing cerebral metabolic demands and cerebral blood volume [80]. However, barbiturates also reduce blood pressure and may, therefore, adversely affect cerebral perfusion pressure [80]. One study found pentobarbital was less effective than mannitol for control of raised ICP. There is no evidence that barbiturate therapy",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_73",
+    "text": "for control of raised ICP. There is no evidence that barbiturate therapy in patients with acute severe TBI improves outcome. Barbiturate therapy results in a fall in blood pressure in 25% TBI patients. This hypotensive effect will offset any ICP-lowering effect on cerebral perfusion pressure [80]. Although barbiturate coma is the second tier measure recommended by guidelines to treat post-traumatic refractory ICP and systemic hypotension is its most important side effect, recent evidence",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_74",
+    "text": "systemic hypotension is its most important side effect, recent evidence suggests that low-dose corticosteroid therapy may be used in a subset of patients with TBI to avoid hypotension [81]. However, TBI patients treated with barbiturate coma are at higher risk of developing adrenal insufficiency [81]. Some TBI patients treated with barbiturates developed adrenal impairment and required higher doses of norepinephrine to maintain cerebral perfusion pressure than patients treated with barbiturates",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_75",
+    "text": "cerebral perfusion pressure than patients treated with barbiturates without adrenal impairment [81].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_76",
+    "text": "To date, most of the pharmacological trials for TBI and stroke have failed. One reason may be that many of these drugs targeted a single aspect of the injury cascade. Preclinical studies have indicated that administering relatively large doses of progesterone during the first few hours to days after injury significantly limits brain damage, reduces loss of neural tissue, and improves functional recovery [82]. Although the research published to date has focused primarily on progesterone's",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_77",
+    "text": "the research published to date has focused primarily on progesterone's effects on blunt traumatic brain injury, there is evidence that the hormone affords protection from several forms of acute central nervous system injury, including penetrating brain trauma, stroke, anoxic brain injury, and spinal cord injury. Progesterone appears to exert its protective effects by protecting or rebuilding the blood-brain barrier, decreasing development of cerebral edema, down-regulating the inflammatory",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_78",
+    "text": "decreasing development of cerebral edema, down-regulating the inflammatory cascade, and limiting cellular necrosis and apoptosis [83]. The single clinical trial investigating progesterone was performed on closed head blunt trauma with moderate to severe damage in 100 male and female patients [84]. Over 70% of the patients sustained severe TBI. These patients received emergency treatment plus progesterone or vehicle. The progesterone group received 3 days of post-injury continuous intravenous",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_79",
+    "text": "progesterone group received 3 days of post-injury continuous intravenous treatment. At 30 days post-injury, the severe TBI patients showed a statistically significant reduction in mortality compared to those receiving vehicle (i.e., 13.4% vs. 33.6%). Progesterone-treated moderate TBI patients had significantly better functional outcome (Disability Rating Scale) scores than the placebo group [84]. Recently, Xiao and colleagues performed an in-hospital, double-blind, randomized, controlled",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_80",
+    "text": "colleagues performed an in-hospital, double-blind, randomized, controlled clinical trial utilizing progesterone in the treatment of acute TBI patients evaluating safety and long-term clinical outcomes [85]. These data, combined with the results of the previously published ProTECT trial (phase II, randomized, double-blind, placebo-controlled trial) [84], show progesterone to be safe and potentially efficacious in the treatment of TBI. Larger phase-III trials will be necessary to verify results",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_81",
+    "text": "of TBI. Larger phase-III trials will be necessary to verify results prior to clinical implementation [86]. Progesterone treatment of blunt TBI is ongoing at Emory University [24]. In a recent preclinical trial, a continuous infusion of progesterone after TBI decreased edema and anxiety and increased activity, thus enhancing behavioral recovery [[87]. These results suggest that a continuous mode of pharmacological administration may prove to be more beneficial in translational and clinical",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_82",
+    "text": "may prove to be more beneficial in translational and clinical testing than bolus injections over the same period of time.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_83",
+    "text": "Methylphenidate is a dopamine agonist that blocks the dopamine transporter. Ten clinical trials (1966-June 2004) evaluating the safety and efficacy of methylphenidate in pediatric and adult patients with TBI are reviewed by Siddall [88]. Improvements in different aspects of cognition and behavior were evaluated before, during, and after methylphenidate treatment. The results demonstrated that methylphenidate is likely to improve memory, attention, concentration, and mental processing, but its",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_84",
+    "text": "improve memory, attention, concentration, and mental processing, but its effects on behavior have not been determined [88]. Animal models suggest that agents enhancing monoaminergic transmission, particularly amphetamines, promote motor recovery from focal brain injury and it is proposed that this might represent a complementary means of therapeutic intervention in the later post-injury phase [89]. However, there is, at present, insufficient evidence to support the routine use of mono-amino",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_85",
+    "text": "at present, insufficient evidence to support the routine use of mono-amino acids to promote recovery from TBI [89]. Larger, double-blind, placebo-controlled studies are needed to determine optimal doses, phase of recovery in which to begin treatment, length of treatment, and the long-term effects for patients with mild, moderate, and severe TBI [88].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_86",
+    "text": "Recombinant factor VIIa (rFVIIa, NovoSeven) is a hemostatic agent that has been shown to limit intracerebral hemorrhage (ICH) expansion in patients with spontaneous ICH (sICH) [90]. The similarities of hemorrhage progression in sICH and traumatic ICH (tICH) as well as the possibly related secondary injuries, provide an appropriate rationale for exploring the use of rFVIIa in TBI [91]. tICHs typically form early after TBI and tend to demonstrate maximum expansion in the first hours after injury.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_87",
+    "text": "and tend to demonstrate maximum expansion in the first hours after injury. Surgical evacuation of tICHs can be of uncertain benefit, especially if the hematoma is deep or in eloquent areas of the brain and, therefore, is usually undertaken for large lesions (>25 ml), most frequently only after secondary deterioration has occurred. Therefore, identifying methods to limit hemorrhagic progression in TBI is desirable. In the heterogeneous diseases like TBI, the use of clinical outcome scales alone",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_88",
+    "text": "heterogeneous diseases like TBI, the use of clinical outcome scales alone as the primary end point can make trials long, expensive, and impractical. The reduction of hematoma expansion as demonstrated by serial CT scans can serve as a useful indicator of pharmacological efficacy and as a surrogate for outcome. This dose-escalation study in patients with tICHs shows the potential for rFVIIa to limit hematoma expansion at doses of 80 μ g/kg or greater in a manner very similar to that seen in",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_89",
+    "text": "at doses of 80 μ g/kg or greater in a manner very similar to that seen in sICH. However, a possible increase in the rate of deep venous thrombosis (DVT) was observed in the rFVIIa group. In any future study to confirm the clinical benefit of rFVIIa in tICH, DVT risk should be carefully monitored [90]. In a recent report, rFVIIa rapidly and effectively reversed coagulopathy in patients with severe TBI [92]. rFVIIa decreased the time to intervention and decreased the use of blood products without",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_90",
+    "text": "the time to intervention and decreased the use of blood products without increasing the rate of thromboembolic complications [92].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_91",
+    "text": "Free radicals are highly reactive species generated predominantly during cellular respiration and normal metabolism [93]. Imbalance between cellular production and scavenging of free radicals is referred to as oxidative stress. Oxidative stress has been implicated as a potential contributor to the pathogenesis of acute central nervous system injury [93]. After brain injury, the overproduction of reactive oxygen species (ROS) and reactive nitrogen species (RNS) leads to tissue damage via several",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_92",
+    "text": "and reactive nitrogen species (RNS) leads to tissue damage via several different cellular molecular pathways. Radicals can cause damage to lipids, proteins, and nucleic acids (e.g., DNA), leading to subsequent cell death [94]. A few agents with antioxidant effects are neuroprotective in experimental TBI including corticosteroids [47,48]. However, their neuroprotective efficacy has not been successfully translated into the clinical setting [6]. Polyethylene glycol (PEG)-conjugated SOD (PEG-SOD",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_93",
+    "text": "clinical setting [6]. Polyethylene glycol (PEG)-conjugated SOD (PEG-SOD or pegorgotein) has been demonstrated to be the only agent showing efficacy in a Phase II trial of TBI patients receiving 10,000 U/kg of PEG-SOD [95]. In a larger multicenter Phase III trial with 463 patients randomized, 162 received placebo; 149 received PEG-SOD 10 000 U/kg;",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_94",
+    "text": "and 152 received PEG-SOD 20 000 U/kg [96]. Although, at 3 months, there was an absolute difference of 7.9% improvement, and at 6 months, a 6% improvement using the dichotomized GOS (good recovery or moderately disabled vs. severely disabled, vegetative or dead) [96] in this clinical trial with severe head injury, no statistically significant difference in neurologic outcome or mortality was observed between patients treated with PEG-SOD and those receiving placebo. It should be noted that in",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_95",
+    "text": "with PEG-SOD and those receiving placebo. It should be noted that in the Phase II and III trials PEG-SOD was administered approximately 4 or 8 hr after TBI [95,96]. This delayed treatment of TBI with a single dose of PEG-SOD may not provide timely antioxidant effects. After TBI, there is an immediate, posttraumatic burst in hydroxyl radical formation, followed by a progressive increase in lipid peroxidation in injured brain [97]. A recent study with lecithinized superoxide dismutase (PC-SOD)",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_96",
+    "text": "brain [97]. A recent study with lecithinized superoxide dismutase (PC-SOD) prevented CA3 neuronal loss 3 days after TBI, and increased the number of surviving CA3 neurons 7 days after TBI when administered 1 min and every 24 hr until 2 or 3 days post-TBI in rats [98]. Further investigations on efficacy of free radical scavengers such as PEG-SOD or PC-SOD for treatment of TBI are warranted in terms of therapeutic windows and dosing paradigms.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_97",
+    "text": "7. Promising neuroprotective and neurorestorative approaches",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_98",
+    "text": "EPO, a naturally occurring cytokine, is most widely recognized for its role in stimulating the maturation, differentiation and survival of hematopoietic progenitor cells [99,100]. While EPO and its receptor (EPOR) are only weakly expressed in normal adult brain, expression of EPO and the EPORs is greatly increased in neurons, neuronal progenitor cells, glia and cerebrovascular endothelial cells in response to many different types of cell injury [101,102]. Intraperitoneal administration of rhEPO",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_99",
+    "text": "types of cell injury [101,102]. Intraperitoneal administration of rhEPO crosses the blood brain barrier to protect against brain injury [103,104]. When EPO binds to its receptors, it causes dimerization of receptor, autophosphorylation of Janus-tyrosine-kinase-2 (JAK-2) and receptor activation. JAK-2 activation leads to phosphorylation of several downstream signaling pathways such as phosphatidylinositol 3-kinase (PI3K) [105]. PI3K then activates v-akt murine thymoma viral oncogene homolog",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_100",
+    "text": "[105]. PI3K then activates v-akt murine thymoma viral oncogene homolog (Akt) [106]. These pathways are crucial for the therapeutic efficacy of EPO, since specific inhibitors of the PI3K pathway largely abolish the EPO-increased neuronal survival in a model of hypoxia [106]. EPO activates PI3K/Akt and extracellular signalregulated kinase (ERK1/2) and promotes neural progenitor cell migration in cultured mouse brain endothelial cells [107].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_101",
+    "text": "A systemic injection of a single dose of rhEPO transiently increases adult hippocampal neurogenesis without long-term effects in normal mice [108]. However, rhEPO administration for 14 days significantly increases the number of BrdU-labeled cells in both the contralateral and ipsilateral DG after TBI and promotes restoration of spatial memory after TBI [26]. rhEPO administration significantly increases the percentage of newly generated cells that differentiate into mature neurons in the",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_102",
+    "text": "of newly generated cells that differentiate into mature neurons in the granular cell layer of both the contralateral and ipsilateral DG. A significant increase in BDNF expression and improvement in spatial learning are seen in animals treated with rhEPO or CEPO after TBI [109]. Interestingly, after treatment of TBI with rhEPO, male mice exhibit higher neurogenesis in the DG and cortex than the female mice [30]. At present, there are three ongoing clinical trials for treatment of TBI with EPO",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_103",
+    "text": "there are three ongoing clinical trials for treatment of TBI with EPO [23]: EPO effects after TBI (Medical College of Wisconsin, NCT00260052), Effects of EPO on cerebral vascular dysfunction and anemia in TBI (Baylor College of Medicine, NCT00313716), and safety of darbepoetin alfa treatment in patients with severe TBI (Royal Alexandra Hospital, University of Alberta, NCT00375869). CEPO devoid of hematopoietic bioactivity (i.e., does not increase hematocrit) has also been shown to improve",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_104",
+    "text": "(i.e., does not increase hematocrit) has also been shown to improve functional recovery after stroke and TBI [109,110]. A safety study using CEPO (Lu AA24493) to treat patients with acute ischemic stroke is ongoing (NCT00756249) [24].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_105",
+    "text": "More recently, it has been demonstrated that helix B (amino acid residues 58-82) of EPO and an 11-aa peptide composed of adjacent amino acids forming the aqueous face of helix B are both tissue protective, as confirmed by its therapeutic benefit in models of ischemic stroke and renal ischemia-reperfusion [111]. Further, this peptide simulating the aqueous surface of helix B also exhibits EPO's trophic effects by accelerating wound healing and augmenting cognitive function in rats [111]. As",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_106",
+    "text": "wound healing and augmenting cognitive function in rats [111]. As anticipated, neither helix B nor the 11-aa peptide is erythropoietic in vitro or in vivo. Thus, the tissue-protective activities of EPO are mimicked by small, nonerythropoietic peptides that simulate a portion of EPO's three-dimensional structure. These peptides have promise for treatment of brain injury because they do not have side effects of increased hematocrit by EPO.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_107",
+    "text": "Statins, potent inhibitors of cholesterol biosynthesis, also benefit brain injury. Many of the pleiotropic effects of statins are cholesterol independent, such as improvement of endothelial function, increased NO bioavailability, antioxidant properties, inhibition of inflammatory responses, immunomodulatory actions, upregulation of endothelial nitric oxide synthase (eNOS), decrease of platelet activation, regulation of angiogenesis, neurogenesis and synaptogenesis [112].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_108",
+    "text": "Atorvastatin administration after brain injury significantly reduces neurological functional deficits, increases neuronal survival and synaptogenesis in the boundary zone of the lesion and in the CA3 regions of the hippocampus, and induces angiogenesis in these regions in rats subjected to TBI [113].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_109",
+    "text": "Simvastatin treatment increases phosphorylation of Akt, glycogen synthase kinase-3 β (GSK-3 β ), and cAMP response element-binding proteins (CREB); elevates the expression of brain-derived neurotrophic factor (BDNF) and vascular endothelial growth factor (VEGF) in the DG; increases cell proliferation and differentiation in the DG; and enhances the recovery of spatial learning [114]. Pre-administration of lovastatin to rats subjected to TBI improves functional outcomes and reduces the extent of",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_110",
+    "text": "subjected to TBI improves functional outcomes and reduces the extent of brain damage, with a concomitant decrease in tissue levels of tumor necrosis factorα (TNFα ) and interleukin-1 β (IL-1 β ) mRNA and protein [115]. Protective mechanisms for lovastatin may be partly attributed to a dampening of the inflammatory response [108]. Treatment with atorvastatin or simvastatin (20mg/kg sc., daily once for 3 consecutive days starting at 30 min post injury) markedly reduces functional neurological",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_111",
+    "text": "starting at 30 min post injury) markedly reduces functional neurological deficits and degenerating hippocampal neurons, suppresses inflammatory cytokine mRNA expression in brain parenchyma after TBI in mice [116]. Furthermore, statin treatment improves cerebral hemodynamics in mice following TBI [116].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_112",
+    "text": "Amnesia is a common sequelae following TBI, for which there is no current treatment. Statins promote rapid recovery of spatial memory after TBI in animals [114,117]. A double-blind randomized clinical trial of 21 patients with TBI (16-50 years of age), with Glasgow Coma Scale scores of 9-13, and intracranial lesions as demonstrated by computed tomography scan has been performed [118]. Each patient received the same treatment and was randomly allocated to receive either rosuvastatin (20 mg/day",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_113",
+    "text": "and was randomly allocated to receive either rosuvastatin (20 mg/day orally) or placebo over a period of 10 days. No difference was detected in disability at 3 months. While statins may reduce amnesia time after TBI, possibly by immunomodulation, further trials are needed in order to confirm this positive association. Given the wide use of statins, their favorable safety profile in patients, the extensive preclinical data showing both neuroprotection and neurorestoration, and provocative",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_114",
+    "text": "data showing both neuroprotection and neurorestoration, and provocative positive clinical data in patients, further clinical studies are warranted to determine the neuroprotective and neurorestorative properties of statins after TBI.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_115",
+    "text": "When administered in combination with bone marrow stromal cells (MSCs), atorvastatin increases MSC access and/or survival within the injured brain and enhances functional",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_116",
+    "text": "recovery compared with monotherapy [119]. Statins induce neuroglial differentiation of human MSCs [120]. A combination therapy of MSCs and atorvastatin amplifies endogenous cellular proliferation [119]. These cholesterol-lowering agents might be used in conjunction with MSC transplantation in the future for treating neurological disorders and injuries.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_117",
+    "text": "NO activates soluble guanylyl cyclase, leading to the formation of cyclic GMP (cGMP). As a second messenger, cGMP is involved in diverse cellular processes, including regulation of cellular proliferation. Increases in cGMP levels enhance proliferation of endothelial cells and motor neurons [112]. Thus, increased cGMP production may facilitate neuroprotection and neurorestoration after TBI. cGMP levels in brain may be increased by cGMP production via increases in NO or inhibition of cGMP",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_118",
+    "text": "be increased by cGMP production via increases in NO or inhibition of cGMP hydrolysis using phosphodiesterase 5 inhibitors, e.g. Sildenafil [112].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_119",
+    "text": "In the CNS, NO is an important messenger involved in the modulation of sensory motor functions, control of cerebral blood flow and neuroprotection and neurotoxicity after cerebral synaptic formation and remodeling, brain development, synaptic plasticity, neuroendocrine secretion, sensory processing, and cerebral blood flow [121]. However, its role in neurogenesis has not been identified until recently. The inhibitory effect of nNOS-derived NO on DG and SVZ neurogenesis has been demonstrated; an",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_120",
+    "text": "of nNOS-derived NO on DG and SVZ neurogenesis has been demonstrated; an opposite effect has been found for eNOS- and iNOS-derived NO [122]. While the proliferative effect of NO on endogenous progenitor cells in adult brain could be mediated through an increase in the tissue levels of cGMP [123], the antiproliferative effect of NO depends on the inhibition of cyclin-dependent kinases and transcription factors by p53 and the Rb protein, respectively [124]. Atorvastatin upregulates the eNOS",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_121",
+    "text": "and the Rb protein, respectively [124]. Atorvastatin upregulates the eNOS isoform and thus increases cGMP [125]. NO donors increase cGMP levels via activation of soluble guanylyl cyclase [123]. Moreover, the effect of cGMP on neurogenesis could be related to the activation of cGMP-dependent protein kinase type I, which has been described to enhance sensory neuron precursor proliferation [126]. Clarification of the effects of different NOS isoforms on neuronal plasticity, survival rate and",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_122",
+    "text": "of different NOS isoforms on neuronal plasticity, survival rate and neurological functions after TBI is needed.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_123",
+    "text": "NO promotes angiogenesis, and neurogenesis, and increases neuroblast migration after brain injury such as stroke [112,122,125,127-129]. Our previous findings show that TBI increases proliferation of the progenitor cells in the hippocampus, SVZ, and cortex in both the ipsilateral and contralateral hemispheres [130]. TBI alters the migration pathway of SVZ progenitor cells from the rostral migratory stream (RMS) to the striatum and corpus callosum. Treatment with NO donor, DETA/NONOate, enhances",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_124",
+    "text": "and corpus callosum. Treatment with NO donor, DETA/NONOate, enhances these responses. DETA/NONOate increases progenitor cell migration, induces differentiation of the progenitor cells, and enhances the survival of the newly generated cells in the striatum, corpus callosum, and boundary zone of the lesion. DETA/ NONOate treatment improves the neurological outcome in rats subjected to TBI [130]. In addition, injection of DETA/NONOate enhances the TBI-induced cell proliferation in the SGZ, hilus,",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_125",
+    "text": "enhances the TBI-induced cell proliferation in the SGZ, hilus, and CA1 3 of the ipsilateral hippocampus after TBI. Use of DETA/NONOate also promotes survival of the newly generated cells in the hippocampus after TBI. Therefore, DETA/NONOate enhances progenitor cell proliferation and survival in the hippocampal formation after TBI in rats, which may contribute to neurological functional improvement. Sildenafil, a phosphodiesterase type-5 inhibitor, increases cGMP level [131]. A clinical trial of",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_126",
+    "text": "type-5 inhibitor, increases cGMP level [131]. A clinical trial of Sildenafil for treatment of subacute ischemic stroke is ongoing in Henry Ford Health System (NCT00452582) [24].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_127",
+    "text": "The S100B protein belongs to a multigenic family of low molecular weight calcium-binding S100 proteins [132]. S100B is primarily produced by glial cells [133]. S100B acts as a",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_128",
+    "text": "neurotrophic factor and a neuronal survival protein. In contrast, overproduction of S100B by activated glia can lead to exacerbation of neuroinflammation and neuronal dysfunction [134]. S100B is released after brain insults, and serum levels are positively correlated with the degree of injury and negatively correlated with outcome [135,136]. Serum and brain S100B levels are poorly correlated, with serum levels dependent primarily on the integrity of the blood-brain barrier, and not the level of",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_129",
+    "text": "on the integrity of the blood-brain barrier, and not the level of S100B in the brain. Cerebrospinal S100B may be useful as one of the outcome predictors in cases of severe TBI in adults [137], but is not a reliable prognostic index in pediatric TBI [138].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_130",
+    "text": "Interestingly, while higher serum levels of S100B seem to reflect the degree of blood brain barrier opening and severity of injury, a beneficial effect of intraventricular S100B administration on long-term functional recovery after TBI has been demonstrated [139]. S100B has been shown to improve memory function [31]. S100B profoundly increases hippocampal neurogenesis 5 weeks after TBI. Spatial learning ability, as assessed by the Morris water maze on day 30-34 post-injury, reveals an improved",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_131",
+    "text": "by the Morris water maze on day 30-34 post-injury, reveals an improved cognitive performance after S100B infusion. An intraventricular S100B infusion induces neurogenesis within the hippocampus, which can be associated with an enhanced cognitive function following experimental TBI [140]. So far, S-100B has not been used for clinical treatment of TBI. However, in a clinical trial entitled S-100B as Pre-Head CT Scan Screening Test After Mild TBI (NCT00717301) [24], S-100B will be used to",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_132",
+    "text": "Screening Test After Mild TBI (NCT00717301) [24], S-100B will be used to determine the ability of a serum to predict traumatic abnormalities on brain CT scan after mild TBI. The secondary objective is to determine the relationship between initial S-100B levels and cognitive outcome at one month. In a recent report with 102 adult patients with severe TBI admitted between June 2001 and November 2003, serum S-100B levels were measured on admission and every 24 hr thereafter for a maximum of 7",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_133",
+    "text": "were measured on admission and every 24 hr thereafter for a maximum of 7 days. Initial S-100B levels were significantly related to pupillary status, computed tomography severity 1, and 1month survival. Initial S-100B was an independent predictor of 1-month survival, in the presence of dilated pupils, and with increased age. Subjects with initial levels above 1 μ g/l had a nearly threefold increased probability of death within 1 month. Serum S-100B alteration indicated neurological improvement",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_134",
+    "text": "within 1 month. Serum S-100B alteration indicated neurological improvement or deterioration. Finally, surgical treatment reduced S-100B levels. Serum S-100B protein reflects injury severity and improves prediction of outcome after severe TBI. S-100B may also have a role in assessing the efficacy of treatment after severe TBI [141].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_135",
+    "text": "Neuronal tissue has limited capacity to repair after injury. Cellular therapies using neural stem/ progenitor cells are promising approaches for the treatment of brain injury. However, the clinical use of embryonic stem cells or fetal tissues is limited by ethical considerations and other scientific problems. Thus, MSCs could represent an alternative source of stem cells for cell replacement therapies. MSCs are mesoderm-derived cells, primarily resident in adult bone marrow. MSCs can give rise",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_136",
+    "text": "cells, primarily resident in adult bone marrow. MSCs can give rise to neuronal cells as well as many tissue-specific cell phenotypes [142,143].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_137",
+    "text": "MSCs spontaneously express certain neuronal phenotype markers in culture, in the absence of specialized induction reagents [144]. When cultured in neural stem cell (NSC) culture conditions, 8% of MSCs are able to generate neurospheres. These MSC-derived neurospheres express characteristic NSC antigens (nestin and musashi-1) and are capable of self-renewal and multi-lineage differentiation into neurons, astrocytes and oligodendrocytes. When these MSC-derived neurospheres are co-cultured with",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_138",
+    "text": "oligodendrocytes. When these MSC-derived neurospheres are co-cultured with primary astrocytes, they differentiate into neurons, forming dendrites, axonal processes and synapses as well as firing tetrodotoxinsensitive action potentials [145]. Nestin-positive MSCs can differentiate in vitro into excitable neuron-like cells. MSC-derived neuron-like cells exhibit several electrophysiological key properties classically devoted to neurons, including firing of action potentials [146].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_139",
+    "text": "When grafted into the lateral ventricles of neonatal mouse brain, MSCs migrate extensively and differentiate into olfactory bulb (OB) granule cells and periventricular astrocytes [144]. Intra-arterially infused rat MSCs can migrate into injured rat brain and survive [147]. Most of these cells are distributed in the boundary zone of the lesion and the corpus callosum of the ipsilateral hemisphere. Some implanted cells express the markers for neurons and astrocytes. MSC treatment significantly",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_140",
+    "text": "the markers for neurons and astrocytes. MSC treatment significantly improves neurological functional recovery after TBI [147-149].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_141",
+    "text": "When MSCs are administered 24 hours after TBI, functional outcome is significantly improved after treatment [32,150-153]. This benefit is probably not attributable to the very few MSCs that differentiate into brain cells [147]. Instead, it seems to be that MSCs secrete various growth factors [34,154-156] that promote functional outcome after injury, thus amplifying their endogenous brain levels. MSCs also induce intrinsic parenchymal cells to produce these growth factors [155]. Recent data",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_142",
+    "text": "parenchymal cells to produce these growth factors [155]. Recent data indicate that growth factors such as fibroblast growth factor-2 (FGF-2), VEGF, and BDNF and promote neurogenesis [156-158]. The improvement in functional outcome observed after MSC treatment of TBI involves more than one mechanism. MSCs produce and induce within parenchymal cells many cytokines and trophic factors that enhance angiogenesis and vascular stabilization in the lesion boundary zone, where the majority of MSCs that",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_143",
+    "text": "stabilization in the lesion boundary zone, where the majority of MSCs that survive in the brain are located. In addition, MSCs induce other proteins within injured brain, such as bone morphogenetic proteins BMP2 and BMP4 or connexin 43 expression in astrocytes [159]. In concert with enhancing angiogenesis, neurogenesis, and synaptogenesis, MSCs significantly decrease glial scar formation and promote glial-axonal remodeling [160]. MSCs influence several neural restorative functions such as",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_144",
+    "text": "[160]. MSCs influence several neural restorative functions such as synaptogenesis [34], angiogenesis [34,153], and neurogenesis [112]. Thus, MSCs act in a pleiotropic way to stimulate brain remodeling. MSCs alone do not reduce the lesion volume after TBI. Our recent study shows that collagen scaffolds populated with MSCs improve spatial learning and sensorimotor function, reduce the lesion volume, and foster the migration of MSCs into the lesion boundary zone after TBI in rats compared to MSCs",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_145",
+    "text": "of MSCs into the lesion boundary zone after TBI in rats compared to MSCs without scaffolds [161].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_146",
+    "text": "The safety and feasibility of autologous MSC treatment of TBI patients have been assessed a single center [162]. TBI patients received autologous cell transplantation of MSCs isolated by bone marrow aspiration and expanded in culture. A primary administration of MSCs was applied directly to the injured area during the cranial operation with a second iv dose of MSCs. There was no immediate or delayed toxicity related to the cell administration within the 6month follow-up period. Neurologic",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_147",
+    "text": "to the cell administration within the 6month follow-up period. Neurologic function was significantly improved at 6 months after MSC therapy [162].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_148",
+    "text": "Activation of the innate immune response, including the complement system, plays an important role in the pathogenesis of TBI [163]. Research strategies to prevent the neuroinflammatory pathological sequelae of TBI have largely failed in clinical trials [6], exemplified by the recent failure of the 'CRASH' trial (Corticosteroid randomization after significant head injury) [164]. These data imply that the 'pan'-inhibition of the immune response by the use of glucocorticoids may represent an",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_149",
+    "text": "of the immune response by the use of glucocorticoids may represent an approach that is too broad and unspecific for controlling neuroinflammation after TBI. Complement can be activated either through the classical, lectin, or alternative pathways [165]. Thus, research efforts are currently focusing on more specific therapeutic modalities, such as the inhibition of the complement cascade [166]. For instance, by the use of a recombinant Crry molecule (termed Crry-Ig), a potent murine complement",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_150",
+    "text": "a recombinant Crry molecule (termed Crry-Ig), a potent murine complement inhibitor at the level of C3 convertases, the systemic injection of 1 mg Crry-Ig at 1 and 24 hr after TBI resulted in a significant neurological improvement for up to 7 days [167]. A monoclonal anti-factor B antibody, a specific and potent inhibitor of the alternative complement pathway, led to a substantial attenuation of cerebral tissue damage and neuronal cell death when administered at 1 and 24 hr after TBI [165].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_151",
+    "text": "and neuronal cell death when administered at 1 and 24 hr after TBI [165]. Pharmacological",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_152",
+    "text": "complement inhibition represents a promising approach for attenuation of neuroinflammation and secondary neurodegeneration after TBI. Although activation of the complement system is known to promote tissue injury, recent evidence has also indicated that this process can have neuroprotective effects [168,169]. Further studies on the therapeutic effects of inhibition of the complement system should be pursued with caution.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_153",
+    "text": "7.7.1 Environmental enrichment (EE)New neurons are generated in two areas of the adult brain, the SVZ and the SGZ, throughout life and integrate into the normal functional circuitry. This process is not fixed, but can be highly manipulated, revealing a plastic mechanism by which the performance of brain can be optimized for a given environment [170]. Adult hippocampal neurogenesis in mice living in an enriched environment (EE) is higher than in controls [171]. EE doubles the amount of new",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_154",
+    "text": "(EE) is higher than in controls [171]. EE doubles the amount of new hippocampal granule cells. Relatively, the increase in neuronal phenotypes is entirely at the expense of newly generated astrocytes [172]. EE (particularly during the earlier period) improves performance on the Morris water maze and tends to increase immunoreactivity to CREB in the hippocampus [173]. Late application of EE is also sufficient for a continuous restoration of neurological functions after TBI [174].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_155",
+    "text": "EE and voluntary exercise (VE) have consistently been shown to increase adult hippocampal neurogenesis and improve spatial learning ability. Evidence exists that EE and VE affect different phases of the neurogenic process in distinct ways. EE increases the likelihood of survival of new cells, whereas VE increases the level of proliferation of progenitor cells [175]. BDNF is required for the enhancement of hippocampal neurogenesis following EE [176]. Increasing hippocampal VEGF increases",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_156",
+    "text": "neurogenesis following EE [176]. Increasing hippocampal VEGF increases neurogenesis associated with improved cognition in adult rats. Inhibition of VEGF expression by RNA interference completely blocks the environmental induction of neurogenesis [177]. EE leads to improved long-term recognition memory and increases hippocampal neurogenesis. Elimination of dividing cells with methylazoxymethanol acetate treatment during EE completely prevents both the increase in neurogenesis and",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_157",
+    "text": "during EE completely prevents both the increase in neurogenesis and enrichment-induced long-term memory improvement [178]. Relatively low doses of irradiation can acutely abolish precursor cell proliferation in the DG by more than 90% [179]. This reduction in precursor proliferation is persistent and led to a significant decline in the granule cell population 9 months later. EE housing enhances the number of newborn neurons and increases residual neurogenesis. EE also significantly increases",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_158",
+    "text": "and increases residual neurogenesis. EE also significantly increases the total number of immature neurons in the DG. These irradiated animals after EE housing show a significant improvement in spatial learning and memory during the water-maze test and in rotarod motor. These results support that adult-generated neurons participate in modulating memory function.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_159",
+    "text": "Among EE, physical exercise and training, training/learning is generally more effective on structural and functional assessments of recovery than physical exercise, and EE is a more potent therapy than either of these two other treatments [180], the combination of enriched experience with other neurosurgical and/or pharmacological treatments may further improve its therapeutic effectiveness.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_160",
+    "text": "The beneficial effects of EE on behavioral recovery following fluid percussion injury may be related to increased neurogenesis in the granular cell layer [32]. EE-mediated functional improvement after TBI is contingent on task-specific neurobehavioral experience [181]. EE is a very effective treatment which improves motor function and spatial learning after TBI [182]. Interestingly, intervention with EE after experimental TBI enhances cognitive recovery in male but not female rats [183].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_161",
+    "text": "7.7.2 ExercisePhysical activity also causes a robust increase in neurogenesis in the DG of the hippocampus, a brain area important for learning and memory. The positive correlation",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_162",
+    "text": "between running and neurogenesis has generated the hypothesis that the new hippocampal neurons may contribute to, in part, improved learning associated with exercise [184]. Exercise increases synaptic plasticity by directly affecting synaptic structure and potentiating synaptic strength, and by strengthening the underlying systems that support plasticity including neurogenesis, metabolism and vascular function [185].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_163",
+    "text": "Exercise can increase levels of BDNF, stimulate neurogenesis, increase resistance to brain insult and improve learning and mental performance. In addition to increasing levels of BDNF, exercise mobilizes gene expression profiles that would be predicted to benefit brain plasticity processes [186]. Thus, exercise could provide a simple and effective means to maintain brain function and promote brain plasticity. Running doubles the number of surviving newborn cells in amounts similar to EE [187].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_164",
+    "text": "the number of surviving newborn cells in amounts similar to EE [187]. Lack of exercise via hindlimb suspension reduces neurogenesis with downregulation of neurotrophic factors [188]. However, the low-, but not the high-, intensity exercise paradigm results in significantly increased expression of BDNF, NMDAR1, and Flk-1 mRNA, which contribute to hippocampal neurogenesis [189].",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_165",
+    "text": "However, at present there are no standardized recommendations concerning physiotherapy of individuals with TBI resulting in a high variability of methods and intensity [190]. Fourteen studies met the inclusion criteria and were grouped into subgroups: sensory stimulation, therapy intensity, casting/splinting, exercise or aerobic training and functional skill training. While for sensory stimulation evidence could not be proven, strong evidence exists that more intensive rehabilitation programs",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_166",
+    "text": "proven, strong evidence exists that more intensive rehabilitation programs lead to earlier functional abilities.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_167",
+    "text": "The current medical management of TBI patients mainly includes specialized prehospital care, intensive clinical care and long-term rehabilitation, but lacks clinically proven effective management with neuroprotective agents to limit secondary injury or enhance repair [191]. The enormous burden of TBI, however, clearly supports the need for such neuroprotective and/ or neurorestorative agents or approaches. However, translating promising preclinical benefit into the clinical setting has proven",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_168",
+    "text": "promising preclinical benefit into the clinical setting has proven difficult. The disappointing clinical phase-III trials may be due to heterogeneity of the population of TBI patients and variability in treatment approaches. However, there are many aspects that need to be considered before and during the clinical trials. First, prior to translation of an agent into clinical trial, preclinical evidence should be sufficiently strong, based on multiple experiments, preferably in several models,",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_169",
+    "text": "strong, based on multiple experiments, preferably in several models, and include optimal administration routes and doses, single doses versus multiple doses, bolus dose versus continuous infusion, and therapeutic windows. Extensive pharmacokinetic evaluation of the potential neuroprotective agents in the injured brain should also be performed, ensuring adequate tissue penetration once the agent is studied in efficacy trials. Second, although many pathophysiologic cascades inducing secondary",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_170",
+    "text": "trials. Second, although many pathophysiologic cascades inducing secondary injury have been identified, it remains uncertain which of and where these cascades are active in individual TBI patients after injury. Moreover, some pathways may initially be detrimental, but can be protective at later stages. Therefore, effective translation of agents into clinical trials will probably require a more mechanistic approach, i.e., only patients with the proven presence of a certain pathophysiological",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_171",
+    "text": "only patients with the proven presence of a certain pathophysiological mechanism are included in trials evaluating a compound that interferes with this particular mechanism. Third, many pathophysiologic cascades may contribute to secondary injury after TBI. Combined treatments may provide better benefits. These potential combinations include agents (e.g., pharmaceuticals or cytokines) or cells (e.g., MSCs, neural stem cells) or other approaches (physical or electric stimulation). Fourth,",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_172",
+    "text": "cells) or other approaches (physical or electric stimulation). Fourth, inadequacy in the design and analysis of clinical trials may affect the outcome. A more sensitive analysis of outcome in new clinical trials is warranted, with an important role for surrogate outcome measures as well as new types of outcome analysis. Further development of evidence-based treatments and implementation",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_173",
+    "text": "of these suggestions are likely to improve the chance that experimentally effective agents will show positive results in future clinical trials.\nThis work was supported by NINDS grants PO1 NS23393, PO1 NS42345, RO1 NS42259 and RO1 NS062002.\nPapers of special note have been highlighted as either of interest (·) or of considerable interest (··) to readers.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_174",
+    "text": "Langlois JA, Rutland-Brown W, Wald MM. The epidemiology and impact of traumatic brain injury: a brief overview. J Head Trauma Rehabil 2006;21:375-8. [PubMed: 16983222]\n2·. Tagliaferri F, Compagnone C, Korsic M, Servadei F, Kraus J. A systematic review of brain injury epidemiology in Europe. Acta Neurochir (Wien) 2006;148:255-68. [PubMed: 16311842]A detailed account of TBI epidemiology in Europe.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_175",
+    "text": "Schofield PW, Logroscino G, Andrews HF, Albert S, Stern Y. An association between head circumference and Alzheimer's disease in a population-based study of aging and dementia. Neurology 1997;49:30-7. [PubMed: 9222166]\nRehabilitation of persons with traumatic brain injury. NIH Consensus Statement 1998;16:1-41.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_176",
+    "text": "Consensus conference. Rehabilitation of persons with traumatic brain injury. NIH Consensus Development Panel on Rehabilitation of Persons With Traumatic Brain Injury. Jama 1999;282:97483. [PubMed: 10485684]\n6·. Narayan RK, Michel ME, Ansell B, Baethmann A, Biegon A, Bracken MB, et al. Clinical trials in head injury. J Neurotrauma 2002;19:503-57. [PubMed: 12042091]An important review article describes the TBI clinical trials.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_177",
+    "text": "Royo NC, Shimizu S, Schouten JW, Stover JF, McIntosh TK. Pharmacology of traumatic brain injury. Curr Opin Pharmacol 2003;3:27-32. [PubMed: 12550738]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_178",
+    "text": "8··. Beauchamp K, Mutlak H, Smith WR, Shohami E, Stahel PF. Pharmacology of traumatic brain injury: where is the 'golden bullet'? Mol Med 2008;14:731-40. [PubMed: 18769636]An important review article describes the published prospective clinical trials on pharmacological treatment modalities for TBI patients and outline future promising therapeutic avenues in the field.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_179",
+    "text": "Hovda DA, Fu K, Badie H, Samii A, Pinanong P, Becker DP. Administration of an omega-conopeptide one hour following traumatic brain injury reduces 45calcium accumulation. Acta Neurochir Suppl (Wien) 1994;60:521-3. [PubMed: 7976637]\nXiong Y, Gu Q, Peterson PL, Muizelaar JP, Lee CP. Mitochondrial dysfunction and calcium perturbation induced by traumatic brain injury. J Neurotrauma 1997;14:23-34. [PubMed: 9048308]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_180",
+    "text": "Kontos HA, Povlishock JT. Oxygen radicals in brain injury. Cent Nerv Syst Trauma 1986;3:257-63. [PubMed: 3107844]\nHall ED. Lipid antioxidants in acute central nervous system injury. Ann Emerg Med 1993;22:10227. [PubMed: 8503522]\nSmith SL, Andrus PK, Zhang JR, Hall ED. Direct measurement of hydroxyl radicals, lipid peroxidation, and blood-brain barrier disruption following unilateral cortical impact head injury in the rat. J Neurotrauma 1994;11:393-404. [PubMed: 7837280]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_181",
+    "text": "Singh IN, Sullivan PG, Deng Y, Mbye LH, Hall ED. Time course of post-traumatic mitochondrial oxidative damage and dysfunction in a mouse model of focal traumatic brain injury: implications for neuroprotective therapy. J Cereb Blood Flow Metab 2006;26:1407-18. [PubMed: 16538231]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_182",
+    "text": "Mbye LH, Singh IN, Sullivan PG, Springer JE, Hall ED. Attenuation of acute mitochondrial dysfunction after traumatic brain injury in mice by NIM811, a non-immunosuppressive cyclosporin A analog. Exp Neurol 2008;209:243-53. [PubMed: 18022160]\nWerner C, Engelhard K. Pathophysiology of traumatic brain injury. Br J Anaesth 2007;99:4-9. [PubMed: 17573392]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_183",
+    "text": "Schouten JW. Neuroprotection in traumatic brain injury: a complex struggle against the biology of nature. Curr Opin Crit Care 2007;13:134-42. [PubMed: 17327733]\nBullock MR, Povlishock JT. Guidelines for the management of severe traumatic brain injury. Editor's Commentary. J Neurotrauma 2007;24(Suppl 1)2 p preceding S1",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_184",
+    "text": "19·. Doppenberg EM, Choi SC, Bullock R. Clinical trials in traumatic brain injury: lessons for the future. J Neurosurg Anesthesiol 2004;16:87-94. [PubMed: 14676577]This review article provides lessons for future TBI clinical trials.\nWakai A, Roberts I, Schierhout G. Mannitol for acute traumatic brain injury. Cochrane Database Syst Rev 2007;(1):CD001049. [PubMed: 17253453]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_185",
+    "text": "Peterson K, Carson S, Carney N. Hypothermia treatment for traumatic brain injury: a systematic review and meta-analysis. J Neurotrauma 2008;25:62-71. [PubMed: 18355159]\nMarmarou A. Increased intracranial pressure in head injury and influence of blood volume. J Neurotrauma 1992;9 (Suppl 1):S327-32. [PubMed: 1588624]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_186",
+    "text": "Sahuquillo J, Arikan F. Decompressive craniectomy for the treatment of refractory high intracranial pressure in traumatic brain injury. Cochrane Database Syst Rev 2006;(1):CD003983. [PubMed: 16437469]\nClinicalTrials.gov. Available at: http://www.clinicaltrials.gov/. 2008 cited\n25·. Wang KK, Larner SF, Robinson G, Hayes RL. Neuroprotection targets after traumatic brain injury. Curr Opin Neurol 2006;19:514-9. [PubMed: 17102687]This article describes targets for TBI treatment.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_187",
+    "text": "Lu D, Mahmood A, Qu C, Goussev A, Schallert T, Chopp M. Erythropoietin enhances neurogenesis and restores spatial memory in rats after traumatic brain injury. J Neurotrauma 2005;22:1011-7. [PubMed: 16156716]\nXiong Y, Lu D, Qu C, et al. Effects of erythropoietin on reducing brain damage and improving functional outcome after traumatic brain injury in mice. J Neurosurg 2008;109:510-21. [PubMed: 18759585]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_188",
+    "text": "Hastings NB, Gould E. Rapid extension of axons into the CA3 region by adult-generated granule cells. J Comp Neurol 1999;413:146-54. [PubMed: 10464376]\nEmery DL, Fulp CT, Saatman KE, Schutz C, Neugebauer E, McIntosh TK. Newly born granule cells in the dentate gyrus rapidly extend axons into the hippocampal CA3 region following experimental brain injury. J Neurotrauma 2005;22:978-88. [PubMed: 16156713]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_189",
+    "text": "Xiong Y, Mahmood A, Lu D, et al. Role of gender in outcome after traumatic brain injury and therapeutic effect of erythropoietin in mice. Brain Res 2007;1185:301-12. [PubMed: 17976541]\nKleindienst A, McGinn MJ, Harvey HB, Colello RJ, Hamm RJ, Bullock MR. Enhanced hippocampal neurogenesis by intraventricular S100B infusion is associated with improved cognitive recovery after traumatic brain injury. J Neurotrauma 2005;22:645-55. [PubMed: 15941374]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_190",
+    "text": "Mahmood A, Lu D, Chopp M. Marrow stromal cell transplantation after traumatic brain injury promotes cellular proliferation within the brain. Neurosurgery 2004;55:1185-93. [PubMed: 15509325]\nGaulke LJ, Horner PJ, Fink AJ, McNamara CL, Hicks RR. Environmental enrichment increases progenitor cell survival in the dentate gyrus following lateral fluid percussion injury. Brain Res Mol Brain Res 2005;141:138-50. [PubMed: 16171896]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_191",
+    "text": "Chopp M, Li Y. Treatment of neural injury with marrow stromal cells. Lancet Neurol 2002;1:92100. [PubMed: 12849513]\nWieloch T, Nikolich K. Mechanisms of neural plasticity following brain injury. Curr Opin Neurobiol 2006;16:258-64. [PubMed: 16713245]\nMaeda T, Lee SM, Hovda DA. Restoration of cerebral vasoreactivity by an L-type calcium channel blocker following fluid percussion brain injury. J Neurotrauma 2005;22:763-71. [PubMed: 16004579]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_192",
+    "text": "Kostron H, Twerdy K, Stampfl G, Mohsenipour I, Fischer J, Grunert V. Treatment of the traumatic cerebral vasospasm with the calcium channel blocker nimodipine: a preliminary report. Neurol Res 1984;6:29-32. [PubMed: 6147775]\nBailey I, Bell A, Gray J, Gullan R, Heiskanan O, Marks PV, et al. A trial of the effect of nimodipine on outcome after head injury. Acta Neurochir (Wien) 1991;110:97-105. [PubMed: 1927616]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_193",
+    "text": "A multicenter trial of the efficacy of nimodipine on outcome after severe head injury. The European Study Group on Nimodipine in Severe Head Injury. J Neurosurg 1994;80:797-804. [PubMed: 8169617]\nLangham J, Goldfrad C, Teasdale G, Shaw D, Rowan K. Calcium channel blockers for acute traumatic brain injury. Cochrane Database Syst Rev 2003;(4):CD000565. [PubMed: 14583925]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_194",
+    "text": "Vergouwen MD, Vermeulen M, Roos YB. Effect of nimodipine on outcome in patients with traumatic subarachnoid haemorrhage: a systematic review. Lancet Neurol 2006;5:1029-32. [PubMed: 17110283]\nSamii A, Badie H, Fu K, Luther RR, Hovda DA. Effects of an N-type calcium channel antagonist (SNX 111; Ziconotide) on calcium-45 accumulation following fluid-percussion injury. J Neurotrauma 1999;16:879-92. [PubMed: 10547097]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_195",
+    "text": "Lee LL, Galo E, Lyeth BG, Muizelaar JP, Berman RF. Neuroprotection in the rat lateral fluid percussion model of traumatic brain injury by SNX-185, an N-type voltage-gated calcium channel blocker. Exp Neurol 2004;190:70-8. [PubMed: 15473981]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_196",
+    "text": "Verweij BH, Muizelaar JP, Vinas FC, Peterson PL, Xiong Y, Lee CP. Improvement in mitochondrial dysfunction as a new surrogate efficiency measure for preclinical trials: dose-response and timewindow profiles for administration of the calcium channel blocker Ziconotide in experimental brain injury. J Neurosurg 2000;93:829-34. [PubMed: 11059665]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_197",
+    "text": "Buchan AM, Gertler SZ, Li H, Xue D, Huang ZG, Chaundy KE, et al. A selective N-type Ca(2+)channel blocker prevents CA1 injury 24 h following severe forebrain ischemia and reduces infarction following focal ischemia. J Cereb Blood Flow Metab 1994;14:903-10. [PubMed: 7929655]\nGudeman SK, Miller JD, Becker DP. Failure of high-dose steroid therapy to influence intracranial pressure in patients with severe head injury. J Neurosurg 1979;51:301-6. [PubMed: 469578]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_198",
+    "text": "Alderson P, Roberts I. Corticosteroids for acute traumatic brain injury. Cochrane Database Syst Rev 2005;15:CD000196. [PubMed: 15674869]\nEdwards P, Arango M, Balica L, Cottingham R, El-Sayed H, Farrell B, et al. Final results of MRC CRASH, a randomised placebo-controlled trial of intravenous corticosteroid in adults with head injury-outcomes at 6 months. Lancet 2005;365:1957-9. [PubMed: 15936423]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_199",
+    "text": "Bareyre F, Wahl F, McIntosh TK, Stutzmann JM. Time course of cerebral edema after traumatic brain injury in rats: effects of riluzole and mannitol. J Neurotrauma 1997;14:839-49. [PubMed: 9421455]\nSoustiel JF, Vlodavsky E, Zaaroor M. Relative effects of mannitol and hypertonic saline on calpain activity, apoptosis and polymorphonuclear infiltration in traumatic focal brain injury. Brain Res 2006;1101:136-44. [PubMed: 16787640]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_200",
+    "text": "Sorani MD, Morabito D, Rosenthal G, Giacomini KM, Manley GT. Characterizing the dose-response relationship between mannitol and intracranial pressure in traumatic brain injury patients using a high-frequency physiological data collection system. J Neurotrauma 2008;25:291-8. [PubMed: 18373479]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_201",
+    "text": "Ichai C, Armando G, Orban JC, et al. Sodium lactate versus mannitol in the treatment of intracranial hypertensive episodes in severe traumatic brain-injured patients. Intensive Care Med. 2008[Epub ahead of print]\nvan den Heuvel C, Vink R. The role of magnesium in traumatic brain injury. Clin Calcium 2004;14:914. [PubMed: 15577090]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_202",
+    "text": "Vink R, O'Connor CA, Nimmo AJ, Heath DL. Magnesium attenuates persistent functional deficits following diffuse traumatic brain injury in rats. Neurosci Lett 2003;336:41-4. [PubMed: 12493598]\nBarbre AB, Hoane MR. Magnesium and riboflavin combination therapy following cortical contusion injury in the rat. Brain Res Bull 2006;69:639-46. [PubMed: 16716831]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_203",
+    "text": "Hoane MR. Assessment of cognitive function following magnesium therapy in the traumatically injured brain. Magnes Res 2007;20:229-36. [PubMed: 18271492]\nHoane MR, Knotts AA, Akstulewicz SL, Aquilano M, Means LW. The behavioral effects of magnesium therapy on recovery of function following bilateral anterior medial cortex lesions in the rat. Brain Res Bull 2003;60:105-14. [PubMed: 12725898]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_204",
+    "text": "Turkoglu OF, Eroglu H, Okutan O, et al. A comparative study of treatment for brain edema: magnesium sulphate versus dexamethasone sodium phosphate. J Clin Neurosci 2008;15:60-5. [PubMed: 18061457]\nArango MF, Bainbridge D. Magnesium for acute traumatic brain injury. Cochrane Database Syst Rev 2008;14:CD005400. [PubMed: 18843689]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_205",
+    "text": "Temkin NR, Anderson GD, Winn HR, Ellenbogen RG, Britz GW, Schuster J, et al. Magnesium sulfate for neuroprotection after traumatic brain injury: a randomised controlled trial. Lancet Neurol 2007;6:29-38. [PubMed: 17166799]\nSaxena M, Andrews PJ, Cheng A. Modest cooling therapies (35 degrees C to 37.5 degrees C) for traumatic brain injury. Cochrane Database Syst Rev 2008;(3):CD006811. [PubMed: 18646169]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_206",
+    "text": "Markgraf CG, Clifton GL, Moody MR. Treatment window for hypothermia in brain injury. J Neurosurg 2001;95:979-83. [PubMed: 11765843]\nMa M, Matthews BT, Lampe JW, Meaney DF, Shofer FS, Neumar RW. Immediate short-duration hypothermia provides long-term protection in an in vivo model of traumatic axonal injury. Exp Neurol 2009;215:119-27. [PubMed: 18977220]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_207",
+    "text": "Baranova AI, Wei EP, Ueda Y, Sholley MM, Kontos HA, Povlishock JT. Cerebral vascular responsiveness after experimental traumatic brain injury: the beneficial effects of delayed hypothermia combined with superoxide dismutase administration. J Neurosurg 2008;109:502-9. [PubMed: 18759584]\nSahuquillo J, Vilalta A. Cooling the injured brain: how does moderate hypothermia influence the pathophysiology of traumatic brain injury. Curr Pharm Des 2007;13:2310-22. [PubMed: 17692002]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_208",
+    "text": "Christian E, Zada G, Sung G, Giannotta SL. A review of selective hypothermia in the management of traumatic brain injury. Neurosurg Focus 2008;25:E9. [PubMed: 18828707]\nRutigliano D, Egnor MR, Priebe CJ, et al. Decompressive craniectomy in pediatric patients with traumatic brain injury with intractable elevated intracranial pressure. J Pediatr Surg 2006;41:83-7. [PubMed: 16410113]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_209",
+    "text": "Plesnila N. Decompression craniectomy after traumatic brain injury: recent experimental results. Prog Brain Res 2007;161:393-400. [PubMed: 17618993]\nZweckberger K, Eros C, Zimmermann R, Kim SW, Engel D, Plesnila N. Effect of early and delayed decompressive craniectomy on secondary brain damage after controlled cortical impact in mice. J Neurotrauma 2006;23:1083-93. [PubMed: 16866621]\nHickenbottom SL, Grotta J. Neuroprotective therapy. Semin Neurol 1998;18:485-92. [PubMed: 9932619]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_210",
+    "text": "Gentile NT, McIntosh TK. Antagonists of excitatory amino acids and endogenous opioid peptides in the treatment of experimental central nervous system injury. Ann Emerg Med 1993;22:1028-34. [PubMed: 8099259]\nDuhaime AC. Exciting your neurons to death: can we prevent cell loss after brain injury? Pediatr Neurosurg 1994;21:117-22. [PubMed: 7986742]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_211",
+    "text": "Meythaler JM, Brunner RC, Johnson A, Novack TA. Amantadine to improve neurorecovery in traumatic brain injury-associated diffuse axonal injury: a pilot double-blind randomized trial. J Head Trauma Rehabil 2002;17:300-13. [PubMed: 12105999]\nMeythaler JM, Peduzzi JD, Eleftheriou E, Novack TA. Current concepts: diffuse axonal injuryassociated traumatic brain injury. Arch Phys Med Rehabil 2001;82:1461-71. [PubMed: 11588754]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_212",
+    "text": "Sawyer E, Mauro LS, Ohlinger MJ. Amantadine enhancement of arousal and cognition after traumatic brain injury. Ann Pharmacother 2008;42:247-52. [PubMed: 18212258]\nMaas AI, Murray G, Henney H 3rd, et al. Efficacy and safety of dexanabinol in severe traumatic brain injury: results of a phase III randomised, placebo-controlled, clinical trial. Lancet Neurol 2006;5:3845. [PubMed: 16361021]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_213",
+    "text": "Hellal F, Pruneau D, Palmier B, et al. Detrimental role of bradykinin B2 receptor in a murine model of diffuse brain injury. J Neurotrauma 2003;20:841-51. [PubMed: 14577862]\nMarmarou A, Guy M, Murphey L, et al. A single dose, three-arm, placebo-controlled, phase I study of the bradykinin B2 receptor antagonist Anatibant (LF16-0687Ms) in patients with severe traumatic brain injury. J Neurotrauma 2005;22:1444-55. [PubMed: 16379582]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_214",
+    "text": "Ker K, Blackhall K. Beta-2 receptor antagonists for acute traumatic brain injury. Cochrane Database Syst Rev 2008;(1):CD006686. [PubMed: 18254109]\nRoberts I. Barbiturates for acute traumatic brain injury. Cochrane Database Syst Rev 2000; (2):CD000033. [PubMed: 10796689]\nLlompart-Pou JA, Perez-Barcena J, Raurich JM, et al. Effect of barbiturate coma on adrenal response in patients with traumatic brain injury. J Endocrinol Invest 2007;30:393-8. [PubMed: 17598971]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_215",
+    "text": "Goss CW, Hoffman SW, Stein DG. Behavioral effects and anatomic correlates after brain injury: a progesterone dose-response study. Pharmacol Biochem Behav 2003;76:231-42. [PubMed: 14592674]\nStein DG, Wright DW, Kellermann AL. Does progesterone have neuroprotective properties? Ann Emerg Med 2008;51:164-72. [PubMed: 17588708]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_216",
+    "text": "Wright DW, Kellermann AL, Hertzberg VS, et al. ProTECT: a randomized clinical trial of progesterone for acute traumatic brain injury. Ann Emerg Med 2007;49:391-402. [PubMed: 17011666]\nXiao G, Wei J, Yan W, Wang W, Lu Z. Improved outcomes from the administration of progesterone for patients with acute severe traumatic brain injury: a randomized controlled trial. Crit Care 2008;12:R61. [PubMed: 18447940]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_217",
+    "text": "Vandromme M, Melton SM, Kerby JD. Progesterone in traumatic brain injury: time to move on to phase III trials. Crit Care 2008;12:153. [PubMed: 18522765]\nCutler SM, VanLandingham JW, Murphy AZ, Stein DG. Slow-release and injected progesterone treatments enhance acute recovery after traumatic brain injury. Pharmacol Biochem Behav 2006;84:420-8. [PubMed: 16870241]\nSiddall OM. Use of methylphenidate in traumatic brain injury. Ann Pharmacother 2005;39:1309-13. [PubMed: 15914519]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_218",
+    "text": "Forsyth RJ, Jayamoni B, Paine TC. Monoaminergic agonists for acute traumatic brain injury. Cochrane Database Syst Rev 2006;(4):CD003984. [PubMed: 17054192]\nMayer SA, Brun NC, Begtrup K, et al. Recombinant activated factor VII for acute intracerebral hemorrhage. N Engl J Med 2005;352:777-85. [PubMed: 15728810]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_219",
+    "text": "Narayan RK, Maas AI, Marshall LF, Servadei F, Skolnick BE, Tillinger MN. Recombinant factor VIIA in traumatic intracerebral hemorrhage: results of a dose-escalation clinical trial. Neurosurgery 2008;62:776-86. [PubMed: 18496183]\nStein DM, Dutton RP, Kramer ME, Handley C, Scalea TM. Recombinant factor VIIa: decreasing time to intervention in coagulopathic patients with severe traumatic brain injury. J Trauma 2008;64:620-7. [PubMed: 18332801]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_220",
+    "text": "Hall ED. Free radicals and CNS injury. Crit Care Clin 1989;5:793-805. [PubMed: 2676100]\nHall ED, Braughler JM. Free radicals in CNS injury. Res Publ Assoc Res Nerv Ment Dis 1993;71:81105. [PubMed: 8380240]\nMuizelaar JP, Marmarou A, Young HF, et al. Improving the outcome of severe head injury with the oxygen radical scavenger polyethylene glycol-conjugated superoxide dismutase: a phase II trial. J Neurosurg 1993;78:375-82. [PubMed: 8433137]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_221",
+    "text": "Young B, Runge JW, Waxman KS, et al. Effects of pegorgotein on neurologic outcome of patients with severe head injury. A multicenter, randomized controlled trial. JAMA 1996;276:538-43. [PubMed: 8709402]\nSmith SL, Andrus PK, Zhang JR, Hall ED. Direct measurement of hydroxyl radicals, lipid peroxidation, and blood-brain barrier disruption following unilateral cortical impact head injury in the rat. J Neurotrauma 1994;11:393-404. [PubMed: 7837280]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_222",
+    "text": "Yunoki M, Kawauchi M, Ukita N, Sugiura T, Ohmoto T. Effects of lecithinized superoxide dismutase on neuronal cell loss in CA3 hippocampus after traumatic brain injury in rats. Surg Neurol 2003;59:156-60. [PubMed: 12681536]\nWojchowski DM, Gregory RC, Miller CP, Pandit AK, Pircher TJ. Signal transduction in the erythropoietin receptor system. Exp Cell Res 1999;253:143-56. [PubMed: 10579919]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_223",
+    "text": "Naranda T, Kaufman RI, Li J, et al. Activation of erythropoietin receptor through a novel extracellular binding site. Endocrinology 2002;143:2293-302. [PubMed: 12021194]\nMarti HH. Erythropoietin and the hypoxic brain. J Exp Biol 2004;207(Pt 18):3233-42. [PubMed: 15299044]\nGrasso G, Sfacteria A, Cerami A, Brines M. Erythropoietin as a tissue-protective cytokine in brain injury: what do we know and where do we go? Neuroscientist 2004;10:93-8. [PubMed: 15070483]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_224",
+    "text": "103·. Brines ML, Ghezzi P, Keenan S, et al. Erythropoietin crosses the blood-brain barrier to protect against experimental brain injury. Proc Natl Acad Sci U S A 2000;97:10526-31. [PubMed: 10984541]This paper first time demonstrates that EPO is neuroprotective in vivo.\nWang L, Zhang Z, Wang Y, Zhang R, Chopp M. Treatment of stroke with erythropoietin enhances neurogenesis and angiogenesis and improves neurological function in rats. Stroke 2004;35:17327. [PubMed: 15178821]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_225",
+    "text": "Bartesaghi S, Marinovich M, Corsini E, Galli CL, Viviani B. Erythropoietin: a novel neuroprotective cytokine. Neurotoxicology 2005;26:923-8. [PubMed: 15927257]\nSiren AL, Fratelli M, Brines M, et al. Erythropoietin prevents neuronal apoptosis after cerebral ischemia and metabolic stress. Proc Natl Acad Sci U S A 2001;98:4044-9. [PubMed: 11259643]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_226",
+    "text": "Wang L, Zhang ZG, Zhang RL, et al. Matrix metalloproteinase 2 (MMP2) and MMP9 secreted by erythropoietin-activated endothelial cells promote neural progenitor cell migration. J Neurosci 2006;26:5996-6003. [PubMed: 16738242]\nRansome MI, Turnley AM. Systemically delivered Erythropoietin transiently enhances adult hippocampal neurogenesis. J Neurochem 2007;102:1953-65. [PubMed: 17555554]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_227",
+    "text": "Mahmood A, Lu D, Qu C, et al. Treatment of traumatic brain injury in rats with erythropoietin and carbamylated erythropoietin. J Neurosurg 2007;107:392-7. [PubMed: 17695395]\nWang L, Zhang ZG, Gregg SR, et al. The Sonic hedgehog pathway mediates carbamylated erythropoietin-enhanced proliferation and differentiation of adult neural progenitor cells. J Biol Chem 2007;282:32462-70. [PubMed: 17804404]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_228",
+    "text": "111··. Brines M, Patel NS, Villa P, et al. Nonerythropoietic, tissue-protective peptides derived from the tertiary structure of erythropoietin. Proc Natl Acad Sci U S A 2008;105:10925-30. [PubMed: 18676614]An important paper demonstrates that short peptides from EPO are tissue-protective in vitro and in vivo.",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_229",
+    "text": "112·. Chen J, Chopp M. Neurorestorative treatment of stroke: cell and pharmacological approaches. NeuroRx 2006;3:466-73. [PubMed: 17012060]This review article provides readers with neuroprotective treatment of stroke.\nLu D, Goussev A, Chen J, et al. Atorvastatin reduces neurological deficit and increases synaptogenesis, angiogenesis, and neuronal survival in rats subjected to traumatic brain injury. J Neurotrauma 2004;21:21-32. [PubMed: 14987462]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_230",
+    "text": "Wu H, Lu D, Jiang H, et al. Simvastatin-mediated upregulation of VEGF and BDNF, activation of the PI3K/Akt pathway, and increase of neurogenesis are associated with therapeutic improvement after traumatic brain injury. J Neurotrauma 2008;25:130-9. [PubMed: 18260796]\nChen SF, Hung TH, Chen CC, et al. Lovastatin improves histological and functional outcomes and reduces inflammation after experimental traumatic brain injury. Life Sci 2007;81:288-98. [PubMed: 17612572]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_231",
+    "text": "Wang H, Lynch JR, Song P, et al. Simvastatin and atorvastatin improve behavioral outcome, reduce hippocampal degeneration, and improve cerebral blood flow after experimental traumatic brain injury. Exp Neurol 2007;206:59-69. [PubMed: 17521631]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_232",
+    "text": "Lu D, Qu C, Goussev A, et al. Statins increase neurogenesis in the dentate gyrus, reduce delayed neuronal death in the hippocampal CA3 region, and improve spatial learning in rat after traumatic brain injury. J Neurotrauma 2007;24:1132-46. [PubMed: 17610353]\nTapia-Perez JH, Sanchez-Aguilar M, Torres-Corzo JG, et al. Effect of rosuvastatin on amnesia and disorientation after traumatic brain injury (NCT003229758). J Neurotrauma 2008;25:1011-17. [PubMed: 18690806]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_233",
+    "text": "Mahmood A, Lu D, Qu C, Goussev A, Chopp M. Treatment of traumatic brain injury with a combination therapy of marrow stromal cells and atorvastatin in rats. Neurosurgery 2007;60:54653. [PubMed: 17327800]discussion 53-4\nLee OK, Ko YC, Kuo TK, et al. Fluvastatin and lovastatin but not pravastatin induce neuroglial differentiation in human mesenchymal stem cells. J Cell Biochem 2004;93:917-28. [PubMed: 15389871]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_234",
+    "text": "Cardenas A, Moro MA, Hurtado O, Leza JC, Lizasoain I. Dual role of nitric oxide in adult neurogenesis. Brain Res Brain Res Rev 2005;50:1-6. [PubMed: 16291071]\nSun Y, Jin K, Childs JT, Xie L, Mao XO, Greenberg DA. Neuronal nitric oxide synthase and ischemia-induced neurogenesis. J Cereb Blood Flow Metab 2005;25:485-92. [PubMed: 15689958]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_235",
+    "text": "Zhang R, Zhang L, Zhang Z, Wang Y, Lu M, Lapointe M, et al. A nitric oxide donor induces neurogenesis and reduces functional deficits after stroke in rats. Ann Neurol 2001;50:602-11. [PubMed: 11706966]\nGibbs SM. Regulation of neuronal proliferation and differentiation by nitric oxide. Mol Neurobiol 2003;27:107-20. [PubMed: 12777682]\nChen J, Zhang ZG, Li Y, et al. Statins induce angiogenesis, neurogenesis, and synaptogenesis after stroke. Ann Neurol 2003;53:743-51. [PubMed: 12783420]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_236",
+    "text": "Firestein BL, Bredt DS. Regulation of sensory neuron precursor proliferation by cyclic GMPdependent protein kinase. J Neurochem 1998;71:1846-53. [PubMed: 9798908]\nChen J, Zacharek A, Zhang C, et al. Endothelial nitric oxide synthase regulates brain-derived neurotrophic factor expression and neurogenesis after stroke in mice. J Neurosci 2005;25:2366-75. [PubMed: 15745963]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_237",
+    "text": "Chen J, Li Y, Zhang R, et al. Combination therapy of stroke in rats with a nitric oxide donor and human bone marrow stromal cells enhances angiogenesis and neurogenesis. Brain Res 2004;1005:21-8. [PubMed: 15044060]\nLuo CX, Zhu XJ, Zhou QG, et al. Reduced neuronal nitric oxide synthase is involved in ischemiainduced hippocampal neurogenesis by up-regulating inducible nitric oxide synthase expression. J Neurochem 2007;103:1872-82. [PubMed: 17854382]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_238",
+    "text": "Lu D, Mahmood A, Zhang R, Copp M. Upregulation of neurogenesis and reduction in functional deficits following administration of DEtA/NONOate, a nitric oxide donor, after traumatic brain injury in rats. J Neurosurg 2003;99:351-61. [PubMed: 12924710]\nZhang R, Wang L, Zhang L, et al. Nitric oxide enhances angiogenesis via the synthesis of vascular endothelial growth factor and cGMP after stroke in the rat. Circ Res 2003;92:308-13. [PubMed: 12595343]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_239",
+    "text": "Heizmann CW, Fritz G, Schafer BW. S100 proteins: structure, functions and pathology. Front Biosci 2002;7:d1356-68. [PubMed: 11991838]\nWunderlich MT, Wallesch CW, Goertler M. Release of neurobiochemical markers of brain damage is related to the neurovascular status on admission and the site of arterial occlusion in acute ischemic stroke. J Neurol Sci 2004;227:49-53. [PubMed: 15546591]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_240",
+    "text": "Van Eldik LJ, Wainwright MS. The Janus face of glial-derived S100B: beneficial and detrimental functions in the brain. Restor Neurol Neurosci 2003;21:97-108. [PubMed: 14530573]\nHayakata T, Shiozaki T, Tasaki O, et al. Changes in CSF S100B and cytokine concentrations in early-phase severe traumatic brain injury. Shock 2004;22:102-7. [PubMed: 15257081]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_241",
+    "text": "Goncalves CA, Concli Leite M, Nardin P. Biological and methodological features of the measurement of S100B, a putative marker of brain injury. Clin Biochem 2008;41:755-63. [PubMed: 18454941]\nPelinka LE, Kroepfl A, Leixnering M, Buchinger W, Raabe A, Redl H. GFAP versus S100B in serum after traumatic brain injury: relationship to brain damage and outcome. J Neurotrauma 2004;21:1553-61. [PubMed: 15684648]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_242",
+    "text": "Piazza O, Storti MP, Cotena S, et al. S100B is not a reliable prognostic index in paediatric TBI. Pediatr Neurosurg 2007;43:258-64. [PubMed: 17627141]\nKleindienst A, Hesse F, Bullock MR, Buchfelder M. The neurotrophic protein S100B: value as a marker of brain damage and possible therapeutic implications. Prog Brain Res 2007;161:317-25. [PubMed: 17618987]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_243",
+    "text": "Kleindienst A, Ross Bullock M. A critical analysis of the role of the neurotrophic protein S100B in acute brain injury. J Neurotrauma 2006;23:1185-200. [PubMed: 16928177]\nKorfias S, Stranjalis G, Boviatsis E, et al. Serum S-100B protein monitoring in patients with severe traumatic brain injury. Intensive Care Med 2007;33:255-60. [PubMed: 17143637]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_244",
+    "text": "Kassem M, Abdallah BM. Human bone-marrow-derived mesenchymal stem cells: biological characteristics and potential role in therapy of degenerative diseases. Cell Tissue Res 2008;331:15763. [PubMed: 17896115]\nGreco SJ, Rameshwar P. Enhancing effect of IL-1alpha on neurogenesis from adult human mesenchymal stem cells: implication for inflammatory mediators in regenerative medicine. J Immunol 2007;179:3342-50. [PubMed: 17709551]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_245",
+    "text": "Deng J, Petersen BE, Steindler DA, Jorgensen ML, Laywell ED. Mesenchymal stem cells spontaneously express neural proteins in culture and are neurogenic after transplantation. Stem Cells 2006;24:1054-64. [PubMed: 16322639]\nShih CC, Fu L, Zhu L, Huang Y, Lee TD, Forman SJ. Derivation of neural stem cells from mesenchymal stem cells: evidence for a bipotential stem cell population. Stem Cells Dev 2008;17:1109-1122. [PubMed: 18426339]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_246",
+    "text": "Wislet-Gendebien S, Hans G, Leprince P, Rigo JM, Moonen G, Rogister B. Plasticity of cultured mesenchymal stem cells: switch from nestin-positive to excitable neuron-like phenotype. Stem Cells 2005;23:392-402. [PubMed: 15749934]\nLu D, Li Y, Wang L, Chen J, Mahmood A, Chopp M. Intraarterial administration of marrow stromal cells in a rat model of traumatic brain injury. J Neurotrauma 2001;18:813-9. [PubMed: 11526987]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_247",
+    "text": "Mahmood A, Lu D, Yi L, Chen JL, Chopp M. Intracranial bone marrow transplantation after traumatic brain injury improving functional outcome in adult rats. J Neurosurg 2001;94:589-95. [PubMed: 11302657]\nMahmood A, Lu D, Wang L, Chopp M. Intracerebral transplantation of marrow stromal cells cultured with neurotrophic factors promotes functional recovery in adult rats subjected to traumatic brain injury. J Neurotrauma 2002;19:1609-17. [PubMed: 12542861]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_248",
+    "text": "Lu D, Mahmood A, Wang L, Li Y, Lu M, Chopp M. Adult bone marrow stromal cells administered intravenously to rats after traumatic brain injury migrate into brain and improve neurological outcome. Neuroreport 2001;12:559-63. [PubMed: 11234763]\nMahmood A, Lu D, Qu C, Goussev A, Chopp M. Human marrow stromal cell treatment provides long-lasting benefit after traumatic brain injury in rats. Neurosurgery 2005;57:1026-31. [PubMed: 16284572]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_249",
+    "text": "Mahmood A, Lu D, Qu C, Goussev A, Chopp M. Long-term recovery after bone marrow stromal cell treatment of traumatic brain injury in rats. J Neurosurg 2006;104:272-7. [PubMed: 16509501]\nQu C, Mahmood A, Lu D, Goussev A, Xiong Y, Chopp M. Treatment of traumatic brain injury in mice with marrow stromal cells. Brain Res 2008;1208:234-9. [PubMed: 18384759]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_250",
+    "text": "Chen X, Katakowski M, Li Y, et al. Human bone marrow stromal cell cultures conditioned by traumatic brain tissue extracts: growth factor production. J Neurosci Res 2002;69:687-91. [PubMed: 12210835]\nMahmood A, Lu D, Chopp M. Intravenous administration of marrow stromal cells (MSCs) increases the expression of growth factors in rat brain after traumatic brain injury. J Neurotrauma 2004;21:339. [PubMed: 14987463]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_251",
+    "text": "Yoshimura S, Teramoto T, Whalen MJ, Irizarry MC, Takagi Y, Qiu J, et al. FGF-2 regulates neurogenesis and degeneration in the dentate gyrus after traumatic brain injury in mice. J Clin Invest 2003;112:1202-10. [PubMed: 14561705]\nJin K, Zhu Y, Sun Y, Mao XO, Xie L, Greenberg DA. Vascular endothelial growth factor (VEGF) stimulates neurogenesis in vitro and in vivo. Proc Natl Acad Sci U S A 2002;99:11946-50. [PubMed: 12181492]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_252",
+    "text": "Lee J, Duan W, Mattson MP. Evidence that brain-derived neurotrophic factor is required for basal neurogenesis and mediates, in part, the enhancement of neurogenesis by dietary restriction in the hippocampus of adult mice. J Neurochem 2002;82:1367-75. [PubMed: 12354284]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_253",
+    "text": "Zhang C, Li Y, Chen J, et al. Bone marrow stromal cells upregulate expression of bone morphogenetic proteins 2 and 4, gap junction protein connexin-43 and synaptophysin after stroke in rats. Neuroscience 2006;141:687-95. [PubMed: 16730912]\nLi Y, Chen J, Zhang CL, et al. Gliosis and brain remodeling after treatment of stroke in rats with marrow stromal cells. Glia 2005;49:407-17. [PubMed: 15540231]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_254",
+    "text": "Lu D, Mahmood A, Qu C, Hong X, Kaplan D, Chopp M. Collagen scaffolds populated with human marrow stromal cells reduce lesion volume and improve functional outcome after traumatic brain injury. Neurosurgery 2007;61:596-602. [PubMed: 17881974]\nZhang ZX, Guan LX, Zhang K, Zhang Q, Dai LJ. A combined procedure to deliver autologous mesenchymal stromal cells to patients with traumatic brain injury. Cytotherapy 2008;10:134-9. [PubMed: 18368592]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_255",
+    "text": "Stahel PF, Barnum SR. The role of the complement system in CNS inflammatory diseases. Expert Rev Clin Immunol 2006;2:445-56.\nRoberts I, Yates D, Sandercock P, et al. Effect of intravenous corticosteroids on death within 14 days in 10008 adults with clinically significant head injury (MRC CRASH trial): randomised placebo-controlled trial. Lancet 2004;364:1321-8. [PubMed: 15474134]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_256",
+    "text": "Leinhase I, Rozanski M, Harhausen D, et al. Inhibition of the alternative complement activation pathway in traumatic brain injury by a monoclonal anti-factor B antibody: a randomized placebocontrolled study in mice. J Neuroinflammation 2007;4:13. [PubMed: 17474994]\nHarris CL, Fraser DA, Morgan BP. Tailoring anti-complement therapeutics. Biochem Soc Trans 2002;30:1019-1026. [PubMed: 12440965]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_257",
+    "text": "Leinhase I, Schmidt OI, Thurman JM, et al. Pharmacological complement inhibition at the C3 convertase level promotes neuronal survival, neuroprotective intracerebral gene expression, and neurological outcome after traumatic brain injury. Exp Neurol 2006;199:454-64. [PubMed: 16545803]\nRus H, Cudrici C, David S, Niculescu F. The complement system in central nervous system diseases. Autoimmunity 2006;39:395-402. [PubMed: 16923539]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_258",
+    "text": "van Beek J, Elward K, Gasque P. Activation of complement in the central nervous system: roles in neurodegeneration and neuroprotection. Ann N Y Acad Sci 2003;992:56-71. [PubMed: 12794047]\nLledo PM, Alonso M, Grubb MS. Adult neurogenesis and functional plasticity in neuronal circuits. Nat Rev Neurosci 2006;7:179-93. [PubMed: 16495940]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_259",
+    "text": "Kempermann G, Gast D, Gage FH. Neuroplasticity in old age: sustained fivefold induction of hippocampal neurogenesis by long-term environmental enrichment. Ann Neurol 2002;52:135-43. [PubMed: 12210782]\nBrown J, Cooper-Kuhn CM, Kempermann G, et al. Enriched environment and physical activity stimulate hippocampal but not olfactory bulb neurogenesis. Eur J Neurosci 2003;17:2042-6. [PubMed: 12786970]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_260",
+    "text": "Williams BM, Luo Y, Ward C, et al. Environmental enrichment: effects on spatial memory and hippocampal CREB immunoreactivity. Physiol Behav 2001;73:649-58. [PubMed: 11495671]\nLippert-Gruener M, Maegele M, Garbe J, Angelov DN. Late effects of enriched environment (EE) plus multimodal early onset stimulation (MEOS) after traumatic brain injury in rats: Ongoing improvement of neuromotor function despite sustained volume of the CNS lesion. Exp Neurol 2007;203:82-94. [PubMed: 16965773]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_261",
+    "text": "Olson AK, Eadie BD, Ernst C, Christie BR. Environmental enrichment and voluntary exercise massively increase neurogenesis in the adult hippocampus via dissociable pathways. Hippocampus 2006;16:250-60. [PubMed: 16411242]\nRossi C, Angelucci A, Costantin L, et al. Brain-derived neurotrophic factor (BDNF) is required for the enhancement of hippocampal neurogenesis following environmental enrichment. Eur J Neurosci 2006;24:1850-6. [PubMed: 17040481]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_262",
+    "text": "During MJ, Cao L. VEGF, a mediator of the effect of experience on hippocampal neurogenesis. Curr Alzheimer Res 2006;3:29-33. [PubMed: 16472200]\nBruel-Jungerman E, Laroche S, Rampon C. New neurons in the dentate gyrus are involved in the expression of enhanced long-term memory following environmental enrichment. Eur J Neurosci 2005;21:513-21. [PubMed: 15673450]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_263",
+    "text": "Fan Y, Liu Z, Weinstein PR, Fike JR, Liu J. Environmental enrichment enhances neurogenesis and improves functional outcome after cranial irradiation. Eur J Neurosci 2007;25:38-46. [PubMed: 17241265]\nWill B, Galani R, Kelche C, Rosenzweig MR. Recovery from brain injury in animals: relative efficacy of environmental enrichment, physical exercise or formal training (1990-2002). Prog Neurobiol 2004;72:167-82. [PubMed: 15130708]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_264",
+    "text": "Hoffman AN, Malena RR, Westergom BP, et al. Environmental enrichment-mediated functional improvement after experimental traumatic brain injury is contingent on task-specific neurobehavioral experience. Neurosci Lett 2008;431:226-30. [PubMed: 18162321]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_265",
+    "text": "Kline AE, Wagner AK, Westergom BP, et al. Acute treatment with the 5-HT(1A) receptor agonist 8-OH-DPAT and chronic environmental enrichment confer neurobehavioral benefit after experimental brain trauma. Behav Brain Res 2007;177:186-94. [PubMed: 17166603]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_266",
+    "text": "Wagner AK, Kline AE, Sokoloski J, Zafonte RD, Capulong E, Dixon CE. Intervention with environmental enrichment after experimental brain trauma enhances cognitive recovery in male but not female rats. Neurosci Lett 2002;334:165-8. [PubMed: 12453621]\nvan Praag H. Neurogenesis and exercise: past and future directions. Neuromolecular Med 2008;10:128-40. [PubMed: 18286389]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_267",
+    "text": "Cotman CW, Berchtold NC, Christie LA. Exercise builds brain health: key roles of growth factor cascades and inflammation. Trends Neurosci 2007;30:464-72. [PubMed: 17765329]\nCotman CW, Berchtold NC. Exercise: a behavioral intervention to enhance brain health and plasticity. Trends Neurosci 2002;25:295-301. [PubMed: 12086747]\nvan Praag H, Kempermann G, Gage FH. Running increases cell proliferation and neurogenesis in the adult mouse dentate gyrus. Nat Neurosci 1999;2:266-70. [PubMed: 10195220]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_268",
+    "text": "Yasuhara T, Hara K, Maki M, et al. Lack of exercise, via hindlimb suspension, impedes endogenous neurogenesis. Neuroscience 2007;149:182-91. [PubMed: 17869433]\nLou SJ, Liu JY, Chang H, Chen PJ. Hippocampal neurogenesis and gene expression depend on exercise intensity in juvenile rats. Brain Res 2008;1210:48-55. [PubMed: 18423578]\nHellweg S, Johannes S. Physiotherapy after traumatic brain injury: a systematic review of the literature. Brain Inj 2008;22:365-73. [PubMed: 18415716]",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  },
+  {
+    "chunk_id": "nihms122840_269",
+    "text": "Carney NA, Ghajar J. Guidelines for the management of severe traumatic brain injury. Introduction. J Neurotrauma 2007;24 (Suppl 1):S1-2. [PubMed: 17511535]\nMultiple effects (anti-inflammatory, anti-oxidative,",
+    "metadata": {
+      "source": "nihms122840.pdf"
+    }
+  }
+]
