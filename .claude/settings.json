@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Read",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash -c 'echo \"$CLAUDE_TOOL_INPUT\" | python -c \"import sys,json; d=json.load(sys.stdin); sys.exit(2) if \\\".env\\\" in d.get(\\\"file_path\\\",\\\"\\\") else sys.exit(0)\"'"
+          }
+        ]
+      }
+    ]
+  }
+}
