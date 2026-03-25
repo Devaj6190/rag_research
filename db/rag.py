@@ -9,7 +9,7 @@ from openai import OpenAI
 load_dotenv()
 
 COLLECTION_NAME = "paper_chunks_local"
-PERSIST_DIR = r"C:\Users\test6\Documents\chromadb_local"
+PERSIST_DIR = os.environ.get("CHROMA_PERSIST_DIR", "./chromadb_data")
 TOP_K = 5
 
 embedding_function = HuggingFaceEmbeddings(
