@@ -31,9 +31,11 @@ class RAGResult(TypedDict):
     answer: str
     sources: list[dict]  # each: {"text": str, "source": str}
 
-def rag_query_with_sources(query: str) -> RAGResult:
+def rag_query_with_sources(query: str, additional_context: str = "") -> RAGResult:
     results = vector_store.similarity_search(query=query, k=TOP_K)
     context = "\n\n".join(doc.page_content for doc in results)
+    if additional_context:
+        context = f"{context}\n\n--- Uploaded Documents ---\n{additional_context}"
     response = client.chat.completions.create(
         model="deepseek-chat",
         messages=[

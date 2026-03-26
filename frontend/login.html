@@ -3,52 +3,99 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Sign In — RAG Research Assistant</title>
+  <title>Sign In — MedResearch AI</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <style>body { background-color: #111827; }</style>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+    * { font-family: 'Inter', sans-serif; }
+    body {
+      background: radial-gradient(ellipse at 20% 50%, #0d2d3a 0%, #080f1a 50%, #0a1628 100%);
+      min-height: 100vh;
+    }
+    .orb1 {
+      position: fixed; width: 500px; height: 500px; border-radius: 50%;
+      background: radial-gradient(circle, rgba(20,184,166,0.15) 0%, transparent 70%);
+      top: -100px; left: -100px; pointer-events: none;
+    }
+    .orb2 {
+      position: fixed; width: 400px; height: 400px; border-radius: 50%;
+      background: radial-gradient(circle, rgba(56,189,248,0.1) 0%, transparent 70%);
+      bottom: -80px; right: -80px; pointer-events: none;
+    }
+    .glass {
+      background: rgba(255,255,255,0.04);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+    .input-field {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.08);
+      color: #f1f5f9;
+      transition: all 0.2s;
+    }
+    .input-field::placeholder { color: rgba(255,255,255,0.2); }
+    .input-field:focus {
+      outline: none;
+      border-color: rgba(20,184,166,0.5);
+      background: rgba(255,255,255,0.07);
+      box-shadow: 0 0 0 3px rgba(20,184,166,0.1);
+    }
+    .btn-primary {
+      background: linear-gradient(135deg, #0d9488, #0891b2);
+      transition: all 0.2s;
+    }
+    .btn-primary:hover { opacity: 0.9; transform: translateY(-1px); box-shadow: 0 8px 24px rgba(13,148,136,0.3); }
+    .btn-primary:active { transform: translateY(0); }
+  </style>
 </head>
-<body class="bg-gray-900 text-gray-100 min-h-screen flex items-center justify-center px-4">
+<body class="flex items-center justify-center px-4">
+  <div class="orb1"></div>
+  <div class="orb2"></div>
 
-  <div class="w-full max-w-sm flex flex-col gap-6">
-    <div>
-      <h1 class="text-2xl font-bold text-indigo-400">RAG Research Assistant</h1>
-      <p class="text-gray-400 text-sm mt-1">Sign in to continue</p>
+  <div class="w-full max-w-sm relative z-10">
+    <!-- Logo -->
+    <div class="text-center mb-8">
+      <div class="inline-flex items-center justify-center w-12 h-12 rounded-2xl mb-4" style="background: linear-gradient(135deg, #0d9488, #0891b2); box-shadow: 0 8px 32px rgba(13,148,136,0.3);">
+        <svg class="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+        </svg>
+      </div>
+      <h1 class="text-2xl font-bold text-white">MedResearch AI</h1>
+      <p class="text-slate-400 text-sm mt-1">Clinical Research Assistant</p>
     </div>
 
-    <form id="loginForm" class="flex flex-col gap-4">
-      <div class="flex flex-col gap-1">
-        <label class="text-sm text-gray-400" for="username">Username</label>
-        <input
-          id="username"
-          type="text"
-          autocomplete="username"
-          class="rounded-lg bg-gray-800 border border-gray-700 text-gray-100 p-3 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition"
-        />
-      </div>
-      <div class="flex flex-col gap-1">
-        <label class="text-sm text-gray-400" for="password">Password</label>
-        <input
-          id="password"
-          type="password"
-          autocomplete="current-password"
-          class="rounded-lg bg-gray-800 border border-gray-700 text-gray-100 p-3 focus:outline-none focus:ring-2 focus:ring-indigo-500 transition"
-        />
-      </div>
+    <!-- Card -->
+    <div class="glass rounded-2xl p-8">
+      <h2 class="text-base font-semibold text-white mb-1">Welcome back</h2>
+      <p class="text-slate-400 text-sm mb-6">Sign in to access your assistant</p>
 
-      <div id="errorMsg" class="hidden rounded-lg bg-red-900 border border-red-700 text-red-200 px-4 py-3 text-sm"></div>
+      <form id="loginForm" class="flex flex-col gap-4">
+        <div class="flex flex-col gap-1.5">
+          <label class="text-xs font-medium text-slate-400 uppercase tracking-wider" for="username">Username</label>
+          <input id="username" type="text" autocomplete="username" placeholder="Enter username"
+            class="input-field rounded-xl px-4 py-3 text-sm" />
+        </div>
+        <div class="flex flex-col gap-1.5">
+          <label class="text-xs font-medium text-slate-400 uppercase tracking-wider" for="password">Password</label>
+          <input id="password" type="password" autocomplete="current-password" placeholder="Enter password"
+            class="input-field rounded-xl px-4 py-3 text-sm" />
+        </div>
 
-      <button
-        type="submit"
-        id="submitBtn"
-        class="flex items-center justify-center gap-2 px-5 py-2.5 rounded-lg bg-indigo-600 hover:bg-indigo-500 disabled:opacity-50 disabled:cursor-not-allowed font-semibold transition"
-      >
-        <svg id="spinner" class="hidden animate-spin h-4 w-4 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-          <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-          <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"></path>
-        </svg>
-        <span id="btnText">Sign in</span>
-      </button>
-    </form>
+        <div id="errorMsg" class="hidden rounded-xl px-4 py-3 text-sm text-red-300" style="background: rgba(239,68,68,0.1); border: 1px solid rgba(239,68,68,0.2);"></div>
+
+        <button type="submit" id="submitBtn"
+          class="btn-primary mt-1 flex items-center justify-center gap-2 px-5 py-3 rounded-xl text-white font-semibold text-sm disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none">
+          <svg id="spinner" class="hidden animate-spin h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"></path>
+          </svg>
+          <span id="btnText">Sign in</span>
+        </button>
+      </form>
+    </div>
+
+    <p class="text-center text-xs text-slate-600 mt-6">Authorised personnel only</p>
   </div>
 
   <script>
@@ -60,26 +107,20 @@
       const submitBtn = document.getElementById('submitBtn');
       const spinner = document.getElementById('spinner');
       const btnText = document.getElementById('btnText');
-
       if (!username || !password) return;
-
       errorMsg.classList.add('hidden');
       submitBtn.disabled = true;
       spinner.classList.remove('hidden');
       btnText.textContent = 'Signing in…';
-
       try {
         const res = await fetch('/api/login', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
+          method: 'POST', headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ username, password }),
         });
-
         if (!res.ok) {
           const err = await res.json().catch(() => ({ detail: 'Login failed' }));
           throw new Error(err.detail || 'Login failed');
         }
-
         window.location.href = '/';
       } catch (err) {
         errorMsg.textContent = err.message;
