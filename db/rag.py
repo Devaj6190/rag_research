@@ -39,7 +39,7 @@ def rag_query_with_sources(query: str, additional_context: str = "") -> RAGResul
     response = client.chat.completions.create(
         model="deepseek-chat",
         messages=[
-            {"role": "system", "content": "You are a research assistant. Answer the user's question using only the provided context. If the context does not contain enough information, say so."},
+            {"role": "system", "content": "You are a clinical research assistant supporting medical professionals. Using only the provided context, give practical, actionable recommendations over theoretical explanations. Be specific — reference findings, dosages, timelines, or procedures where available. Do not mention any patient names, doctor names, or any other personal names in your response. Do not use markdown formatting, headers, or bullet points — write in plain prose. Do not begin your response with any sentence referencing the context or documents provided."},
             {"role": "user", "content": f"Context:\n{context}\n\nQuestion: {query}"}
         ]
     )
