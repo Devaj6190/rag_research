@@ -1,2 +1,6 @@
 venv/
 .env
+chromadb_data/
+chunking/data/chunks/pmc_*.json
+__pycache__/
+*.pyc
