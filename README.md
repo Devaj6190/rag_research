@@ -81,26 +81,67 @@ Open `http://localhost:8000` in your browser and log in with the credentials fro
 ## Project structure
 
 ```
-rag_research/
-├── app.py                        # FastAPI server + auth + file upload
-├── fetch_papers.py               # PubMed keyword search + PMC full-text fetcher
-├── keyword_graph.py              # Co-occurrence centrality analysis for keyword scoring
+├── .claude/
+│   └── settings.json
 ├── assets/
-│   ├── keywords_final.txt        # Clinical keywords used for paper search
-│   └── keyword_scores.json       # Pre-computed centrality scores (output of keyword_graph.py)
+│   └── keyword_scores.json
 ├── chunking/
-│   ├── chunk.py                  # PDF → chunk JSON pipeline (uses Docling)
-│   └── data/
-│       ├── raw_pdfs/             # Manually added PDFs
-│       └── chunks/               # Chunk JSON files (one per paper)
+│   ├── data/
+│   │   ├── chunks/
+│   │   │   ├── 1-s2.0-S0303846716304176-mainext_chunks.json
+│   │   │   ├── 1-s2.0-S0303846723004055-main_chunks.json
+│   │   │   ├── 1-s2.0-S0967586816303733-main_chunks.json
+│   │   │   ├── 1-s2.0-S1878875018309811-main_chunks.json
+│   │   │   ├── 1-s2.0-S1878875022009019-main_chunks.json
+│   │   │   ├── 1-s2.0-S2590139725000742-main_chunks.json
+│   │   │   ├── 10143_2025_Article_3650_chunks.json
+│   │   │   ├── 12028_2019_Article_773_chunks.json
+│   │   │   ├── biomedicines-12-00311_chunks.json
+│   │   │   ├── cureus-0015-00000040119_chunks.json
+│   │   │   ├── fneur-09-00223_chunks.json
+│   │   │   ├── fneur-13-1075137 (1)_chunks.json
+│   │   │   ├── functional-improvements-associated-with-cranioplasty-after-stroke-and-traumatic-brain-injury-a-cohort-study_chunks.json
+│   │   │   ├── JRMCC-8-42299_chunks.json
+│   │   │   ├── nihms122840_chunks.json
+│   │   │   ├── s10143-021-01511-7_chunks.json
+│   │   │   ├── timing_matters__a_comprehensive_meta_analysis_on.1_chunks.json
+│   │   │   └── traumatic_brain_injury__bridging.4_chunks.json
+│   │   └── raw_pdfs/
+│   │       ├── 1-s2.0-S0303846716304176-mainext.pdf
+│   │       ├── 1-s2.0-S0303846723004055-main.pdf
+│   │       ├── 1-s2.0-S0967586816303733-main.pdf
+│   │       ├── 1-s2.0-S1878875018309811-main.pdf
+│   │       ├── 1-s2.0-S1878875022009019-main.pdf
+│   │       ├── 1-s2.0-S2590139725000742-main.pdf
+│   │       ├── 10143_2025_Article_3650.pdf
+│   │       ├── 12028_2019_Article_773.pdf
+│   │       ├── biomedicines-12-00311.pdf
+│   │       ├── cureus-0015-00000040119.pdf
+│   │       ├── fneur-09-00223.pdf
+│   │       ├── fneur-13-1075137 (1).pdf
+│   │       ├── functional-improvements-associated-with-cranioplasty-after-stroke-and-traumatic-brain-injury-a-cohort-study.pdf
+│   │       ├── JRMCC-8-42299.pdf
+│   │       ├── nihms122840.pdf
+│   │       ├── s10143-021-01511-7.pdf
+│   │       ├── timing_matters__a_comprehensive_meta_analysis_on.1.pdf
+│   │       └── traumatic_brain_injury__bridging.4.pdf
+│   └── chunk.py
 ├── db/
-│   ├── ingest.py                 # Load chunks → ChromaDB
-│   ├── rag.py                    # Core RAG logic: retrieval + DeepSeek generation
-│   └── query.py                  # CLI query tool
+│   ├── __init__.py
+│   ├── ingest.py
+│   ├── query.py
+│   ├── rag.py
+│   └── test.py
 ├── frontend/
-│   ├── index.html                # Main UI
-│   └── login.html                # Auth page
-└── chromadb_data/                # Local vector DB (gitignored, built on first run)
+│   ├── index.html
+│   └── login.html
+├── .gitignore
+├── .python-version
+├── app.py
+├── fetch_papers.py
+├── keyword_graph.py
+├── README.md
+└── requirements.txt
 ```
 
 ## Features
